@@ -2,29 +2,33 @@ name: Mise à jour de la base de fact-checks
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Tous les jours à 03:00 UTC
-  workflow_dispatch: # Déclenchement manuel
+    - cron: '0 6 * * *'  # Tous les jours à 06:00 UTC
+  workflow_dispatch:       # Déclenchement manuel depuis l'onglet Actions
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 120  # Le mode HISTORIQUE peut être long
 
     steps:
       - name: Checkout du dépôt
         uses: actions/checkout@v4
 
-      - name: Installation de Python
+      - name: Installation de Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Installation des dépendances
         run: pip install -r requirements.txt
 
       - name: Lancement du scraper
+        env:
+          SCRAPE_MODE: ${{ vars.SCRAPE_MODE || 'QUOTIDIEN' }}
         run: python scraper.py
 
       - name: Commit et push si changements
@@ -32,4 +36,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/factchecks.json
-          git diff --cached --quiet || (git commit -m "🔄 Mise à jour automatique de la base de fact-checks" && git push)
+          git diff --cached --quiet || (
+            git commit -m "🔄 Mise à jour automatique — $(date -u +%Y-%m-%d) [${SCRAPE_MODE:-QUOTIDIEN}]" &&
+            git push
+          )
+        env:
+          SCRAPE_MODE: ${{ vars.SCRAPE_MODE || 'QUOTIDIEN' }}
