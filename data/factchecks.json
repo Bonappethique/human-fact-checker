@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T12:47:23Z",
+  "last_updated": "2026-03-16T07:56:13Z",
   "total_count": 150,
   "sources": [
     "AFP Fact Check",
@@ -14,6 +14,39 @@
     "Africa Check"
   ],
   "factchecks": [
+    {
+      "title": "Pro-russisch und rechtsextrem: Das internationale Netzwerk von „Anonymous News“",
+      "claim": "Pro-russisch und rechtsextrem: Das internationale Netzwerk von „Anonymous News“",
+      "verdict_text": "À vérifier",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Die Webseite „Anonymous News“ spielt der russischen Regierung in die Hände: Sie verbreitet rechtsextreme Ideologien, sanktionierte Webseiten und Desinformation. Seit mehr als zehn Jahren – ohne Konsequenzen.",
+      "source_name": "Correctiv",
+      "source_url": "https://correctiv.org/faktencheck/hintergrund/2026/03/16/anonymous-news-prorussisch-und-rechtsextrem-internationales-netzwerk-bis-russland/",
+      "date_published": "2026-03-16",
+      "lang": "de"
+    },
+    {
+      "title": "Résultats des élections municipales 2026 : le point sur les villes à fort enjeu et sur les ministres en lice",
+      "claim": "Résultats des élections municipales 2026 : le point sur les villes à fort enjeu et sur les ministres en lice",
+      "verdict_text": "À vérifier",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Ministres ou personnalités d’envergure nationale en lice, métropoles qui pourraient basculer… Suivez les résultats du premier tour dans des villes particulièrement scrutées.",
+      "source_name": "Les Décodeurs – Le Monde",
+      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/15/municipales-2026-les-resultats-dans-les-villes-a-fort-enjeu_6671332_4355770.html",
+      "date_published": "2026-03-15",
+      "lang": "fr"
+    },
+    {
+      "title": "La carte des résultats des municipales au premier tour en temps réel",
+      "claim": "La carte des résultats des municipales au premier tour en temps réel",
+      "verdict_text": "À vérifier",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Listes arrivées en tête, scores des différents partis, maires déjà élus… Suivez les résultats du premier tour des municipales en temps réel avec nos cartes.",
+      "source_name": "Les Décodeurs – Le Monde",
+      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/15/la-carte-des-resultats-des-municipales-au-premier-tour-en-temps-reel_6671322_4355770.html",
+      "date_published": "2026-03-15",
+      "lang": "fr"
+    },
     {
       "title": "Municipales 2026 : découvrez les listes de candidats dans votre commune grâce à notre moteur de recherche",
       "claim": "Municipales 2026 : découvrez les listes de candidats dans votre commune grâce à notre moteur de recherche",
@@ -30,7 +63,7 @@
       "claim": "Anne Abeillé, linguiste : « Dire que la langue française s’appauvrit, c’est convoquer un danger imaginaire »",
       "verdict_text": "À vérifier",
       "verdict_category": "NUANCÉ",
-      "explanation": "Des membres de l’Académie française, lors de l’hommage rendu à l’historienne et académicienne Hélène Carrère d'Encausse, aux Invalides, à Paris, le 3 octobre 2023.",
+      "explanation": "Des membres de l’Académie française, lors de l’hommage rendu à l’historienne et académicienne Hélène Carrère d’Encausse, aux Invalides, à Paris, le 3 octobre 2023.",
       "source_name": "Les Décodeurs – Le Monde",
       "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/15/anne-abeille-linguiste-dire-que-la-langue-francaise-s-appauvrit-c-est-convoquer-un-danger-imaginaire_6671270_4355770.html",
       "date_published": "2026-03-15",
@@ -1016,17 +1049,6 @@
       "lang": "fr"
     },
     {
-      "title": "Municipales 2026 : comment et où faire sa procuration avant les votes des 15 et 22 mars ?",
-      "claim": "Municipales 2026 : comment et où faire sa procuration avant les votes des 15 et 22 mars ?",
-      "verdict_text": "À vérifier",
-      "verdict_category": "NUANCÉ",
-      "explanation": "Il n’existe pas de date limite officielle pour établir une procuration. Mais plus vous repoussez le moment de la réaliser, plus le risque augmente qu’elle ne soit pas validée à temps.",
-      "source_name": "Les Décodeurs – Le Monde",
-      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/09/municipales-2026-comment-et-ou-faire-sa-procuration-avant-les-votes-des-15-et-22-mars_6670105_4355770.html",
-      "date_published": "2026-03-09",
-      "lang": "fr"
-    },
-    {
       "title": "Erster Ministerpräsident im Migrationsländle",
       "claim": "Erster Ministerpräsident im Migrationsländle",
       "verdict_text": "À vérifier",
@@ -1047,17 +1069,6 @@
       "source_url": "https://correctiv.org/aktuelles/extremismus/2026/03/09/nicht-mehr-gefaehrlich-genug-der-verfassungsschutz-und-die-szene-der-corona-schwurbler/",
       "date_published": "2026-03-09",
       "lang": "de"
-    },
-    {
-      "title": "« Joyeuse fête de la femme ! » : huit idées reçues sur la Journée internationale des droits des femmes",
-      "claim": "« Joyeuse fête de la femme ! » : huit idées reçues sur la Journée internationale des droits des femmes",
-      "verdict_text": "À vérifier",
-      "verdict_category": "NUANCÉ",
-      "explanation": "Affiches « On se lève et on se casse » lors de la marche pour la Journée internationale des droits des femmes, le 8 mars 2020, à Paris.",
-      "source_name": "Les Décodeurs – Le Monde",
-      "source_url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/08/joyeuse-fete-de-la-femme-huit-idees-recues-sur-la-journee-internationale-des-droits-des-femmes_6072287_4355771.html",
-      "date_published": "2026-03-08",
-      "lang": "fr"
     },
     {
       "title": "Social Media - Iran did not release a list of U.S. targets, despite social media claims",
@@ -1650,17 +1661,6 @@
       "explanation": "Die Verwandtschaftsaffäre erschüttert die AfD – und das völkische Lager nutzt die Vorwürfe, um interne Machtverhältnisse zu verschieben. Besonders in NRW, Niedersachsen und Sachsen-Anhalt toben Grabenkämpfe. Die Parteispitze sucht in einer Krisensitzung nach Antworten.",
       "source_name": "Correctiv",
       "source_url": "https://correctiv.org/aktuelles/afd/2026/02/24/afd-vetternwirtschaft-machtkampf-nrw-helferich-weidel/",
-      "date_published": "2026-02-24",
-      "lang": "de"
-    },
-    {
-      "title": "Ukraine-Krieg dauere länger als Zweiter Weltkrieg: Fachleute kritisieren Aussage von Merz",
-      "claim": "Ukraine-Krieg dauere länger als Zweiter Weltkrieg: Fachleute kritisieren Aussage von Merz",
-      "verdict_text": "À vérifier",
-      "verdict_category": "NUANCÉ",
-      "explanation": "Eine Aussage von Bundeskanzler Friedrich Merz, wonach der Krieg gegen die Ukraine nun länger dauere als der Zweite Weltkrieg, geht viral. Manche zweifeln an der Echtheit des Zitats, andere am Inhalt. Fachleute kritisieren Merz für seine Aussage.",
-      "source_name": "Correctiv",
-      "source_url": "https://correctiv.org/faktencheck/hintergrund/2026/02/24/ukraine-krieg-dauere-laenger-als-zweiter-weltkrieg-fachleute-kritisieren-aussage-von-merz/",
       "date_published": "2026-02-24",
       "lang": "de"
     }
