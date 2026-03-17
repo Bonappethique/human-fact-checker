@@ -2,16 +2,16 @@ name: Mise à jour de la base de fact-checks
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Tous les jours à 06:00 UTC
-  workflow_dispatch:       # Déclenchement manuel depuis l'onglet Actions
+    - cron: '0 3 * * *'  # Tous les jours à 03:00 UTC
+  workflow_dispatch:       # Déclenchement manuel
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # Le mode HISTORIQUE peut être long
+    timeout-minutes: 60
 
     steps:
       - name: Checkout du dépôt
@@ -26,8 +26,9 @@ jobs:
       - name: Installation des dépendances
         run: pip install -r requirements.txt
 
-      - name: Lancement du scraper
+      - name: Lancement du collecteur
         env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           SCRAPE_MODE: ${{ vars.SCRAPE_MODE || 'QUOTIDIEN' }}
         run: python scraper.py
 
@@ -37,7 +38,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/factchecks.json
           git diff --cached --quiet || (
-            git commit -m "🔄 Mise à jour automatique — $(date -u +%Y-%m-%d) [${SCRAPE_MODE:-QUOTIDIEN}]" &&
+            git commit -m "🔄 MAJ fact-checks — $(date -u +%Y-%m-%d) [${SCRAPE_MODE:-QUOTIDIEN}]" &&
             git push
           )
         env:
