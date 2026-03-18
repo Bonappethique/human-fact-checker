@@ -17,7 +17,7 @@ import json
 import os
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -35,6 +35,21 @@ LANGUAGES = ["fr", "en"]
 PAGE_SIZE = 100  # max autorisé par Google
 MAX_PAGES_PER_QUERY = 20  # garde-fou anti-boucle infinie
 DELAY_BETWEEN_REQUESTS = 0.5  # secondes — respect du quota
+
+# ── Requêtes thématiques (FR + EN) ──────────────────────────────────────────
+
+SEARCH_QUERIES = [
+    # Français
+    "politique", "santé", "vaccin", "climat", "immigration",
+    "économie", "élections", "guerre", "énergie", "Europe",
+    "France", "Africa", "technologie", "agriculture", "USA",
+    "genre", "femmes", "Asie", "médias", "démocratie", "culture",
+    # English
+    "politics", "health", "vaccine", "climate",
+    "economy", "elections", "war", "energy",
+    "technology", "gender", "women", "Asia",
+    "media", "democracy", "culture",
+]
 
 # Mapping verdict Google → catégorie française
 VERDICT_MAP = {
@@ -87,7 +102,7 @@ def load_existing() -> dict:
 def get_cutoff_date(existing: dict) -> datetime:
     """Détermine la date à partir de laquelle chercher."""
     if MODE == "HISTORIQUE":
-        return datetime.utcnow() - relativedelta(years=2)
+        return datetime.now(timezone.utc) - relativedelta(years=2)
 
     if existing["factchecks"]:
         dates = []
@@ -99,10 +114,10 @@ def get_cutoff_date(existing: dict) -> datetime:
         if dates:
             return max(dates)
 
-    return datetime.utcnow() - timedelta(days=7)
+    return datetime.now(timezone.utc) - timedelta(days=7)
 
 
-def search_api(query: str = "", language: str = "fr",
+def search_api(query: str, language: str = "fr",
                max_age_days: int | None = None) -> list[dict]:
     """Interroge l'API Google Fact Check avec pagination complète."""
     results = []
@@ -111,11 +126,10 @@ def search_api(query: str = "", language: str = "fr",
     for page in range(MAX_PAGES_PER_QUERY):
         params = {
             "key": API_KEY,
+            "query": query,
             "languageCode": language,
             "pageSize": PAGE_SIZE,
         }
-        if query:
-            params["query"] = query
         if max_age_days and max_age_days > 0:
             params["maxAgeDays"] = max_age_days
         if page_token:
@@ -125,6 +139,10 @@ def search_api(query: str = "", language: str = "fr",
 
         try:
             resp = requests.get(url, timeout=30)
+            if resp.status_code == 400:
+                print(f"  ⚠ 400 Bad Request pour query='{query}' lang={language}")
+                print(f"    Body: {resp.text[:500]}")
+                break
             if resp.status_code == 429:
                 print("  ⏳ Rate limit atteint, pause 10s…")
                 time.sleep(10)
@@ -196,31 +214,32 @@ def merge(existing: list[dict], new_entries: list[dict]) -> list[dict]:
 
 
 def collect_historical() -> list[dict]:
-    """Mode HISTORIQUE : balaye mois par mois sur 2 ans, par langue."""
+    """Mode HISTORIQUE : balaye query × langue × mois sur 2 ans."""
     all_entries = []
-    now = datetime.utcnow()
+    now = datetime.now(timezone.utc)
     start = now - relativedelta(years=2)
 
-    for lang in LANGUAGES:
-        current = start
-        while current < now:
-            next_month = current + relativedelta(months=1)
-            days_diff = (min(next_month, now) - current).days
-            if days_diff <= 0:
-                break
+    for query in SEARCH_QUERIES:
+        for lang in LANGUAGES:
+            current = start
+            while current < now:
+                next_month = current + relativedelta(months=1)
+                days_diff = (min(next_month, now) - current).days
+                if days_diff <= 0:
+                    break
 
-            label = current.strftime("%Y-%m")
-            age_from_now = (now - current).days
-            print(f"📅 [{lang.upper()}] Période {label} ({days_diff}j)…")
+                label = current.strftime("%Y-%m")
+                age_from_now = (now - current).days
+                print(f"📅 [{lang.upper()}] «{query}» {label} ({days_diff}j)…")
 
-            claims = search_api(language=lang, max_age_days=age_from_now)
-            for c in claims:
-                all_entries.extend(parse_claim(c))
+                claims = search_api(query=query, language=lang, max_age_days=age_from_now)
+                for c in claims:
+                    all_entries.extend(parse_claim(c))
 
-            current = next_month
-            time.sleep(DELAY_BETWEEN_REQUESTS)
+                current = next_month
+                time.sleep(DELAY_BETWEEN_REQUESTS)
 
-        # Dédupliquer au fur et à mesure
+        # Dédupliquer après chaque query
         seen = {}
         deduped = []
         for e in all_entries:
@@ -236,14 +255,15 @@ def collect_historical() -> list[dict]:
 def collect_incremental(cutoff: datetime) -> list[dict]:
     """Mode QUOTIDIEN : ne récupère que les articles récents."""
     all_entries = []
-    days_since = max(1, (datetime.utcnow() - cutoff).days + 1)
+    days_since = max(1, (datetime.now(timezone.utc) - cutoff).days + 1)
 
-    for lang in LANGUAGES:
-        print(f"🔄 [{lang.upper()}] Derniers {days_since} jours…")
-        claims = search_api(language=lang, max_age_days=days_since)
-        for c in claims:
-            all_entries.extend(parse_claim(c))
-        time.sleep(DELAY_BETWEEN_REQUESTS)
+    for query in SEARCH_QUERIES:
+        for lang in LANGUAGES:
+            print(f"🔄 [{lang.upper()}] «{query}» derniers {days_since}j…")
+            claims = search_api(query=query, language=lang, max_age_days=days_since)
+            for c in claims:
+                all_entries.extend(parse_claim(c))
+            time.sleep(DELAY_BETWEEN_REQUESTS)
 
     print(f"📊 Total incrémental : {len(all_entries)} articles bruts")
     return all_entries
@@ -256,6 +276,7 @@ def main():
 
     print(f"🚀 Vérificateur Souverain — Mode {MODE}")
     print(f"   Langues : {', '.join(LANGUAGES)}")
+    print(f"   Thèmes : {len(SEARCH_QUERIES)} requêtes")
 
     existing = load_existing()
     cutoff = get_cutoff_date(existing)
@@ -271,7 +292,7 @@ def main():
 
     sources = sorted(set(fc["source_name"] for fc in all_factchecks if fc.get("source_name")))
     output = {
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_count": len(all_factchecks),
         "sources": sources,
         "factchecks": all_factchecks,
