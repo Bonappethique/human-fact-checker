@@ -108,7 +108,7 @@ def get_cutoff_date(existing: dict) -> datetime:
         dates = []
         for fc in existing["factchecks"]:
             try:
-                dates.append(parse_date(fc.get("date_published", "")))
+                dates.append(parse_date(fc.get("date_published", "")).replace(tzinfo=timezone.utc))
             except (ValueError, TypeError):
                 continue
         if dates:
