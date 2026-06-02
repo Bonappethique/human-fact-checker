@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T08:39:32Z",
-  "total_count": 7984,
+  "last_updated": "2026-06-02T07:28:25Z",
+  "total_count": 7985,
   "sources": [
     "11Alive.com",
     "12News",
@@ -136,6 +136,17 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Il n'y a qu'en France où la victoire d'un club de foot provoque des émeutes.",
+      "title": "VRAI OU FAUX. Violences après le sacre européen du PSG : la ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Il n'y a qu'en France où la victoire d'un club de foot provoque des émeutes.",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-violences-apres-le-sacre-europeen-du-psg-la-france-est-elle-le-seul-pays-ou-la-victoire-d-un-club-de-foot-provoque-des-emeutes-comme-l-affirme-marine-le-pen_8039525.html",
+      "date_published": "2026-06-02",
+      "lang": "fr"
+    },
     {
       "claim": "Royaume-Uni : Un migrant cède à la violence à cause d’une console de jeux",
       "title": "Royaume-Uni : Un migrant cède à la violence à cause d’une console de jeux ? C’est un détournement",
