@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T08:22:43Z",
-  "total_count": 7985,
+  "last_updated": "2026-06-04T07:27:51Z",
+  "total_count": 7990,
   "sources": [
     "11Alive.com",
     "12News",
@@ -137,6 +137,39 @@
   ],
   "factchecks": [
     {
+      "claim": "South Africa sets June 30 deportation deadline",
+      "title": "South African government did not issue a June 30 ultimatum to ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South Africa sets June 30 deportation deadline",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B3XN49E",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows a large protest in the UK and features an interview with a man from the crowd complaining about the cost of living, immigration and NHS waiting lists.",
+      "title": "Cost of living protest video is AI generated – Full Fact",
+      "verdict_label": "The video is fake. Both the audio and video contain a SynthID watermark showing they have been made with AI tools, the footage includes visual glitches and does not match the real geography of London.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows a large protest in the UK and features an interview with a man from the crowd complaining about the cost of living, immigration and NHS waiting lists.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/cost-of-living-protest-video-fake/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Zulu women protest against poor treatment of foreign husbands",
+      "title": "Old protest photo falsely recast as South African women rallying for ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Zulu women protest against poor treatment of foreign husbands",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4Q2263",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
       "claim": "Il n'y a qu'en France où la victoire d'un club de foot provoque des émeutes.",
       "title": "VRAI OU FAUX. Violences après le sacre européen du PSG : la ...",
       "verdict_label": "Faux",
@@ -146,6 +179,28 @@
       "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-violences-apres-le-sacre-europeen-du-psg-la-france-est-elle-le-seul-pays-ou-la-victoire-d-un-club-de-foot-provoque-des-emeutes-comme-l-affirme-marine-le-pen_8039525.html",
       "date_published": "2026-06-02",
       "lang": "fr"
+    },
+    {
+      "claim": "In late May 2026, immigrants without legal authorization to be in the U.S. slaughtered two family horses in Florida for their meat.",
+      "title": "Social posts blame old case of slaughtered Florida horses on 'illegal ...",
+      "verdict_label": "Mostly False",
+      "verdict_category": "FAUX",
+      "explanation": "In late May 2026, immigrants without legal authorization to be in the U.S. slaughtered two family horses in Florida for their meat.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/florida-horses-slaughtered/",
+      "date_published": "2026-06-02",
+      "lang": "en"
+    },
+    {
+      "claim": "South Korea's early voting system is easily hacked",
+      "title": "Conspiracy theories targeting S.Korean election integrity resurface ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South Korea's early voting system is easily hacked",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4DB3G4",
+      "date_published": "2026-06-02",
+      "lang": "en"
     },
     {
       "claim": "Royaume-Uni : Un migrant cède à la violence à cause d’une console de jeux",
