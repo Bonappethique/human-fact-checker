@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T07:27:51Z",
-  "total_count": 7990,
+  "last_updated": "2026-06-05T07:13:11Z",
+  "total_count": 8006,
   "sources": [
     "11Alive.com",
     "12News",
@@ -21,6 +21,7 @@
     "Boom Live",
     "CBS19",
     "Check Your Fact",
+    "Consumer Watchdog",
     "DE FACTO",
     "DW News",
     "DW.com",
@@ -137,6 +138,94 @@
   ],
   "factchecks": [
     {
+      "claim": "Social media posts claiming that a long list of athletes called the mandatory wearing of LGBT armbands a \"political charade\" and said they play for their team, not any movement, are real.",
+      "title": "Fact Check: Posts Saying Athlete Called Mandatory LGBT Armband Wearing A 'Political Charade' And Refused To Comply Are NOT Real -- Spam From Vietnam",
+      "verdict_label": "Viet Spam",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Social media posts claiming that a long list of athletes called the mandatory wearing of LGBT armbands a \"political charade\" and said they play for their team, not any movement, are real.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-posts-saying-your-fav-athelete-called-mandatory-lgbt-armbads-political-charade.html",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "“After 15 years of Dumocrats promising that ‘Climate Change’ is going to destroy the Planet, the United Nations TOP Climate Committee just admitted that its own projections (RCP8.5) were WRONG! WRONG! WRONG!”",
+      "title": "Trump Misrepresents Climate Change Scenarios",
+      "verdict_label": "Distorts the facts",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "“After 15 years of Dumocrats promising that ‘Climate Change’ is going to destroy the Planet, the United Nations TOP Climate Committee just admitted that its own projections (RCP8.5) were WRONG! WRONG! WRONG!”",
+      "source_name": "FactCheck.org",
+      "source_url": "https://www.factcheck.org/2026/06/trump-misrepresents-climate-change-scenarios/",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Genetically engineered ticks are being weaponized to push veganism, climate agenda",
+      "title": "As lone star tick spreads in North America, posts baselessly blame 'climate agenda'",
+      "verdict_label": "Partly false",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Genetically engineered ticks are being weaponized to push veganism, climate agenda",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4RV3CR",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "A May 2026 court ruling in Delaware allows corporations to vote in American elections.",
+      "title": "Rumor about Delaware court ruling allowing corporations to vote is missing context",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "A May 2026 court ruling in Delaware allows corporations to vote in American elections.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/delaware-corporations-vote/",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "S.Korean ballots transported by Chinese national proves election meddling",
+      "title": "S.Korean posts misrepresent election worker's video to spread Chinese interference narrative",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "S.Korean ballots transported by Chinese national proves election meddling",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4RL6ZQ",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Le Cambodge ordonne à tous les ressortissants africains de quitter le pays.",
+      "title": "Le prétendu communiqué ordonnant aux ressortissants africains de quitter le Cambodge est un faux",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le Cambodge ordonne à tous les ressortissants africains de quitter le pays.",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B4UX9WE",
+      "date_published": "2026-06-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump did not appear in public for a week after having a stroke in late May 2026.",
+      "title": "Did Trump stay out of public eye after having stroke? We set the record straight",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump did not appear in public for a week after having a stroke in late May 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-stroke-public-appearances/",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Ralph Nader Warns Uber CEO: “If You Claim Your Technology Is Safe, You Should Not Fear a Legal System of Accountability”",
+      "title": "Ralph Nader Warns Uber CEO: “If You Claim Your Technology Is ...",
+      "verdict_label": "False / Misleading",
+      "verdict_category": "FAUX",
+      "explanation": "Ralph Nader Warns Uber CEO: “If You Claim Your Technology Is Safe, You Should Not Fear a Legal System of Accountability”",
+      "source_name": "Consumer Watchdog",
+      "source_url": "https://consumerwatchdog.org/accountability/ralph-nader-warns-uber-ceo-if-you-claim-your-technology-is-safe-you-should-not-fear-a-legal-system-of-accountability/",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
       "claim": "South Africa sets June 30 deportation deadline",
       "title": "South African government did not issue a June 30 ultimatum to ...",
       "verdict_label": "False",
@@ -166,6 +255,83 @@
       "explanation": "Zulu women protest against poor treatment of foreign husbands",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B4Q2263",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "S. Korean officials cover cameras at polling stations to rig elections.",
+      "title": "South Korean posts misrepresent covered CCTV cameras as evidence of vote-rigging scheme",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "S. Korean officials cover cameras at polling stations to rig elections.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4P469E",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "There will be no elections in 2028, and President Ferdinand Marcos Jr. will be replaced by his son, House Majority Leader Sandro Marcos.",
+      "title": "FACT CHECK: 'No 2028 election' claim is 'fake news,' Malacañang says",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "There will be no elections in 2028, and President Ferdinand Marcos Jr. will be replaced by his son, House Majority Leader Sandro Marcos.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/no-election-2028-fake-ferdinand-marcos-imee/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Les populations étrangères ont été multipliées par 4 en Europe en 25 ans comme le montre un tableau relayé par Elon Musk",
+      "title": "VÉRIF' - Les populations étrangères ont-elles quadruplé en Europe ces 25 dernières années, comme le partage Elon Musk ?",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les populations étrangères ont été multipliées par 4 en Europe en 25 ans comme le montre un tableau relayé par Elon Musk",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/verif-les-populations-etrangeres-ont-elles-quadruple-en-europe-ces-25-dernieres-annees-comme-le-partage-elon-musk-2445188.html",
+      "date_published": "2026-06-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video purportedly shows Spanish tennis player Rafael Jodar pushing a ball girl at the 2026 French Open Tournament.",
+      "title": "Did Rafael Jodar really push a ball girl during the 2026 French Open? Fact Check",
+      "verdict_label": "The claim is false. The viral clip does not show Rafael Jodar pushing a ball girl during the 2026 French Open. Video evidence from a different angle, including slow-motion footage, indicates that the ball girl, was letting the player go for a break but tripped over the court cover, and at the same time Jodar raised his hand talking to his father which shows as if he is pushing the girl. In press conference he explicitly denied any claims of touching or pushing her.",
+      "verdict_category": "FAUX",
+      "explanation": "Video purportedly shows Spanish tennis player Rafael Jodar pushing a ball girl at the 2026 French Open Tournament.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/did-rafael-jodar-really-push-a-ball-girl-during-the-2026-french-open-fact-check/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Images posted online in May and June 2026 authentically show water towers from various U.S. states painted with the text, \"YOU CAN'T DRINK DATA.\"",
+      "title": "Images allegedly show water towers across US with anti-data center messaging. Are they real?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "Images posted online in May and June 2026 authentically show water towers from various U.S. states painted with the text, \"YOU CAN'T DRINK DATA.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/us-water-towers-anti-data-center-messaging/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "An authentic screenshot of a Newsweek article accurately quoted Dr. Mehmet Oz saying this about U.S. President Donald Trump: \"He likes to do the thing where I hold his scrotum and tell him to cough.\"",
+      "title": "Purported Newsweek screenshot alleging Oz said Trump likes 'cough test' during physical exam holds no weight",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "An authentic screenshot of a Newsweek article accurately quoted Dr. Mehmet Oz saying this about U.S. President Donald Trump: \"He likes to do the thing where I hold his scrotum and tell him to cough.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/newsweek-oz-trump-cough-test/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows transgender women assaulting Pakistan Army Major General Faisal Naseer in Thailand for not paying the promised amount.",
+      "title": "This viral video does not show Pakistan Army Major General Faisal Naseer or Indian Army Lieutenant General Rajiv Sahni being assaulted in Thailand",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows transgender women assaulting Pakistan Army Major General Faisal Naseer in Thailand for not paying the promised amount.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/this-viral-video-does-not-show-pakistan-army-major-general-faisal-naseer-or-indian-army-lieutenant-general-rajiv-sahni-being-assaulted-in-thailand/",
       "date_published": "2026-06-03",
       "lang": "en"
     },
@@ -88023,6 +88189,17 @@
       "explanation": "Video allegedly showed Tamil Nadu Chief Minister C. Joseph Vijay avoiding questions from the media regarding women’s safety in the state following the recent rape and murder of a 10-year-old girl in Coimbatore.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/pti-fact-check-old-video-of-c-joseph-vijay-evading-media-questions-falsely-shared-as-him-avoiding-questions-on-women-s-safety-details-inside/3709070",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A purported Amul creative was shared online, claiming that the dairy brand had mocked the Mamata Banerjee-led Trinamool Congress (TMC) through its creative following the party's defeat in the West Bengal Assembly elections.",
+      "title": "PTI Fact Check: This 'Amul creative' showing a pun targeting Trinamool Congress is AI-generated photo; details inside",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A purported Amul creative was shared online, claiming that the dairy brand had mocked the Mamata Banerjee-led Trinamool Congress (TMC) through its creative following the party's defeat in the West Bengal Assembly elections.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/this-amul-creative-showing-a-pun-targeting-trinamool-congress-is-ai-generated-photo-details-inside/3734499",
       "date_published": "",
       "lang": "en"
     }
