@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T07:13:11Z",
-  "total_count": 8006,
+  "last_updated": "2026-06-06T06:33:42Z",
+  "total_count": 8026,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,160 @@
   ],
   "factchecks": [
     {
+      "claim": "Il y a 500.000 immigrés qui entrent en France légalement chaque année",
+      "title": "Immigration : des chercheurs alertent sur la prolifération d'analyses biaisées",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Il y a 500.000 immigrés qui entrent en France légalement chaque année",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B46Q7NQ",
+      "date_published": "2026-06-05",
+      "lang": "fr"
+    },
+    {
+      "claim": "Clip of undocmented migrants leaving India's West Bengal state.",
+      "title": "Months-old video from Islamic gathering misrepresented as exodus from Indian state",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Clip of undocmented migrants leaving India's West Bengal state.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4QB9ZQ",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Alan Peter Cayetano resigned as Senate president. Sherwin Gatchalian is the newly elected Senate president.",
+      "title": "FACT CHECK: Cayetano did NOT resign as Senate president; NO new successor after June 3 shakeup",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Alan Peter Cayetano resigned as Senate president. Sherwin Gatchalian is the newly elected Senate president.",
+      "source_name": "VERA Files",
+      "source_url": "https://verafiles.org/articles/fact-check-cayetano-did-not-resign-as-senate-president-no-new-successor-after-june-3-shakeup",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "United States attack Iranian airforce bases",
+      "title": "Old video of Dubai fire misrepresented as recent US airstrikes on Iran",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "United States attack Iranian airforce bases",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4Q239E",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Video purportedly shows attack on a U.S. base in Kuwait by Iranian forces.",
+      "title": "Does this video really show Iran attacking a U.S. base in Kuwait? Fact Check",
+      "verdict_label": "The claim is misleading. While Iran did attack Kuwait in response to a U.S. strike, the video does not show any attack on a U.S. base in Kuwait. It is misattributed footage from a fireworks factory explosion in Malta on June 1, 2026.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Video purportedly shows attack on a U.S. base in Kuwait by Iranian forces.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/does-this-video-really-show-iran-attacking-a-u-s-base-in-kuwait-fact-check/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "A chart held by U.S. President Donald Trump accurately depicted the size of the Lincoln Memorial Reflecting Pool compared with the Willis Tower, the Empire State Building and One World Trade Center.",
+      "title": "Trump flaunted mostly accurate chart comparing reflecting pool to US skyscrapers",
+      "verdict_label": "Mostly True",
+      "verdict_category": "VRAI",
+      "explanation": "A chart held by U.S. President Donald Trump accurately depicted the size of the Lincoln Memorial Reflecting Pool compared with the Willis Tower, the Empire State Building and One World Trade Center.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-reflecting-pool-chart/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Video authentically shows U.S. President Donald Trump dozing off during a coal industry announcement in the Oval Office on June 4, 2026.",
+      "title": "Do videos show Trump appearing to fall asleep during Oval Office coal industry announcement?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Video authentically shows U.S. President Donald Trump dozing off during a coal industry announcement in the Oval Office on June 4, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-fall-asleep-oval-office/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Canada rejected United States' request for $573 railway bailout",
+      "title": "AI videos spread false rumor on Canada denying US rail bailout",
+      "verdict_label": "Unsubstantiated",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Canada rejected United States' request for $573 railway bailout",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4TF4CQ",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. Department of Justice charged two foreign-born researchers from the National Institutes of Health with smuggling the monkeypox virus into the U.S. in June 2026.",
+      "title": "DOJ charged 2 NIH scientists with smuggling deactivated monkeypox virus into US",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The U.S. Department of Justice charged two foreign-born researchers from the National Institutes of Health with smuggling the monkeypox virus into the U.S. in June 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/nih-scientists-monkeypox-virus/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a post by U.S. President Donald Trump featuring an image of him as a muscular football star surrounded by shirtless male cheerleaders.",
+      "title": "Did Trump post image of himself as football star surrounded by male cheerleaders?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a post by U.S. President Donald Trump featuring an image of him as a muscular football star surrounded by shirtless male cheerleaders.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-football-truth-social-post/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "New York lawmakers passed a bill changing the words \"mother\" and \"father\" to \"gestating parent\" and \"non-gestating parent\" in parts of state law.",
+      "title": "New York bill would replace 'mother' and 'father' with gender-neutral ...",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "New York lawmakers passed a bill changing the words \"mother\" and \"father\" to \"gestating parent\" and \"non-gestating parent\" in parts of state law.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/new-york-mother-father-gestating/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a woman being rescued from the fire that broke out in Delhi’s Malviya Nagar area on 3 June 2026.",
+      "title": "Old Philippines fire rescue video falsely linked to Delhi’s Malviya Nagar fire tragedy",
+      "verdict_label": "MISLEADING",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Video shows a woman being rescued from the fire that broke out in Delhi’s Malviya Nagar area on 3 June 2026.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/old-philippines-fire-rescue-video-falsely-linked-to-delhis-malviya-nagar-fire-tragedy/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Hindu Woman who was raped in front of her father in Bangladesh",
+      "title": "Month-old video falsely viral as Hindu girl raped in front of father in Bangladesh",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Hindu Woman who was raped in front of her father in Bangladesh",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/month-old-video-falsely-viral-as-hindu-girl-raped-in-front-of-father-in-bangladesh/",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Video of extremists cutting Hindu women's hair in Bangladesh",
+      "title": "Video of Women's Hair Being Chopped In Bangladesh Shared With ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video of extremists cutting Hindu women's hair in Bangladesh",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/video-of-womens-hair-being-chopped-in-bangladesh-shared-with-communal-spin-31702",
+      "date_published": "2026-06-05",
+      "lang": "en"
+    },
+    {
       "claim": "Social media posts claiming that a long list of athletes called the mandatory wearing of LGBT armbands a \"political charade\" and said they play for their team, not any movement, are real.",
       "title": "Fact Check: Posts Saying Athlete Called Mandatory LGBT Armband Wearing A 'Political Charade' And Refused To Comply Are NOT Real -- Spam From Vietnam",
       "verdict_label": "Viet Spam",
@@ -222,6 +376,17 @@
       "explanation": "Ralph Nader Warns Uber CEO: “If You Claim Your Technology Is Safe, You Should Not Fear a Legal System of Accountability”",
       "source_name": "Consumer Watchdog",
       "source_url": "https://consumerwatchdog.org/accountability/ralph-nader-warns-uber-ceo-if-you-claim-your-technology-is-safe-you-should-not-fear-a-legal-system-of-accountability/",
+      "date_published": "2026-06-04",
+      "lang": "en"
+    },
+    {
+      "claim": "BREAKING: Somalia plunges into civil war as clashes erupt in Mogadishu.",
+      "title": "Old Video Falsely Linked To Recent Clashes in Mogadishu",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "BREAKING: Somalia plunges into civil war as clashes erupt in Mogadishu.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/04/old-video-falsely-linked-recent-clashes-mogadishu",
       "date_published": "2026-06-04",
       "lang": "en"
     },
@@ -334,6 +499,28 @@
       "source_url": "https://factly.in/this-viral-video-does-not-show-pakistan-army-major-general-faisal-naseer-or-indian-army-lieutenant-general-rajiv-sahni-being-assaulted-in-thailand/",
       "date_published": "2026-06-03",
       "lang": "en"
+    },
+    {
+      "claim": "Red Cholai Juice can Give Bull-Like Energy",
+      "title": "Fact Check: Can Red Cholai Juice Give Bull-Like Energy?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Red Cholai Juice can Give Bull-Like Energy",
+      "source_name": "THIP Media",
+      "source_url": "https://www.thip.media/health-news-fact-check/fact-check-can-red-cholai-juice-give-bull-like-energy/146344/",
+      "date_published": "2026-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Parmi toutes les équipes qualifiées à la Coupe du monde, on retrouve presque 100 joueurs nés en France",
+      "title": "VÉRIF' - Parmi toutes les équipes qualifiées à la Coupe du monde ...",
+      "verdict_label": "Vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Parmi toutes les équipes qualifiées à la Coupe du monde, on retrouve presque 100 joueurs nés en France",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sport/verif-parmi-toutes-les-equipes-qualifiees-a-la-coupe-du-monde-retrouve-t-on-presque-100-joueurs-nes-en-france-2445210.html",
+      "date_published": "2026-06-03",
+      "lang": "fr"
     },
     {
       "claim": "Il n'y a qu'en France où la victoire d'un club de foot provoque des émeutes.",
@@ -88200,6 +88387,39 @@
       "explanation": "A purported Amul creative was shared online, claiming that the dairy brand had mocked the Mamata Banerjee-led Trinamool Congress (TMC) through its creative following the party's defeat in the West Bengal Assembly elections.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/this-amul-creative-showing-a-pun-targeting-trinamool-congress-is-ai-generated-photo-details-inside/3734499",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "The evidence points to sleep loss throttling the body's ability to build muscle from food at the cellular level: a single sleepless night cut postprandial muscle protein synthesis by 18% in healthy young adults even though they ate the same protein, five nights of four-hour sleep produced a comparable suppression, and the shortfall traced to the muscle building less rather than breaking down more — but the acute night studied was total deprivation, the samples were small, and the female response was inconsistent, so the 18% is best read as a clear direction rather than a settled personal number.",
+      "title": "Bad Sleep Doesn't Waste Muscle, It Keeps You From Building It",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The evidence points to sleep loss throttling the body's ability to build muscle from food at the cellular level: a single sleepless night cut postprandial muscle protein synthesis by 18% in healthy young adults even though they ate the same protein, five nights of four-hour sleep produced a comparable suppression, and the shortfall traced to the muscle building less rather than breaking down more — but the acute night studied was total deprivation, the samples were small, and the female response was inconsistent, so the 18% is best read as a clear direction rather than a settled personal number.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/sleep-mps-bottleneck/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "An image was shared online, claiming to show a statue of Veer Savarkar in Marseille, France.",
+      "title": "PTI Fact Check: AI-generated image falsely shared as Veer Savarkar statue in Marseille, France",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "An image was shared online, claiming to show a statue of Veer Savarkar in Marseille, France.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/ai-generated-image-falsely-shared-as-veer-savarkar-statue-in-marseille-france/3737748",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A video of US Secretary of State Marco Rubio was shared online, claiming he stated that India was the first to request a ceasefire from Pakistan during the 2025 India-Pakistan conflict.",
+      "title": "PTI Fact Check: US State Secretary Marco Rubio's digitally-edited video with superimposed audio shared on social media with false claims",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A video of US Secretary of State Marco Rubio was shared online, claiming he stated that India was the first to request a ceasefire from Pakistan during the 2025 India-Pakistan conflict.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/us-state-secretary-marco-rubios-digitally-edited-video-with-superimposed-audio-shared-on-social-media-with-false-claims/3737881",
       "date_published": "",
       "lang": "en"
     }
