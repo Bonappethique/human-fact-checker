@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T08:15:04Z",
-  "total_count": 8029,
+  "last_updated": "2026-06-09T06:54:00Z",
+  "total_count": 8037,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,83 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Health secretary Ted Herbosa endorsed MediHope+, a milk powder product, as a form of cancer treatment.",
+      "title": "FACT CHECK: Health secretary Herbosa did not endorse milk product as cancer cure",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Health secretary Ted Herbosa endorsed MediHope+, a milk powder product, as a form of cancer treatment.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/teodoro-herbosa-health-secretary-not-endorse-milk-product-cancer-cure/",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "a large number of Bangladeshi immigrants heading towards border checkposts to leave West Bengal",
+      "title": "Verified: Old Video Falsely Shared As Bangladeshi Immigrants Leaving West Bengal",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "a large number of Bangladeshi immigrants heading towards border checkposts to leave West Bengal",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-old-video-falsely-shared-as-bangladeshi-immigrants-leaving-west-bengal/",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "Residents of a French village that hosted a ceremony for the 82nd anniversary of the D-Day landings said U.S. Secretary of Defense Pete Hegseth wasn't welcome to attend.",
+      "title": "Did residents of French village ask Hegseth to skip D-Day ceremony?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Residents of a French village that hosted a ceremony for the 82nd anniversary of the D-Day landings said U.S. Secretary of Defense Pete Hegseth wasn't welcome to attend.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/hegseth-d-day-ceremony/",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shows U.S. President Donald Trump dozing off and then waking himself up with a fart during a coal industry announcement in the Oval Office on June 4, 2026.",
+      "title": "Trump dozed off in Oval Office. Did he wake himself up with a fart, as video allegedly shows?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A video authentically shows U.S. President Donald Trump dozing off and then waking himself up with a fart during a coal industry announcement in the Oval Office on June 4, 2026.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-video-sleeping-fart/",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows explosion of Israeli or U.S. assets caused by Iranian missiles",
+      "title": "Fact Check: Video Does NOT Show Iranian Missile Strike On Israeli Or U.S. Assets -- It Shows Malta Fireworks Factory Explosion",
+      "verdict_label": "Another Blast",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows explosion of Israeli or U.S. assets caused by Iranian missiles",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-video-does-not-show-explosion-of-israeli-or-us-assets-caused-by-iranian-missiles-it-shows-fireworks-factory-in-malta.html",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "Class 9 student is participating in Cockroach Janta Party protest but does not know the war is between US-Israel and Iran.",
+      "title": "Video Of Student Gaffe On US-Israel War Linked To CJP Protest | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Class 9 student is participating in Cockroach Janta Party protest but does not know the war is between US-Israel and Iran.",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/unrelated-video-of-student-gaffe-on-us-israel-war-linked-to-cjp-protest-31706",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "UN Women said it had documented 639 rapes of women within the Ukrainian Armed Forces.",
+      "title": "Fact Check: UN Women Did NOT Say It Had Documented 639 Rapes Within Ukrainian Armed Forces",
+      "verdict_label": "No Such Report",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "UN Women said it had documented 639 rapes of women within the Ukrainian Armed Forces.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-un-women-did-not-say-it-had-documented-639-rapes-of-women-within-ukrainian-armed-forces.html",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
     {
       "claim": "Irans Islamic Revolutionary Guard Corps and the Iranian Navy targeting the command and control center of a U.S. destroyer that was approaching areas under Iranian control.",
       "title": "Iran Says It Targeted U.S. Destroyer Command Center in Gulf of Oman",
@@ -88454,6 +88531,17 @@
       "explanation": "Social media users circulated several claims this week, including a video purportedly showing US Secretary of State Marco Rubio stating that India was the first to seek a ceasefire from Pakistan during the 2025 conflict, an Amul creative allegedly mocking the Trinamool Congress after its electoral defeat, an image claiming to show a statue of Veer Savarkar in Marseille, France, and a video purportedly showing the poor condition of a government school in India. Another viral video claimed to show Virat Kohli breaking down in tears after Royal Challengers Bengaluru's IPL 2026 title win.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/from-ai-generated-amul-creative-to-nepal-school-video-falsely-linked-to-india-five-misleading-posts-debunked/3743039",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Fact Check: Old video shared as recent of Bangladeshi immigrants going back after BJP wins Bengal",
+      "title": "Fact Check: Old video shared as recent of Bangladeshi immigrants going back after BJP wins Bengal | lighthousejournalism",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Fact Check: Old video shared as recent of Bangladeshi immigrants going back after BJP wins Bengal",
+      "source_name": "Lighthouse Journalism",
+      "source_url": "https://www.lighthousejournalism.com/viral/fact-check-old-video-shared-as-recent-of-bangladeshi-immigrants-going-back-after-bjp-wins-bengal-5241/",
       "date_published": "",
       "lang": "en"
     }
