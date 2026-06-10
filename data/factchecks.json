@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T06:54:00Z",
-  "total_count": 8037,
+  "last_updated": "2026-06-10T07:13:14Z",
+  "total_count": 8049,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,116 @@
   ],
   "factchecks": [
     {
+      "claim": "Videos show Australians discussing politics outside Parliament House in Canberra.",
+      "title": "Parliament House interviews are AI-generated fakes",
+      "verdict_label": "False. The videos are AI-generated.",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show Australians discussing politics outside Parliament House in Canberra.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/parliament-house-interviews-are-ai-generated-fakes/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Kuwait plans on withdrawing assets from British and American banks following the UAE and Saudi Arabia.",
+      "title": "Is Kuwait really withdrawing assets from US and UK banks following UAE, Saudi Arabia? Fact Check",
+      "verdict_label": "The claim is false. No official confirmation exists from Kuwaiti authorities, and similar assertions about the UAE and Saudi Arabia lack credible verification. While Gulf states face economic pressures from the 2026 Iran conflict, there has been no news about withdrawing from British or American banks.",
+      "verdict_category": "FAUX",
+      "explanation": "Kuwait plans on withdrawing assets from British and American banks following the UAE and Saudi Arabia.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/is-kuwait-really-withdrawing-assets-from-us-and-uk-banks-following-uae-saudi-arabia-fact-check/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a June 2026 Truth Social post made by U.S. President Donald Trump promoting cryptocurrency \"rewards\" for FIFA World Cup fans.",
+      "title": "Did Trump offer crypto rewards to FIFA World Cup fans? Don't be fooled",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a June 2026 Truth Social post made by U.S. President Donald Trump promoting cryptocurrency \"rewards\" for FIFA World Cup fans.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-world-cup-crypto-offer/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Spanish star soccer player Lamine Yamal might not be attending World Cup in US. over Palestinian protest and visa issues",
+      "title": "Fact Check: Spanish Soccer Star Lamine Yamal Is NOT Missing World Cup In U.S. Over Palestinian Protest, Visa Issues",
+      "verdict_label": "In Tennessee",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Spanish star soccer player Lamine Yamal might not be attending World Cup in US. over Palestinian protest and visa issues",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-spanish-soccer-star-lamine-yamal-not-missing-world-cup-us-palestinian-protest-visa-issues.html",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "During Game 3 of the NBA Finals between the New York Knicks and the San Antonio Spurs at Madison Square Garden in New York on June 8, 2026, the crowd booed U.S. President Donald Trump.",
+      "title": "Was Trump booed during national anthem at Knicks' NBA Finals game?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "During Game 3 of the NBA Finals between the New York Knicks and the San Antonio Spurs at Madison Square Garden in New York on June 8, 2026, the crowd booed U.S. President Donald Trump.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-booed-nba-finals-game/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a Korean man dressed as a pregnant woman being harassed by a group of men while testing women’s safety in India.",
+      "title": "Edited video falsely shared as showing Korean YouTuber being harassed during women’s safety test in India",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows a Korean man dressed as a pregnant woman being harassed by a group of men while testing women’s safety in India.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/there-is-no-truth-to-the-claims-circulating-that-young-men-harassed-a-korean-man-who-was-dressed-as-a-pregnant-woman-in-india/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Texas woman arrested for disguising herself as a man to enter all-male bbq competition and won first place.",
+      "title": "Fact Check: FAKE Mugshot Shows Woman Arrested For Disguising Herself As A Man To Enter A BBQ Competition",
+      "verdict_label": "It's Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "Texas woman arrested for disguising herself as a man to enter all-male bbq competition and won first place.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-fake-mugshot-shows-woman-arrested-being-disguised-man-enter-bbq-competition.html",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a Muslim imam in Bangladesh chaining a Hindu woman and forcibly cutting her hair.",
+      "title": "Video of three Muslim women being assaulted over theft allegations in Bangladesh is shared with a false communal narrative",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a Muslim imam in Bangladesh chaining a Hindu woman and forcibly cutting her hair.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/a-video-of-three-muslim-women-being-assaulted-over-theft-allegations-in-bangladesh-is-shared-with-a-false-communal-narrative/",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "PM Modi Asked Women To Sell Gold, Deposit Money In Banks, Reported NBT",
+      "title": "Did PM Modi Ask Women To Sell Gold, Deposit Money In Banks? No, Viral ‘Navbharat Times’ Graphic Is Fake",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "PM Modi Asked Women To Sell Gold, Deposit Money In Banks, Reported NBT",
+      "source_name": "Newschecker",
+      "source_url": "https://newschecker.in/fact-check/did-pm-modi-ask-women-to-sell-gold-deposit-money-in-banks-no-viral-navbharat-times-graphic-is-fake",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Members of the Senate media clapped for Alan Peter Cayetano during a press briefing on June 4.",
+      "title": "Senate media did NOT applaud Cayetano for 'unifier' remark",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Members of the Senate media clapped for Alan Peter Cayetano during a press briefing on June 4.",
+      "source_name": "VERA Files",
+      "source_url": "https://verafiles.org/articles/fact-check-senate-media-did-not-applaud-cayetano-for-unifier-remark",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
       "claim": "Health secretary Ted Herbosa endorsed MediHope+, a milk powder product, as a form of cancer treatment.",
       "title": "FACT CHECK: Health secretary Herbosa did not endorse milk product as cancer cure",
       "verdict_label": "False",
@@ -212,6 +322,17 @@
       "explanation": "UN Women said it had documented 639 rapes of women within the Ukrainian Armed Forces.",
       "source_name": "Lead Stories",
       "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-un-women-did-not-say-it-had-documented-639-rapes-of-women-within-ukrainian-armed-forces.html",
+      "date_published": "2026-06-08",
+      "lang": "en"
+    },
+    {
+      "claim": "Class 9 student is participating in Cockroach Janta Party protest but does not know the war is between US-Israel and Iran.",
+      "title": "Video Of Student Gaffe On US-Israel War Linked To CJP Protest | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Class 9 student is participating in Cockroach Janta Party protest but does not know the war is between US-Israel and Iran.",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/amp/fact-check/unrelated-video-of-student-gaffe-on-us-israel-war-linked-to-cjp-protest-31706",
       "date_published": "2026-06-08",
       "lang": "en"
     },
@@ -3677,6 +3798,17 @@
       "explanation": "Usha Vance appeared in a news clip with Cole Allen Tomas in 2017",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.A94V9G4",
+      "date_published": "2026-04-28",
+      "lang": "en"
+    },
+    {
+      "claim": "The Prime Minister called the general election a full year before the legislature's term expired.",
+      "title": "The Prime Minister called the general election a full year before the legislatur — Spunt",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The Prime Minister called the general election a full year before the legislature's term expired.",
+      "source_name": "Spunt",
+      "source_url": "https://www.spunt.mt/malta-fact-check/did-the-pm-really-call-the-election-a-year-early",
       "date_published": "2026-04-28",
       "lang": "en"
     },
