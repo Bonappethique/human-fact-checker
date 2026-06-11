@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T07:13:14Z",
-  "total_count": 8049,
+  "last_updated": "2026-06-11T08:08:21Z",
+  "total_count": 8060,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,105 @@
   ],
   "factchecks": [
     {
+      "claim": "Dutch football legend Ruud Gullit published an open letter calling on FIFA President Gianni Infantino to resign amid controversy surrounding U.S. immigration policies.",
+      "title": "Fact Check: Dutch Legend Ruud Gullit DENIED Calling On FIFA ...",
+      "verdict_label": "Denied",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Dutch football legend Ruud Gullit published an open letter calling on FIFA President Gianni Infantino to resign amid controversy surrounding U.S. immigration policies.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-ruud-gullit-denied-calling-on-fifa-president-to-resign.html",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Immigration has fallen by 82% under the current Labour government.",
+      "title": "‘Immigration’ has not fallen by 82% under Labour – Full Fact",
+      "verdict_label": "Incorrect. The 82% figure represents the estimated decrease in net migration, not immigration, from its peak in March 2023, not since Labour took office. Figures for the year to December 2025 show a 37% fall in immigration since Labour took office.",
+      "verdict_category": "FAUX",
+      "explanation": "Immigration has fallen by 82% under the current Labour government.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/anna-turley-immigration-down-82-percent-under-labour/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows masked, armed anti-immigrant \"New Republican Movement\" responding to Belfast knife attack in June 2026.",
+      "title": "Fact Check: Video Does NOT Show Masked, Armed Anti-Immigrant 'New Republican Movement' Responding To Belfast Knife Attack In June 2026",
+      "verdict_label": "From 2025",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows masked, armed anti-immigrant \"New Republican Movement\" responding to Belfast knife attack in June 2026.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-video-does-not-show-masked-armed-anti-immigrant-new-republican-movement-responding-to-belfast-knife-attack-in-june-2026.html",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "The Supreme Court issued a decision declaring Alan Peter Cayetano as Senate President and invalidating the election of Sherwin Gatchalian as Senator Pro Tempore.",
+      "title": "FACT CHECK: NO SC ruling declaring Cayetano Senate President, invalidating Gatchalian position",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Supreme Court issued a decision declaring Alan Peter Cayetano as Senate President and invalidating the election of Sherwin Gatchalian as Senator Pro Tempore.",
+      "source_name": "VERA Files",
+      "source_url": "https://verafiles.org/articles/fact-check-no-sc-ruling-declaring-cayetano-senate-president-invalidating-gatchalian-position",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "South Africans in Nigeria issued ultimatum",
+      "title": "Nigerian students have not given South Africans seven days to leave Nigeria",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "South Africans in Nigeria issued ultimatum",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6BY7CQ",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "L'ambassade des Etats Unis à Kiev évacué",
+      "title": "Cette image censée montrer l’évacuation de l’ambassade américaine à Kiev est générée par IA",
+      "verdict_label": "Image générée par IA",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'ambassade des Etats Unis à Kiev évacué",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B6GY9T3",
+      "date_published": "2026-06-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "Jeffrey Epstein's federal case files show U.S. President Donald Trump visited the late sex offender's island 345 times.",
+      "title": "Did new files show Trump visited Epstein's island 345 times? Here's the truth",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Jeffrey Epstein's federal case files show U.S. President Donald Trump visited the late sex offender's island 345 times.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-visit-epstein-island-345-times/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "900-9099-CRY and 900-740-3500 were once real pay-per-call hotlines, as seen in vintage U.S. TV commercials showing people crying while on the phone.",
+      "title": "Were 'crying hotlines' from vintage TV ads real?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "900-9099-CRY and 900-740-3500 were once real pay-per-call hotlines, as seen in vintage U.S. TV commercials showing people crying while on the phone.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/tv-ads-crying-hotline/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Video of India’s Border Security Force at West Bengal border.",
+      "title": "Clip shows mock security drill ahead of Nepal elections, not Indian ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video of India’s Border Security Force at West Bengal border.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B63A6CQ",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
       "claim": "Videos show Australians discussing politics outside Parliament House in Canberra.",
       "title": "Parliament House interviews are AI-generated fakes",
       "verdict_label": "False. The videos are AI-generated.",
@@ -245,6 +344,17 @@
       "explanation": "Members of the Senate media clapped for Alan Peter Cayetano during a press briefing on June 4.",
       "source_name": "VERA Files",
       "source_url": "https://verafiles.org/articles/fact-check-senate-media-did-not-applaud-cayetano-for-unifier-remark",
+      "date_published": "2026-06-09",
+      "lang": "en"
+    },
+    {
+      "claim": "A video of popular educator Khan Sir addressing a portrait of Bharat Mata and saying, \"See what they have done… made us Hindus and Muslims. Please give them wisdom… we all live as Indians,\" is being shared as his reaction to the recent media-versus-YouTube educators controversy.",
+      "title": "2021 Video Shared As Khan Sir's Reaction To Media Vs YouTube ...",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A video of popular educator Khan Sir addressing a portrait of Bharat Mata and saying, \"See what they have done… made us Hindus and Muslims. Please give them wisdom… we all live as Indians,\" is being shared as his reaction to the recent media-versus-YouTube educators controversy.",
+      "source_name": "Newschecker",
+      "source_url": "https://newschecker.in/fact-check/fact-check/2021-video-shared-as-khan-sirs-reaction-to-media-vs-youtube-educators-row",
       "date_published": "2026-06-09",
       "lang": "en"
     },
@@ -2590,6 +2700,17 @@
       "source_url": "https://factuel.afp.com/doc.afp.com.B2G39G3",
       "date_published": "2026-05-11",
       "lang": "fr"
+    },
+    {
+      "claim": "PN has a poor track record on energy.",
+      "title": "PN has a poor track record on energy. — Spunt",
+      "verdict_label": "Mostly True",
+      "verdict_category": "VRAI",
+      "explanation": "PN has a poor track record on energy.",
+      "source_name": "Spunt",
+      "source_url": "https://www.spunt.mt/malta-fact-check/does-pn-really-have-a-poor-track-record-on-energy",
+      "date_published": "2026-05-11",
+      "lang": "en"
     },
     {
       "claim": "This video shows TVK women cadres arguing with traffic police after their party won the Tamil Nadu elections.",
