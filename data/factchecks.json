@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T08:08:21Z",
-  "total_count": 8060,
+  "last_updated": "2026-06-12T07:27:07Z",
+  "total_count": 8079,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,127 @@
   ],
   "factchecks": [
     {
+      "claim": "A picture shows an anti-Reform rally in Wigan ahead of the Makerfield by-election.",
+      "title": "Fake image of ‘anti-Reform’ rally in Wigan shared ahead of by-election – Full Fact",
+      "verdict_label": "The picture is fake. The image has been generated with AI and doesn't match the geography of Wigan town centre. It also contains AI glitches and an invisible SynthID watermark.",
+      "verdict_category": "FAUX",
+      "explanation": "A picture shows an anti-Reform rally in Wigan ahead of the Makerfield by-election.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/fake-ai-image-anti-reform-rally-wigan/",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "Jamais le budget de la justice n'a été aussi haut en France",
+      "title": "VÉRIF' - Affaire Lyhanna : est-il vrai que \"le budget de la justice n'a jamais été aussi haut\", comme le dit le gouvernement ?",
+      "verdict_label": "Vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Jamais le budget de la justice n'a été aussi haut en France",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/justice-faits-divers/verif-affaire-fillette-adolescente-mort-lyhanna-est-il-vrai-que-jamais-le-budget-de-la-justice-n-a-ete-aussi-haut-comme-le-dit-le-gouvernement-2446822.html",
+      "date_published": "2026-06-11",
+      "lang": "fr"
+    },
+    {
+      "claim": "Une vidéo montre des soldats détruire un hélicoptère américain avec un lance-roquette valant 150 dollars",
+      "title": "VÉRIF' - Des Iraniens ont-ils détruit un hélicoptère américain avec une arme \"à 150 dollars\" ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une vidéo montre des soldats détruire un hélicoptère américain avec un lance-roquette valant 150 dollars",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/verif-des-iraniens-ont-ils-detruit-un-helicoptere-americain-avec-une-arme-a-150-dollars-2446886.html",
+      "date_published": "2026-06-11",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. Vice President JD Vance said, \"If you're born in this country and your parents were not U.S. citizens then you should be deported.\"",
+      "title": "Did Vance say people born to noncitizens should be deported?",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. Vice President JD Vance said, \"If you're born in this country and your parents were not U.S. citizens then you should be deported.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/vance-deportation-quote/",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "After U.S. President Donald Trump abruptly ended an interview with NBC's \"Meet the Press\" reporter Kristen Welker, an image authentically showed an X post in which he said he walked out because Welker kept staring at his ear.",
+      "title": "Did Trump say 'Meet the Press' interviewer Kristen Welker kept staring at his ear?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "After U.S. President Donald Trump abruptly ended an interview with NBC's \"Meet the Press\" reporter Kristen Welker, an image authentically showed an X post in which he said he walked out because Welker kept staring at his ear.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-kristen-welker-ear-quote/",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. Justice Department publicly released an FBI intake form in which a tipster alleged President Donald Trump \"knew and funded underage sex parties\" at one of his golf courses.",
+      "title": "Unverified FBI tip alleged Trump knew of and funded 'underage sex parties' at golf course",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The U.S. Justice Department publicly released an FBI intake form in which a tipster alleged President Donald Trump \"knew and funded underage sex parties\" at one of his golf courses.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-sex-parties-fbi-tip/",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran uses $150 weapons to shoot down U.S. military aircraft worth billions of dollars",
+      "title": "Video Claiming Soldiers Used a $150 Weapon to Down a U.S. Aircraft Is AI-Generated",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "Iran uses $150 weapons to shoot down U.S. military aircraft worth billions of dollars",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/11/video-claiming-soldiers-used-150-weapon-down-us-aircraft-ai-generated",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "BREAKING: An IRGC command and control center has just been decimated by US strikes.49 Tomahawk missiles had been fired by the United States along with bombing from fighter jets.",
+      "title": "Old Video Falsely Claimed To Show U.S. Strikes on an IRGC Command-And-Control Center",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "BREAKING: An IRGC command and control center has just been decimated by US strikes.49 Tomahawk missiles had been fired by the United States along with bombing from fighter jets.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/11/old-video-falsely-claimed-show-us-strikes-irgc-command-and-control-center",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "Under U.S. President Donald Trump's second administration, federal agencies have shrunk the habitat requirement for grizzly bears from 2,500 acres to 1 acre.",
+      "title": "Did Trump admin shrink required grizzly bear habitat from 2,500 acres to 1? What documents show",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Under U.S. President Donald Trump's second administration, federal agencies have shrunk the habitat requirement for grizzly bears from 2,500 acres to 1 acre.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-shrink-grizzly-bear-habitat/",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows a Korean YouTuber, who dressed as a pregnant woman for a social experiment, being sexually harassed in India.",
+      "title": "Was Korean YouTuber, Who Dressed as a Woman, Sexually Assaulted in India? No!",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows a Korean YouTuber, who dressed as a pregnant woman for a social experiment, being sexually harassed in India.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/korean-youtuber-pregnant-woman-sexual-harassment-false-claim-fact-check",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "PM Modi asked women and girls to sell their gold and deposit their money into their bank accounts.",
+      "title": "No, PM Modi Didn’t Ask Women To Sell Gold and Deposit Their Money in Banks",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "PM Modi asked women and girls to sell their gold and deposit their money into their bank accounts.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/pm-modi-did-not-ask-women-to-sell-gold-and-deposit-money-in-banks-fake-claim-fact-check",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
       "claim": "Dutch football legend Ruud Gullit published an open letter calling on FIFA President Gianni Infantino to resign amid controversy surrounding U.S. immigration policies.",
       "title": "Fact Check: Dutch Legend Ruud Gullit DENIED Calling On FIFA ...",
       "verdict_label": "Denied",
@@ -234,6 +355,72 @@
       "explanation": "Video of India’s Border Security Force at West Bengal border.",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B63A6CQ",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Actor Meryl Streep criticized U.S. President Donald Trump's daughter Ivanka Trump during a television broadcast in May 2026.",
+      "title": "Did Meryl Streep criticize Ivanka Trump on live TV?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Actor Meryl Streep criticized U.S. President Donald Trump's daughter Ivanka Trump during a television broadcast in May 2026.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/meryl-streep-ivanka-trump-criticism/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Netanyahu personally requested that Yamal not be allowed into the United States as he was seen holding Palestinian flag during a celebration.",
+      "title": "Lamine Yamal Is Not Facing a U.S. Visa Ban Over Palestinian Flag Display",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Netanyahu personally requested that Yamal not be allowed into the United States as he was seen holding Palestinian flag during a celebration.",
+      "source_name": "Fact Crescendo Sri Lanka",
+      "source_url": "https://srilanka.factcrescendo.com/english/fact-check-lamine-yamal-us-visa-ban/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2026, NBC suspended Kristen Welker of \"Meet The Press\" after her interview with U.S. President Donald Trump, which he abruptly walked out of.",
+      "title": "Did NBC suspend 'Meet the Press' host Kristen Welker after Trump walked out of interview?",
+      "verdict_label": "Labeled Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In June 2026, NBC suspended Kristen Welker of \"Meet The Press\" after her interview with U.S. President Donald Trump, which he abruptly walked out of.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-interview-nbc-welker-suspended/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "A Navbharat Times graphic quotes Prime Minister Narendra Modi as appealing to women to sell their gold and deposit the proceeds in their bank accounts.",
+      "title": "This viral Navbharat Times graphic alleging that PM Modi urged women to sell their gold and deposit the money in banks is fake",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "A Navbharat Times graphic quotes Prime Minister Narendra Modi as appealing to women to sell their gold and deposit the proceeds in their bank accounts.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/this-viral-navbharat-times-graphic-alleging-that-pm-modi-urged-women-to-sell-their-gold-and-deposit-the-money-in-banks-is-fake/",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "A photo shows 2026 primary ballots in a California dumpster",
+      "title": "Old photo of election envelopes misrepresented as trashed 2026 ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A photo shows 2026 primary ballots in a California dumpster",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6N72CQ",
+      "date_published": "2026-06-10",
+      "lang": "en"
+    },
+    {
+      "claim": "In response to Senator Rodante Marcoleta’s allegations that the media receives bribes for their coverage of the flood control scandal, broadcast journalist Kara David references her 2025 birthday wish for all corrupt people in the Philippines to die.",
+      "title": "FACT CHECK: Kara David quote card on Marcoleta bribery claims is fake",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "In response to Senator Rodante Marcoleta’s allegations that the media receives bribes for their coverage of the flood control scandal, broadcast journalist Kara David references her 2025 birthday wish for all corrupt people in the Philippines to die.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/fake-kara-david-quote-card-rodante-marcoleta-bribery-claim/",
       "date_published": "2026-06-10",
       "lang": "en"
     },
@@ -88795,6 +88982,28 @@
       "explanation": "Fact Check: Old video shared as recent of Bangladeshi immigrants going back after BJP wins Bengal",
       "source_name": "Lighthouse Journalism",
       "source_url": "https://www.lighthousejournalism.com/viral/fact-check-old-video-shared-as-recent-of-bangladeshi-immigrants-going-back-after-bjp-wins-bengal-5241/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A video was shared claiming that three Hindu women in Bangladesh were tied to a tree and assaulted by members of the Muslim community because of their religious identity.",
+      "title": "PTI Fact Check: Bangladesh assault video falsely shared as hate crime against Hindu women",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A video was shared claiming that three Hindu women in Bangladesh were tied to a tree and assaulted by members of the Muslim community because of their religious identity.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/bangladesh-assault-video-falsely-shared-as-hate-crime-against-hindu-women/3757608",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A video was shared claiming that a South Korean YouTuber disguised himself as a pregnant woman in India to test women's safety and was repeatedly subjected to sexual harassment.",
+      "title": "PTI Fact Check: Video of Korean YouTuber disguised as pregnant woman falsely linked to harassment during India tour",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A video was shared claiming that a South Korean YouTuber disguised himself as a pregnant woman in India to test women's safety and was repeatedly subjected to sexual harassment.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/video-of-korean-youtuber-disguised-as-pregnant-woman-falsely-linked-to-harassment-during-india-tour/3757669",
       "date_published": "",
       "lang": "en"
     }
