@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T07:27:07Z",
-  "total_count": 8079,
+  "last_updated": "2026-06-13T07:02:02Z",
+  "total_count": 8088,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,94 @@
   ],
   "factchecks": [
     {
+      "claim": "A Facebook page is publishing breaking news about New Zealand politics.",
+      "title": "Foreign-linked disinformation page targets NZ politics",
+      "verdict_label": "False. The stories are fabricated.",
+      "verdict_category": "FAUX",
+      "explanation": "A Facebook page is publishing breaking news about New Zealand politics.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/foreign-linked-disinformation-page-targets-nz-politics/",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "The government has cut net migration by 80%.",
+      "title": "Are the Conservatives or Labour responsible for the fall in net migration? – Full Fact",
+      "verdict_label": "This isn’t quite right. Net migration fell by an estimated 82% between its peak in the year ending March 2023, and the year ending December 2025. The fall since the year ending June 2024, just before Labour took office, is 74%, and experts say this may be due to policies enacted under the Conservatives as well as under Labour.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "The government has cut net migration by 80%.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/makerfield-debate-migration-claims/",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump promised during his 2024 presidential campaign that the United States would be involved in \"no new wars\" if voters elected him to a second term.",
+      "title": "Did Trump promise 'no new wars'? How his NBC interview contradicts campaign pledges",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump promised during his 2024 presidential campaign that the United States would be involved in \"no new wars\" if voters elected him to a second term.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-no-new-wars/",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Footage of South African stores looted in Nigeria in 2026",
+      "title": "Old looting footage in Nigeria misrepresented as retaliation against S.Africa's 2026 xenophobia",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Footage of South African stores looted in Nigeria in 2026",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6KY2T3",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Real Fox Sports graphic in Mexico-South Africa game gives long explanation of being down to 9 players.",
+      "title": "Fact Check: FAKE Fox Sports Graphic During Mexico-South Africa ...",
+      "verdict_label": "Trolls US Fans",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real Fox Sports graphic in Mexico-South Africa game gives long explanation of being down to 9 players.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-fake-fox-sports-graphic-mexico-south-africa-world-cup-match-down-to-9-players.html",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows US strike on oil tanker, Settebello, off the coast of Oman",
+      "title": "Video of ‘Skylight’ Attack Falsely Linked to US Strike On ‘Settebello’ | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows US strike on oil tanker, Settebello, off the coast of Oman",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/video-of-skylight-attack-falsely-linked-to-us-strike-on-settebello-31722",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "American fighter jets bombed IRGC positions in Kangan Port and Shahid Bahonar Port area in Bandar Abbas moments ago. Huge explosions heard followed by fighter jets roaring.",
+      "title": "Does the Video Show U.S. Fighter Jets Striking IRGC Sites in Iran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "American fighter jets bombed IRGC positions in Kangan Port and Shahid Bahonar Port area in Bandar Abbas moments ago. Huge explosions heard followed by fighter jets roaring.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/12/does-video-show-us-fighter-jets-striking-irgc-sites-iran",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Tens of thousands of mail-in ballots cast for Republican Spencer Pratt in the 2026 Los Angeles mayoral primary were rejected for \"signature irregularities.\"",
+      "title": "'Tens of thousands' of mail-in ballots for Spencer Pratt weren't ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Tens of thousands of mail-in ballots cast for Republican Spencer Pratt in the 2026 Los Angeles mayoral primary were rejected for \"signature irregularities.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/spencer-pratt-la-ballots-rejected/",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
       "claim": "A picture shows an anti-Reform rally in Wigan ahead of the Makerfield by-election.",
       "title": "Fake image of ‘anti-Reform’ rally in Wigan shared ahead of by-election – Full Fact",
       "verdict_label": "The picture is fake. The image has been generated with AI and doesn't match the geography of Wigan town centre. It also contains AI glitches and an invisible SynthID watermark.",
@@ -256,6 +344,17 @@
       "explanation": "PM Modi asked women and girls to sell their gold and deposit their money into their bank accounts.",
       "source_name": "The Quint",
       "source_url": "https://www.thequint.com/news/webqoof/pm-modi-did-not-ask-women-to-sell-gold-and-deposit-money-in-banks-fake-claim-fact-check",
+      "date_published": "2026-06-11",
+      "lang": "en"
+    },
+    {
+      "claim": "Keir Starmer said he will arrest Elon Musk and 336 million Americans for free speech on X",
+      "title": "Fact Check: U.K. Prime Minister Starmer Did NOT Say He Will 'Arrest Elon Musk And 336 Million Americans'",
+      "verdict_label": "Didn't Say It",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Keir Starmer said he will arrest Elon Musk and 336 million Americans for free speech on X",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-starmer-did-not-say-he-will-arrest-elon-musk-and-336-million-americans.html",
       "date_published": "2026-06-11",
       "lang": "en"
     },
