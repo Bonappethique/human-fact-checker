@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T07:02:02Z",
-  "total_count": 8088,
+  "last_updated": "2026-06-14T07:26:46Z",
+  "total_count": 8092,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,39 @@
   ],
   "factchecks": [
     {
+      "claim": "Here is the American plane that was hit during the battle over the Persian Gulf and fled from the Strait of Hormuz..",
+      "title": "AI-Generated Video Falsely Claims to Show U.S. Aircraft Damaged in Iranian Attack",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "Here is the American plane that was hit during the battle over the Persian Gulf and fled from the Strait of Hormuz..",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/13/ai-generated-video-falsely-claims-show-us-aircraft-damaged-iranian-attack",
+      "date_published": "2026-06-13",
+      "lang": "en"
+    },
+    {
+      "claim": "India removes security barricades outside the US Embassy in response to the US attacks on commercial vessels carrying Indian crew members.",
+      "title": "Centre Removes Security Barriers Around US Embassy After Strikes On Vessels? Old News Clip Goes Viral",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "India removes security barricades outside the US Embassy in response to the US attacks on commercial vessels carrying Indian crew members.",
+      "source_name": "Newschecker",
+      "source_url": "https://newschecker.in/fact-check/centre-removes-security-barriers-around-us-embassy-after-strikes-on-vessels-old-news-clip-goes-viral",
+      "date_published": "2026-06-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Viral photo shows PM Narendra Modi meeting and shaking hands with Abhijeet Dipke in the United States.",
+      "title": "Verified: PM Modi’s Handshake Picture With Abhijeet Dipke Is AI-Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Viral photo shows PM Narendra Modi meeting and shaking hands with Abhijeet Dipke in the United States.",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-pm-modis-handshake-picture-with-abhijeet-dipke-is-ai-generated/",
+      "date_published": "2026-06-13",
+      "lang": "en"
+    },
+    {
       "claim": "A Facebook page is publishing breaking news about New Zealand politics.",
       "title": "Foreign-linked disinformation page targets NZ politics",
       "verdict_label": "False. The stories are fabricated.",
@@ -223,6 +256,17 @@
       "explanation": "Tens of thousands of mail-in ballots cast for Republican Spencer Pratt in the 2026 Los Angeles mayoral primary were rejected for \"signature irregularities.\"",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/spencer-pratt-la-ballots-rejected/",
+      "date_published": "2026-06-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Hunter Biden, former U.S. President Joe Biden's son, genuinely said he would consider running with California Gov. Gavin Newsom as his vice-presidential running mate in 2028.",
+      "title": "Did Hunter Biden genuinely say he'd consider running with Gavin Newsom in 2028?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Hunter Biden, former U.S. President Joe Biden's son, genuinely said he would consider running with California Gov. Gavin Newsom as his vice-presidential running mate in 2028.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/hunter-biden-gavin-newsom-vp/",
       "date_published": "2026-06-12",
       "lang": "en"
     },
