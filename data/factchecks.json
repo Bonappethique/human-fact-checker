@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T09:28:03Z",
-  "total_count": 8092,
+  "last_updated": "2026-06-16T08:49:52Z",
+  "total_count": 8103,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,105 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Au Nigeria, des manifestants saccagent des magasins sud-africains",
+      "title": "Des Nigérians attaquent un commerce détenu par des Sud-Africains ? Cette vidéo est ancienne",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Au Nigeria, des manifestants saccagent des magasins sud-africains",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B6R899E",
+      "date_published": "2026-06-15",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les États-Unis ont confirmé que des armes biologiques sont produites en Ukraine avec le soutien de Washington",
+      "title": "VÉRIF' - \"Des armes biologiques en Ukraine\" : les États-Unis ont-ils confirmé cette théorie soutenue par Moscou ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les États-Unis ont confirmé que des armes biologiques sont produites en Ukraine avec le soutien de Washington",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/verif-des-armes-biologiques-en-ukraine-les-etats-unis-ont-ils-confirme-cette-theorie-soutenue-par-moscou-2447521.html",
+      "date_published": "2026-06-15",
+      "lang": "fr"
+    },
+    {
+      "claim": "A real video shows US and Iranian fighter jet combat over the Strait of Hormuz.",
+      "title": "Fact Check: Video Does NOT Show US Destroying Iranian Fighter Jet In 'Combat Action' Over Strait of Hormuz",
+      "verdict_label": "Parody Account",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real video shows US and Iranian fighter jet combat over the Strait of Hormuz.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-video-does-not-show-us-destroying-iranian-fighter-jet-in-combat-action-over-strait-of-hormuz.html",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "A real video shows Obama banned Trump from Presidential Center after Somali referee was denied entry to U.S..",
+      "title": "Fact Check: AI-Generated Obama Voiceover Falsely Says He Barred Trump From His Presidential Center After Somali Referee Denied Entry To United States",
+      "verdict_label": "Labeled AI",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real video shows Obama banned Trump from Presidential Center after Somali referee was denied entry to U.S..",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-ai-generated-obama-voiceover-falsely-says-he-barred-trump-from-his-presidential-center-after-somali-referee-denied-entry-to-united-states.html",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "As of spring 2026, officials in parts of the western United States are urging anglers to catch as many fish as possible from certain reservoirs projected to dry up due to drought conditions.",
+      "title": "Officials in western US are urging people to 'fish all you want' at some reservoirs projected to run dry",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "As of spring 2026, officials in parts of the western United States are urging anglers to catch as many fish as possible from certain reservoirs projected to dry up due to drought conditions.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/western-us-reservoir-fishing-limits/",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "As of spring 2026, officials in parts of the western United States are urging anglers to catch as many fish as possible from certain reservoirs projected to dry up due to drought conditions.",
+      "title": "Officials in western US are urging people to 'fish all you want' at some reservoirs projected to run dry",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "As of spring 2026, officials in parts of the western United States are urging anglers to catch as many fish as possible from certain reservoirs projected to dry up due to drought conditions.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/western-us-reservoir-fishing-limits/?ref=upstract.com",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "A 21-year-old woman died during a rope jump in Brazil after crew members forgot to attach her to security equipment before she jumped.",
+      "title": "21-year-old rope jumper dies in Brazil after safety equipment 'not properly secured'",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A 21-year-old woman died during a rope jump in Brazil after crew members forgot to attach her to security equipment before she jumped.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/brazil-bridge-accident/",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "An Indian woman named Anita Patel pulled a knife on a Chinese man at a concert after he rejected her marriage proposal. Social media users further claimed that she wanted Chinese citizenship to avail free food facilities.",
+      "title": "Did ‘Anita Patel’ Pull Knife On Chinese Man Over Rejection Of Marriage Proposal? Here’s The Truth Behind Viral Clip",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "An Indian woman named Anita Patel pulled a knife on a Chinese man at a concert after he rejected her marriage proposal. Social media users further claimed that she wanted Chinese citizenship to avail free food facilities.",
+      "source_name": "Newschecker",
+      "source_url": "https://newschecker.in/fact-check/did-anita-patel-pull-knife-on-chinese-man-over-rejection-of-marriage-proposal",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Banana in smoothies remove nutrients from berries",
+      "title": "Bananas impact some, but not all, health benefits from berries",
+      "verdict_label": "Missing context",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Banana in smoothies remove nutrients from berries",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B4MU3NQ",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
     {
       "claim": "Here is the American plane that was hit during the battle over the Persian Gulf and fled from the Strait of Hormuz..",
       "title": "AI-Generated Video Falsely Claims to Show U.S. Aircraft Damaged in Iranian Attack",
@@ -89147,6 +89246,28 @@
       "explanation": "A video was shared claiming that a South Korean YouTuber disguised himself as a pregnant woman in India to test women's safety and was repeatedly subjected to sexual harassment.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/video-of-korean-youtuber-disguised-as-pregnant-woman-falsely-linked-to-harassment-during-india-tour/3757669",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Within the forty studies examined in this systematic review, not a single one measured whether sauna bathing builds muscle — and the proposed mechanism (growth hormone spikes driving hypertrophy) was directly tested and failed in an independent study. Sauna's documented health benefits center on cardiovascular conditioning, not muscle growth.",
+      "title": "Sauna, Growth Hormone, and Muscle — The Gap Nobody Noticed",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Within the forty studies examined in this systematic review, not a single one measured whether sauna bathing builds muscle — and the proposed mechanism (growth hormone spikes driving hypertrophy) was directly tested and failed in an independent study. Sauna's documented health benefits center on cardiovascular conditioning, not muscle growth.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/sauna-not-muscle-builder/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows the midair collision of helicopters in Rio de Janeiro that killed American musician Oliver Tree.",
+      "title": "Fact Check: 2024 video VIRAL as midair helicopter collision in Rio",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows the midair collision of helicopters in Rio de Janeiro that killed American musician Oliver Tree.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/rio-helicopter-crash-video-fact-check-viral-clip-from-2024-malaysian-navy-collision-2927120-2026-06-15",
       "date_published": "",
       "lang": "en"
     }
