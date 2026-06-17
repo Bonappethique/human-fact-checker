@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T08:49:52Z",
-  "total_count": 8103,
+  "last_updated": "2026-06-17T08:31:59Z",
+  "total_count": 8111,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Boire un verre d'eau au réveil peut être dangereux pour la santé",
+      "title": "VÉRIF' - Boire de l'eau dès le réveil peut-il entraîner des problèmes de santé ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Boire un verre d'eau au réveil peut être dangereux pour la santé",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-boire-de-l-eau-des-le-reveil-peut-il-entrainer-des-problemes-de-sante-2447745.html",
+      "date_published": "2026-06-16",
+      "lang": "fr"
+    },
+    {
+      "claim": "The Wonderful Co., which produces the pomegranate juice brand Pom Wonderful, uses a pesticide called paraquat banned in more than 60 countries due to its links to Parkinson's disease, non-Hodgkins lymphoma and other serious health risks.",
+      "title": "Pom Wonderful maker uses paraquat, a pesticide banned in 70-plus countries. Is it toxic?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The Wonderful Co., which produces the pomegranate juice brand Pom Wonderful, uses a pesticide called paraquat banned in more than 60 countries due to its links to Parkinson's disease, non-Hodgkins lymphoma and other serious health risks.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/pom-wonderful-paraquat-pesticide/",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
+      "claim": "380 illegal boat migrants live in the Makerfield constituency.",
+      "title": "Do 380 ‘illegal boat migrants’ live in Makerfield? – Full Fact",
+      "verdict_label": "This isn’t an official figure, and isn’t reliable. It appears to be a broad estimate based on data for the number of asylum seekers supported by local authorities. We don’t know how many people who arrived via small boat crossing are actually living in the constituency.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "380 illegal boat migrants live in the Makerfield constituency.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/380-illegal-boat-migrants-Makerfield/",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows recent South Korean protest calling for rerun of election.",
+      "title": "Years-old video misrepresented as rally over South Korea ballot mishap",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows recent South Korean protest calling for rerun of election.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6PN6CQ",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
+      "claim": "CCTV shows South Korean election officials rigging ballot boxes",
+      "title": "Clip of S. Korean poll worker sealing ballot box misrepresented as fraud",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "CCTV shows South Korean election officials rigging ballot boxes",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6P62WL",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a recent ABP News report on the Indian government removing security from the U.S. Embassy.",
+      "title": "Fact-Check: Has India Taken Action Against American Diplomats After Indian Sailors Were Killed in US Attack Near Oman? No.",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a recent ABP News report on the Indian government removing security from the U.S. Embassy.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/old-video-of-abp-news-report-shared-as-a-recent-one-false-claim-fact-check",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
+      "claim": "Beauty in Black woman seen in the stadium during the FIFA World Cup.",
+      "title": "Fact Check: Viral Video Of Female Virtual Influencer Claiming To Be 'Beauty in Black' At FIFA World Cup, Is AI Created",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Beauty in Black woman seen in the stadium during the FIFA World Cup.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.vishvasnews.com/english/viral/fact-check-viral-video-of-female-virtual-influencer-claiming-to-be-beauty-in-black-at-fifa-world-cup-is-ai-created/",
+      "date_published": "2026-06-16",
+      "lang": "en"
+    },
+    {
       "claim": "Au Nigeria, des manifestants saccagent des magasins sud-africains",
       "title": "Des Nigérians attaquent un commerce détenu par des Sud-Africains ? Cette vidéo est ancienne",
       "verdict_label": "Trompeur",
@@ -234,6 +311,17 @@
       "explanation": "Banana in smoothies remove nutrients from berries",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B4MU3NQ",
+      "date_published": "2026-06-15",
+      "lang": "en"
+    },
+    {
+      "claim": "The video depicts a ship carrying Indian nationals that was attacked by the United States in Omani waters.",
+      "title": "An old Video of an oil tanker skylight falsely linked to the June 2026 Settebello Attack",
+      "verdict_label": "MISLEADING",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The video depicts a ship carrying Indian nationals that was attacked by the United States in Omani waters.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/an-old-video-of-an-oil-tanker-skylight-falsely-linked-to-the-june-2026-settebello-attack/",
       "date_published": "2026-06-15",
       "lang": "en"
     },
