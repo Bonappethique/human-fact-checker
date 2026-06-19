@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T08:12:11Z",
-  "total_count": 8121,
+  "last_updated": "2026-06-19T08:35:53Z",
+  "total_count": 8130,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,83 @@
   ],
   "factchecks": [
     {
+      "claim": "A majority of Filipinos \"support going to war with allies to defend the [West Philippine Sea] against China.\"",
+      "title": "FACT CHECK: Graphic MISLEADINGLY claims Filipinos support war to defend WPS vs China",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A majority of Filipinos \"support going to war with allies to defend the [West Philippine Sea] against China.\"",
+      "source_name": "VERA Files",
+      "source_url": "https://verafiles.org/articles/fact-check-graphic-misleadingly-claims-filipinos-support-war-to-defend-wps-vs-china",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "The US Parks Police have apprehended two Antifa operatives caught on camera dumping buckets full of algae into the Reflecting Pool.",
+      "title": "Fact Check: U.S. Park Police Did Not Arrest 'Antifa Operatives' For Dumping Algae Into Reflecting Pool -- Claim Originated As Spoof",
+      "verdict_label": "Pooling Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "The US Parks Police have apprehended two Antifa operatives caught on camera dumping buckets full of algae into the Reflecting Pool.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-us-park-police-did-not-arrest-antifa-operatives-for-dumping-algae-into-reflecting-pool-.html",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "During U.S. President Donald Trump's second term, he fired the ethics watchdog who oversaw and investigated corruption in the executive branch.",
+      "title": "Did Trump fire ethics watchdog overseeing executive branch?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "During U.S. President Donald Trump's second term, he fired the ethics watchdog who oversaw and investigated corruption in the executive branch.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-government-ethics-watchdog/",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "In 2026, independent online journalist Nick Shirley revealed he has evidence that former U.S. Rep. Marjorie Taylor Greene was bribed to \"switch sides\" and oppose President Donald Trump.",
+      "title": "Did Nick Shirley prove Marjorie Taylor Greene was bribed to oppose Trump? Don't be fooled",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In 2026, independent online journalist Nick Shirley revealed he has evidence that former U.S. Rep. Marjorie Taylor Greene was bribed to \"switch sides\" and oppose President Donald Trump.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-marjorie-taylor-greene-nick-shirley/",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2026, images authentically depicted U.S. President Donald Trump standing next to tall, alien-like figures with white hair and pale skin.",
+      "title": "Fake images of Trump with 'Nordic aliens' make the rounds online",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "In June 2026, images authentically depicted U.S. President Donald Trump standing next to tall, alien-like figures with white hair and pale skin.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-nordic-aliens-images/",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2026, the U.S. Postal Service proposed a rule in which it would stop delivering mail ballots for states that do not give the federal government voter lists.",
+      "title": "USPS proposed rule requiring states to give voter lists to federal government for mail ballots to be delivered",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In June 2026, the U.S. Postal Service proposed a rule in which it would stop delivering mail ballots for states that do not give the federal government voter lists.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/usps-mail-ballot-proposal/",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
+      "claim": "Two \"antifa operatives\" were arrested for dumping algae into the Lincoln Memorial Reflecting Pool in June 2026, just days after U.S. President Donald Trump's administration completed renovations of the landmark.",
+      "title": "Were 'antifa operatives' arrested for dumping algae in reflecting pool?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "Two \"antifa operatives\" were arrested for dumping algae into the Lincoln Memorial Reflecting Pool in June 2026, just days after U.S. President Donald Trump's administration completed renovations of the landmark.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/antifa-algae-reflecting-pool-trump/",
+      "date_published": "2026-06-18",
+      "lang": "en"
+    },
+    {
       "claim": "70.000 Français seraient employés comme mercenaires en Ukraine, révèle la BBC",
       "title": "Non, la BBC n'a pas révélé que \"70.000 mercenaires français\" combattent en Ukraine",
       "verdict_label": "Faux",
@@ -249,6 +326,17 @@
       "lang": "en"
     },
     {
+      "claim": "| Iranian Parliament Speaker Mohammad Qalibaf sets fire to the US flag and the entire parliament cheers with chants of Death to America.",
+      "title": "Old Video of U.S. Flag Burning in Iran’s Parliament",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "| Iranian Parliament Speaker Mohammad Qalibaf sets fire to the US flag and the entire parliament cheers with chants of Death to America.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/17/old-video-us-flag-burning-iran%E2%80%99s-parliament",
+      "date_published": "2026-06-17",
+      "lang": "en"
+    },
+    {
       "claim": "Boire un verre d'eau au réveil peut être dangereux pour la santé",
       "title": "VÉRIF' - Boire de l'eau dès le réveil peut-il entraîner des problèmes de santé ?",
       "verdict_label": "Faux",
@@ -324,6 +412,17 @@
       "source_url": "https://www.vishvasnews.com/english/viral/fact-check-viral-video-of-female-virtual-influencer-claiming-to-be-beauty-in-black-at-fifa-world-cup-is-ai-created/",
       "date_published": "2026-06-16",
       "lang": "en"
+    },
+    {
+      "claim": "Emmanuel Macron a snobé Donald Trump en ne l'accueillant pas à sa descente d'avion avant le début du G7",
+      "title": "VÉRIF' - Sommet du G7 à Évian : Emmanuel Macron a-t-il snobé ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Emmanuel Macron a snobé Donald Trump en ne l'accueillant pas à sa descente d'avion avant le début du G7",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/verif-sommet-du-g7-macron-a-t-il-totalement-snobe-donald-trump-en-refusant-de-l-accueillir-a-sa-descente-d-avion-2447701.html",
+      "date_published": "2026-06-16",
+      "lang": "fr"
     },
     {
       "claim": "Au Nigeria, des manifestants saccagent des magasins sud-africains",
