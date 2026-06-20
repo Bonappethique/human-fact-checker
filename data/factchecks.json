@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T08:35:53Z",
-  "total_count": 8130,
+  "last_updated": "2026-06-20T07:04:19Z",
+  "total_count": 8135,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,61 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Un dérapage raciste d’un commentateur argentin est survenu lors de France-Sénégal au Mondial-2026",
+      "title": "La vidéo dans laquelle un commentateur argentin qualifie la France et le Sénégal de \"pays africains\" est un montage",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un dérapage raciste d’un commentateur argentin est survenu lors de France-Sénégal au Mondial-2026",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B7HP7CQ",
+      "date_published": "2026-06-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "The U.S. Department of Homeland Security deported Iranian soccer player Mohammad Mohebi after he celebrated a goal with a \"gun gesture\" during his team's World Cup match against New Zealand on June 15, 2026.",
+      "title": "Was Iranian soccer player Mohammed Mohebi deported from US after 'gun gesture' celebration?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "The U.S. Department of Homeland Security deported Iranian soccer player Mohammad Mohebi after he celebrated a goal with a \"gun gesture\" during his team's World Cup match against New Zealand on June 15, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/us-mohammed-mohebi-deported/",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Iran shooting down US military aircraft.",
+      "title": "Clip of Iranian soldiers firing at US military helicopter is AI-generated",
+      "verdict_label": "AI-generated",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows Iran shooting down US military aircraft.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B6VD463",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Shortly after U.S. President Donald Trump authorized more than $14 million to repaint the bottom of Lincoln Memorial Reflecting Pool \"American flag blue\" in 2026, the paint began to peel off.",
+      "title": "Is reflecting pool's blue paint peeling off?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Shortly after U.S. President Donald Trump authorized more than $14 million to repaint the bottom of Lincoln Memorial Reflecting Pool \"American flag blue\" in 2026, the paint began to peel off.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/blue-paint-peeling-reflecting-pool/",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
+    {
+      "claim": "An image circulating in 2026 authentically showed graffiti beneath a \"Department of War\" sign that said \"0-1.\"",
+      "title": "Alleged image of graffiti beneath 'Department of War' sign isn't what ...",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "An image circulating in 2026 authentically showed graffiti beneath a \"Department of War\" sign that said \"0-1.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/graffiti-department-of-war/",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
     {
       "claim": "A majority of Filipinos \"support going to war with allies to defend the [West Philippine Sea] against China.\"",
       "title": "FACT CHECK: Graphic MISLEADINGLY claims Filipinos support war to defend WPS vs China",
