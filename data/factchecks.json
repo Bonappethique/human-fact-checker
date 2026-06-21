@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T07:04:19Z",
-  "total_count": 8135,
+  "last_updated": "2026-06-21T08:04:08Z",
+  "total_count": 8139,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,17 @@
   ],
   "factchecks": [
     {
+      "claim": "IDF soldiers burning the American flag.",
+      "title": "Video of Israeli Soldiers Burning the U.S. Flag Is AI-Generated",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "IDF soldiers burning the American flag.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/20/video-israeli-soldiers-burning-us-flag-ai-generated",
+      "date_published": "2026-06-20",
+      "lang": "en"
+    },
+    {
       "claim": "Un dérapage raciste d’un commentateur argentin est survenu lors de France-Sénégal au Mondial-2026",
       "title": "La vidéo dans laquelle un commentateur argentin qualifie la France et le Sénégal de \"pays africains\" est un montage",
       "verdict_label": "Faux",
@@ -190,6 +201,39 @@
       "explanation": "An image circulating in 2026 authentically showed graffiti beneath a \"Department of War\" sign that said \"0-1.\"",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/graffiti-department-of-war/",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Des émeutes à New York",
+      "title": "Etats-Unis : Des images de violences urbaines à New York circulent ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des émeutes à New York",
+      "source_name": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/monde/etats-unis/4229720-20260619-etats-unis-images-violences-urbaines-new-york-circulent-reseaux-exactement",
+      "date_published": "2026-06-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "An image authentically shows U.S. President Donald Trump trying to kiss Brigitte Macron, French President Emmanuel Macron's wife, during Trump's June 2026 visit to France.",
+      "title": "Don't fall for supposed image of Trump trying to kiss Brigitte Macron",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "An image authentically shows U.S. President Donald Trump trying to kiss Brigitte Macron, French President Emmanuel Macron's wife, during Trump's June 2026 visit to France.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-kissing-brigitte-macron-france/",
+      "date_published": "2026-06-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Real photo shows spray-painted 0-1 under Department of War sign",
+      "title": "Fact Check: NO EVIDENCE Image of '0-1' Spray-Painted Below ...",
+      "verdict_label": "Altered Photo",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real photo shows spray-painted 0-1 under Department of War sign",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-no-evidence-image-of-0-1-spray-painted-below-department-of-war-plaque-is-real.html",
       "date_published": "2026-06-19",
       "lang": "en"
     },
