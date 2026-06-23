@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T09:14:41Z",
-  "total_count": 8140,
+  "last_updated": "2026-06-23T06:55:03Z",
+  "total_count": 8143,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,39 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Videos show news outlets interviewing Australians about politics.",
+      "title": "Aussie street interviews are AI fakes",
+      "verdict_label": "False. The videos are AI-generated.",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show news outlets interviewing Australians about politics.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/aussie-street-interviews-are-ai-fakes/",
+      "date_published": "2026-06-22",
+      "lang": "en"
+    },
+    {
+      "claim": "Former U.S. President Theodore Roosevelt banned Muslims from immigration to the United States.",
+      "title": "Did Teddy Roosevelt ban Muslims from US in 1907? Claim omits key context",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Former U.S. President Theodore Roosevelt banned Muslims from immigration to the United States.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/teddy-roosevelt-ban-muslims/",
+      "date_published": "2026-06-22",
+      "lang": "en"
+    },
+    {
+      "claim": "A viral video allegedly shows US President Donald Trump saying that Prime Minister Narendra Modi is a \"killer\" who killed millions in Gujarat in 2002 and was banned from entering the United States.",
+      "title": "Did Donald Trump Say PM Modi Killed Millions In Gujarat? No, Video Found To Be Doctored",
+      "verdict_label": "altered photo/video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A viral video allegedly shows US President Donald Trump saying that Prime Minister Narendra Modi is a \"killer\" who killed millions in Gujarat in 2002 and was banned from entering the United States.",
+      "source_name": "Newschecker",
+      "source_url": "https://newschecker.in/fact-check/did-donald-trump-say-pm-modi-killed-millions-in-gujarat-no-video-found-to-be-doctored",
+      "date_published": "2026-06-22",
+      "lang": "en"
+    },
     {
       "claim": "IDF soldiers burning the American flag.",
       "title": "Video of Israeli Soldiers Burning the U.S. Flag Is AI-Generated",
