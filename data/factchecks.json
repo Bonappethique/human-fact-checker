@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T06:55:03Z",
-  "total_count": 8143,
+  "last_updated": "2026-06-24T06:52:53Z",
+  "total_count": 8152,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Un vaccin russe contre le cancer offert aux patients du monde entier",
+      "title": "Non, la Russie n'a pas annoncé un vaccin universel contre le cancer",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un vaccin russe contre le cancer offert aux patients du monde entier",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B6PY89F",
+      "date_published": "2026-06-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "The government confirmed it is reserving 100,000 homes for recently arrived immigrants.",
+      "title": "Exclusive immigrant housing scheme is social media falsehood",
+      "verdict_label": "False. The homes are reserved for first-home buyers who are citizens or permanent residents.",
+      "verdict_category": "FAUX",
+      "explanation": "The government confirmed it is reserving 100,000 homes for recently arrived immigrants.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/exclusive-immigrant-housing-scheme-is-social-media-falsehood/",
+      "date_published": "2026-06-23",
+      "lang": "en"
+    },
+    {
+      "claim": "Une piscine installée sur un balcon en France lors de la canicule",
+      "title": "VÉRIF' - Une piscine a-t-elle vraiment été installée sur un balcon à l'occasion de la canicule historique que subit la France ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une piscine installée sur un balcon en France lors de la canicule",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-une-piscine-a-t-elle-vraiment-ete-installee-sur-un-balcon-a-l-occasion-de-la-canicule-historique-que-subit-la-france-2449073.html",
+      "date_published": "2026-06-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "Ibrahim Traoré critique l'organisation de la coupe du monde par les USA",
+      "title": "Attention, ces critiques du président burkinabé sur les contrôles américains au Mondial 2026 ne sont pas authentiques",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Ibrahim Traoré critique l'organisation de la coupe du monde par les USA",
+      "source_name": "AFP Factuel",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B7WL363",
+      "date_published": "2026-06-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump's motorcade drove through the newly painted and sealed Lincoln Memorial Reflecting Pool.",
+      "title": "Did Trump's motorcade drive through newly painted reflecting pool?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump's motorcade drove through the newly painted and sealed Lincoln Memorial Reflecting Pool.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-motorcade-reflecting-pool/",
+      "date_published": "2026-06-23",
+      "lang": "en"
+    },
+    {
+      "claim": "US President Donald Trump revoked comedian Samay Raina's US visa through a Truth Social post.",
+      "title": "No, Trump Didn’t Revoke Samay Raina’s US Visa After 'India’s Got Latent' Episode",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "US President Donald Trump revoked comedian Samay Raina's US visa through a Truth Social post.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/fake-screenshot-donald-trump-revoking-samay-raina-us-visa-indias-got-latent-fact-check",
+      "date_published": "2026-06-23",
+      "lang": "en"
+    },
+    {
+      "claim": "Italy PM Giorgia Meloni said, \"Nine countries have nuclear weapons. Only one has ever used them — the United States.\"",
+      "title": "Fact Check: Italian PM Giorgia Meloni Did NOT Point Out US Nuclear Weapon Use In Response To Trump",
+      "verdict_label": "Never Said",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Italy PM Giorgia Meloni said, \"Nine countries have nuclear weapons. Only one has ever used them — the United States.\"",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-italy-pm-giorgia-meloni-did-not-point-out-us-nuclear-weapons-use-in-response-to-trump.html",
+      "date_published": "2026-06-23",
+      "lang": "en"
+    },
+    {
       "claim": "Videos show news outlets interviewing Australians about politics.",
       "title": "Aussie street interviews are AI fakes",
       "verdict_label": "False. The videos are AI-generated.",
@@ -168,6 +245,17 @@
       "explanation": "A viral video allegedly shows US President Donald Trump saying that Prime Minister Narendra Modi is a \"killer\" who killed millions in Gujarat in 2002 and was banned from entering the United States.",
       "source_name": "Newschecker",
       "source_url": "https://newschecker.in/fact-check/did-donald-trump-say-pm-modi-killed-millions-in-gujarat-no-video-found-to-be-doctored",
+      "date_published": "2026-06-22",
+      "lang": "en"
+    },
+    {
+      "claim": "During a June 2026 interview at VivaTech, a tech conference in Paris, Amazon founder Jeff Bezos said human water consumption is limiting the potential of artificial intelligence.",
+      "title": "Did Jeff Bezos say human water consumption is limiting AI's potential?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "During a June 2026 interview at VivaTech, a tech conference in Paris, Amazon founder Jeff Bezos said human water consumption is limiting the potential of artificial intelligence.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/bezos-water-consumption-ai-quote/",
       "date_published": "2026-06-22",
       "lang": "en"
     },
@@ -89708,6 +89796,17 @@
       "explanation": "This video shows the midair collision of helicopters in Rio de Janeiro that killed American musician Oliver Tree.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/rio-helicopter-crash-video-fact-check-viral-clip-from-2024-malaysian-navy-collision-2927120-2026-06-15",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video from Lucknow’s Aliganj fire shows a woman dangling her child outside the window to protect her from the smoke.",
+      "title": "Fact Check: Video of baby dangling from window is NOT from Lucknow fire",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video from Lucknow’s Aliganj fire shows a woman dangling her child outside the window to protect her from the smoke.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/lucknow-fire-viral-video-fact-check-baby-dangling-clip-from-new-york-not-aliganj-2932663-2026-06-23",
       "date_published": "",
       "lang": "en"
     }
