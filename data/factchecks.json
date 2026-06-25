@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T06:52:53Z",
-  "total_count": 8152,
+  "last_updated": "2026-06-25T06:52:13Z",
+  "total_count": 8159,
   "sources": [
     "11Alive.com",
     "12News",
@@ -138,6 +138,83 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Dormir avec un ventilateur est extrêmement dangereux pour la santé",
+      "title": "VÉRIF' - Dormir avec un ventilateur est-il \"extrêmement dangereux\" comme l'affirment des vidéos virales ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Dormir avec un ventilateur est extrêmement dangereux pour la santé",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-dormir-avec-un-ventilateur-est-il-extremement-dangereux-comme-l-affirment-des-videos-virales-2449341.html",
+      "date_published": "2026-06-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "Bill Gates est à l'origine d'une vague d'allergies transmises par des tiques visant à rendre la population végétarienne",
+      "title": "VÉRIF' - Bill Gates est-il à l'origine d'une vague d'allergies ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Bill Gates est à l'origine d'une vague d'allergies transmises par des tiques visant à rendre la population végétarienne",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-bill-gates-est-il-a-l-origine-d-une-vague-d-allergies-transmises-par-des-tiques-visant-a-rendre-la-population-vegetarienne-2448928.html",
+      "date_published": "2026-06-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "Lincolnshire Housing Partnership has purchased 100 properties worth £23 million in total on the Ferriby Fields estate in Grimsby to be used exclusively for immigrants.",
+      "title": "Grimsby housing development homes aren’t ‘exclusively for immigrants’ – Full Fact",
+      "verdict_label": "False. Lincolnshire Housing Partnership has no plans to acquire homes on this site and there is no evidence 100 homes on the Ferriby Fields estate are being used exclusively for immigrants. They will be a mix of social rent, shared ownership, open market sale and privately rented.",
+      "verdict_category": "FAUX",
+      "explanation": "Lincolnshire Housing Partnership has purchased 100 properties worth £23 million in total on the Ferriby Fields estate in Grimsby to be used exclusively for immigrants.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/grimsby-immigrants-ferriby-fields-false/",
+      "date_published": "2026-06-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Videos show migrants in small boats attempting to cross the English Channel or arriving in the UK.",
+      "title": "More AI videos of small boat crossings circulate on Facebook – Full Fact",
+      "verdict_label": "False. The videos aren’t real and were created with AI.",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show migrants in small boats attempting to cross the English Channel or arriving in the UK.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/ai-video-migrant-boat/",
+      "date_published": "2026-06-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Un commentateur argentin qualifie la France de \"pays africain\"",
+      "title": "Attention, ces propos racistes attribués à un commentateur du Mondial ont été trafiqués",
+      "verdict_label": "Vidéo manipulée",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un commentateur argentin qualifie la France de \"pays africain\"",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B82P7T6",
+      "date_published": "2026-06-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "The video shows US President Donald Trump saying that Indian PM Narendra Modi killed millions in Gujarat in 2002.",
+      "title": "Video of Trump Saying PM Modi Killed Millions in Gujarat in 2002 Is Altered",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows US President Donald Trump saying that Indian PM Narendra Modi killed millions in Gujarat in 2002.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/video-of-trump-saying-pm-modi-killed-millions-in-gujarat-in-2002-altered-false-claim-fact-check",
+      "date_published": "2026-06-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Muslim woman forced to chant 'Jai Sri Ram' slogans by Hindus in India",
+      "title": "Muslim girl forced to chant ‘Jai Sri Ram’? No, old Dhaka video edited to give communal angle",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Muslim woman forced to chant 'Jai Sri Ram' slogans by Hindus in India",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/muslim-girl-forced-to-chant-jai-sri-ram-no-old-dhaka-video-edited-to-give-communal-angle/",
+      "date_published": "2026-06-24",
+      "lang": "en"
+    },
     {
       "claim": "Un vaccin russe contre le cancer offert aux patients du monde entier",
       "title": "Non, la Russie n'a pas annoncé un vaccin universel contre le cancer",
