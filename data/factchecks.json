@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T06:52:13Z",
-  "total_count": 8159,
+  "last_updated": "2026-06-26T06:58:44Z",
+  "total_count": 8169,
   "sources": [
     "11Alive.com",
     "12News",
@@ -35,6 +35,7 @@
     "Digiteye Kannada - Fact Checkers - DigitEye India",
     "Digiteye Telugu - DigitEye India",
     "Dismislab",
+    "Entreprisma",
     "FACTLY",
     "Fact Crescendo",
     "Fact Crescendo Cambodia",
@@ -138,6 +139,83 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "La raison est la mise en conformité avec la future réglementation européenne MiCA (Markets in Crypto-Assets).",
+      "title": "Binance : suspension de ses activités en France",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La raison est la mise en conformité avec la future réglementation européenne MiCA (Markets in Crypto-Assets).",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/binance-france-cryptos-consequences-pme",
+      "date_published": "2026-06-25",
+      "lang": "fr"
+    },
+    {
+      "claim": "La CCI France et ses antennes régionales proposent régulièrement des ateliers de sensibilisation à la transformation numérique.",
+      "title": "Accessibilité numérique PME : 4 leviers de performance",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La CCI France et ses antennes régionales proposent régulièrement des ateliers de sensibilisation à la transformation numérique.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/accessibilite-numerique-pme-levier-performance",
+      "date_published": "2026-06-25",
+      "lang": "fr"
+    },
+    {
+      "claim": "A photograph showed U.S. President Donald Trump sitting on a black towel during a Fox News interview.",
+      "title": "Trump wasn't sitting on towel during Fox News interview. Here's what you're actually seeing",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A photograph showed U.S. President Donald Trump sitting on a black towel during a Fox News interview.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-sitting-towel-fox/",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. Secretary of Defense Pete Hegseth once said he hasn't washed his hands in 10 years because he doesn't believe in germs.",
+      "title": "Did Hegseth once say he hadn't washed his hands in 10 years?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. Secretary of Defense Pete Hegseth once said he hasn't washed his hands in 10 years because he doesn't believe in germs.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/hegseth-washing-hands-germs/",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "JD Vance warned Israeli Prime Minister Benjamin Netanyahu about \"playing games\" with the United States and said that \"the whole world already hates\" him.",
+      "title": "Did JD Vance really tell Netanyahu not to play games and that the world hates him? Fact Check",
+      "verdict_label": "The claim is false. Vance did deliver pointed public criticism of Israeli cabinet members over their opposition to President Trump’s Iran memorandum/deal and related ceasefire efforts. However, the specific dramatic quote attributed to Netanyahu is not his verbatim and does not appear in any credible reports.",
+      "verdict_category": "FAUX",
+      "explanation": "JD Vance warned Israeli Prime Minister Benjamin Netanyahu about \"playing games\" with the United States and said that \"the whole world already hates\" him.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/did-jd-vance-really-tell-netanyahu-not-to-play-games-and-that-the-world-hates-him-fact-check/",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "An image circulating online in June 2026 authentically shows an old photo of U.S. President Donald Trump and his daughter Ivanka Trump with deceased sex offender Jeffrey Epstein.",
+      "title": "Don't fall for fake image of Donald and Ivanka Trump with Epstein",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image circulating online in June 2026 authentically shows an old photo of U.S. President Donald Trump and his daughter Ivanka Trump with deceased sex offender Jeffrey Epstein.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/donald-ivanka-trump-epstein-photo/",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "Former R&AW chief Vikram Sood praised Pakistan's geopolitical strategy with respect to the Iran-Israel-US conflict.",
+      "title": "Fact-Check: No, Former R&AW Chief Vikram Sood Didn’t Praise Pakistan’s Geopolitical Strategy",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Former R&AW chief Vikram Sood praised Pakistan's geopolitical strategy with respect to the Iran-Israel-US conflict.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/former-raw-chief-vikram-sood-praised-pakistan-for-iran-israel-us-deepfake-fact-check",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
     {
       "claim": "Dormir avec un ventilateur est extrêmement dangereux pour la santé",
       "title": "VÉRIF' - Dormir avec un ventilateur est-il \"extrêmement dangereux\" comme l'affirment des vidéos virales ?",
@@ -89884,6 +89962,39 @@
       "explanation": "This video from Lucknow’s Aliganj fire shows a woman dangling her child outside the window to protect her from the smoke.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/lucknow-fire-viral-video-fact-check-baby-dangling-clip-from-new-york-not-aliganj-2932663-2026-06-23",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Across 19 meta-analyses covering 5.5 million participants, multivitamin supplementation shows zero benefit for mortality, cardiovascular health, cancer prevention, infection risk, or exercise performance in healthy adults — and the only non-zero finding was a harm signal.",
+      "title": "19 Meta-Analyses Tested Your Multivitamin — FitChef",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Across 19 meta-analyses covering 5.5 million participants, multivitamin supplementation shows zero benefit for mortality, cardiovascular health, cancer prevention, infection risk, or exercise performance in healthy adults — and the only non-zero finding was a harm signal.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/multivitamins-waste-of-money/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Oral magnesium supplementation reduced sleep onset latency by 17 minutes in three small trials of older adults with insomnia, but total sleep time did not significantly improve, evidence quality is rated Low by GRADE, and the largest trial in younger healthy adults found 81% of participants below the threshold for clinically meaningful benefit.",
+      "title": "Magnesium and Sleep: 3 Studies Behind a $1.5B Market",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Oral magnesium supplementation reduced sleep onset latency by 17 minutes in three small trials of older adults with insomnia, but total sleep time did not significantly improve, evidence quality is rated Low by GRADE, and the largest trial in younger healthy adults found 81% of participants below the threshold for clinically meaningful benefit.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/magnesium-sleep-honest-assessment/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows women trying to save themselves by hiding under tables in a shop when two earthquakes struck Venezuela.",
+      "title": "Fact Check: These 3 earthquake videos are dramatic. But they are not from Venezuela",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows women trying to save themselves by hiding under tables in a shop when two earthquakes struck Venezuela.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/venezuela-earthquake-fact-check-viral-videos-myanmar-philippines-turkey-2934272-2026-06-25",
       "date_published": "",
       "lang": "en"
     }
