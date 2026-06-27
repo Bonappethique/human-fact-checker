@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T06:58:44Z",
-  "total_count": 8169,
+  "last_updated": "2026-06-27T06:33:01Z",
+  "total_count": 8176,
   "sources": [
     "11Alive.com",
     "12News",
@@ -140,6 +140,39 @@
   ],
   "factchecks": [
     {
+      "claim": "A Facebook page is publishing updates on the war in Ukraine.",
+      "title": "Australian-run page spreads Russia-Ukraine war falsehoods",
+      "verdict_label": "False. The claimed updates are false or misleading.",
+      "verdict_category": "FAUX",
+      "explanation": "A Facebook page is publishing updates on the war in Ukraine.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/australian-run-page-spreads-russia-ukraine-war-falsehoods/",
+      "date_published": "2026-06-26",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a post by Democratic congressional candidate Darializa Avila Chevalier that read, \"I forgot to get napkins so I just wiped my hand on the American flag behind me.\"",
+      "title": "Darializa Avila Chevalier once tweeted that she wiped her hands on American flag",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A screenshot authentically shows a post by Democratic congressional candidate Darializa Avila Chevalier that read, \"I forgot to get napkins so I just wiped my hand on the American flag behind me.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/chevalier-american-flag-tweet/",
+      "date_published": "2026-06-26",
+      "lang": "en"
+    },
+    {
+      "claim": "White House Press Secretary Karoline Leavitt said, “Under President Trump the U.S. unemployment rate is at a historic low of just 4.3%. It was at a dismal rate of 3.4% under Biden.”",
+      "title": "Did Karoline Leavitt say unemployment rate under Trump is at 'historic low'? Here's the truth",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "White House Press Secretary Karoline Leavitt said, “Under President Trump the U.S. unemployment rate is at a historic low of just 4.3%. It was at a dismal rate of 3.4% under Biden.”",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/karoline-leavitt-unemployment-rate/",
+      "date_published": "2026-06-26",
+      "lang": "en"
+    },
+    {
       "claim": "La raison est la mise en conformité avec la future réglementation européenne MiCA (Markets in Crypto-Assets).",
       "title": "Binance : suspension de ses activités en France",
       "verdict_label": "À nuancer",
@@ -213,6 +246,28 @@
       "explanation": "Former R&AW chief Vikram Sood praised Pakistan's geopolitical strategy with respect to the Iran-Israel-US conflict.",
       "source_name": "The Quint",
       "source_url": "https://www.thequint.com/news/webqoof/former-raw-chief-vikram-sood-praised-pakistan-for-iran-israel-us-deepfake-fact-check",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "In 2026, U.S. President Donald Trump's administration blocked the opening of the Gordie Howe International Bridge connecting Detroit with Windsor, Ontario, because the owners of the other bridge that connects the two cities donated $1 million to his campaign.",
+      "title": "Why is Trump admin blocking the Gordie Howe Bridge opening? Unpacking campaign donation rumor",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "In 2026, U.S. President Donald Trump's administration blocked the opening of the Gordie Howe International Bridge connecting Detroit with Windsor, Ontario, because the owners of the other bridge that connects the two cities donated $1 million to his campaign.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-blocking-gordie-howe-bridge/",
+      "date_published": "2026-06-25",
+      "lang": "en"
+    },
+    {
+      "claim": "Fencing went up around the Lincoln Memorial Reflecting Pool in Washington, D.C., in June 2026, after U.S. President Donald Trump claimed vandals had damaged the newly renovated monument.",
+      "title": "Did fencing go up around reflecting pool in June 2026?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Fencing went up around the Lincoln Memorial Reflecting Pool in Washington, D.C., in June 2026, after U.S. President Donald Trump claimed vandals had damaged the newly renovated monument.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/fencing-around-reflecting-pool/",
       "date_published": "2026-06-25",
       "lang": "en"
     },
@@ -89995,6 +90050,28 @@
       "explanation": "This video shows women trying to save themselves by hiding under tables in a shop when two earthquakes struck Venezuela.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/venezuela-earthquake-fact-check-viral-videos-myanmar-philippines-turkey-2934272-2026-06-25",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Across 19 meta-analyses covering 5.5 million participants, multivitamin supplementation shows zero benefit for mortality, cardiovascular health, cancer prevention, infection risk, or exercise performance in healthy adults — and the only non-zero finding was a harm signal.",
+      "title": "Six Mineral Supplements Tested. One Rule Predicted Every Result.",
+      "verdict_label": "Certainty Tier High Certainty",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Across 19 meta-analyses covering 5.5 million participants, multivitamin supplementation shows zero benefit for mortality, cardiovascular health, cancer prevention, infection risk, or exercise performance in healthy adults — and the only non-zero finding was a harm signal.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/library/micronutrients-minerals/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Undiagnosed iron deficiency costs female athletes up to 19% of their endurance — and the effective supplementation dose is five times what most multivitamins deliver.",
+      "title": "Iron Deficiency in Female Athletes: The Hidden 19% Endurance Tax",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Undiagnosed iron deficiency costs female athletes up to 19% of their endurance — and the effective supplementation dose is five times what most multivitamins deliver.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/iron-deficiency-female-athlete-performance/",
       "date_published": "",
       "lang": "en"
     }
