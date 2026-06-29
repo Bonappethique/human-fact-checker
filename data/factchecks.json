@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T07:05:49Z",
-  "total_count": 8176,
+  "last_updated": "2026-06-29T08:19:06Z",
+  "total_count": 8183,
   "sources": [
     "11Alive.com",
     "12News",
@@ -139,6 +139,83 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Thomas Buberl, PDG d’AXA, a déclaré que « L’Europe multiplie les solutions technocratiques mais ne sait plus créer d’attachement émotionnel ».",
+      "title": "Pourquoi Thomas Buberl AXA s'inquiète pour les PME ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Thomas Buberl, PDG d’AXA, a déclaré que « L’Europe multiplie les solutions technocratiques mais ne sait plus créer d’attachement émotionnel ».",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/thomas-buberl-axa-europe-technocratique-pme",
+      "date_published": "2026-06-28",
+      "lang": "fr"
+    },
+    {
+      "claim": "In Africa, Arab Muslims are enslaving black African Christians.",
+      "title": "Are Muslims Enslaving Christians in Africa?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "In Africa, Arab Muslims are enslaving black African Christians.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/28/are-muslims-enslaving-christians-africa",
+      "date_published": "2026-06-28",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows U.S. Sen. Lindsey Graham, R-S.C., posing with two shirtless fighters at the UFC Freedom 250 event at the White House on June 14, 2026.",
+      "title": "Does image show Lindsey Graham posing with shirtless UFC fighters?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows U.S. Sen. Lindsey Graham, R-S.C., posing with two shirtless fighters at the UFC Freedom 250 event at the White House on June 14, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/lindsey-graham-ufc-fighters/",
+      "date_published": "2026-06-28",
+      "lang": "en"
+    },
+    {
+      "claim": "According to reports, the US has launched a massive missile strike on Iran, resulting in the immediate death of Iranian Foreign Minister Abbas Araghchi.",
+      "title": "Does this Video Show the Targeting of Iranian Foreign Minister's Headquarters?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "According to reports, the US has launched a massive missile strike on Iran, resulting in the immediate death of Iranian Foreign Minister Abbas Araghchi.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/28/does-video-show-targeting-iranian-foreign-ministers-headquarters",
+      "date_published": "2026-06-28",
+      "lang": "en"
+    },
+    {
+      "claim": "L'épargne solidaire en France a atteint un niveau record de 34 milliards d'euros.",
+      "title": "L'épargne solidaire françaiseatteint 34 Mds€ : quel gain ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'épargne solidaire en France a atteint un niveau record de 34 milliards d'euros.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/epargne-solidaire-francaise-atteint-34-milliards-euros",
+      "date_published": "2026-06-27",
+      "lang": "fr"
+    },
+    {
+      "claim": "L'arrivée de 70 nouvelles enseignes étrangères en France est confirmée pour 2026.",
+      "title": "70 nouvelles ensignes étrangères en France",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'arrivée de 70 nouvelles enseignes étrangères en France est confirmée pour 2026.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/70-nouvelles-ensignes-etrangeres-en-france",
+      "date_published": "2026-06-27",
+      "lang": "fr"
+    },
+    {
+      "claim": "A U.S. military dog named Valor was honored at the Pentagon for surviving a suicide bombing and saving 47 soldiers in 2023.",
+      "title": "Don't believe story about heroic 'K9 Valor' surviving suicide bombing, saving 47 soldiers",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A U.S. military dog named Valor was honored at the Pentagon for surviving a suicide bombing and saving 47 soldiers in 2023.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/k9-valor-medal-honor-story/",
+      "date_published": "2026-06-27",
+      "lang": "en"
+    },
     {
       "claim": "A Facebook page is publishing updates on the war in Ukraine.",
       "title": "Australian-run page spreads Russia-Ukraine war falsehoods",
