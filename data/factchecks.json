@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T06:59:21Z",
-  "total_count": 8197,
+  "last_updated": "2026-07-01T07:16:17Z",
+  "total_count": 8207,
   "sources": [
     "11Alive.com",
     "12News",
@@ -140,6 +140,94 @@
   ],
   "factchecks": [
     {
+      "claim": "Videos show members of the public talking about their views on immigration.",
+      "title": "Videos of people giving their views on immigration are AI fakes – Full Fact",
+      "verdict_label": "These videos are fake. They contain SynthID watermarks and visual glitches which indicate they were generated using AI.",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show members of the public talking about their views on immigration.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/fake-ai-clips-immigration-vox-pops/",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2026, the United Nations demanded investigations into deaths in U.S. Immigration and Customs Enforcement detention centers.",
+      "title": "Did UN demand investigations into ICE detention center deaths? Rumor overstates the truth",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "In June 2026, the United Nations demanded investigations into deaths in U.S. Immigration and Customs Enforcement detention centers.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/united-nations-ice-investigation/",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Thales, Safran et le Crédit Agricole sont en tête de ce classement.",
+      "title": "Souveraineté économique CAC : qui sont les leaders 2026 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Thales, Safran et le Crédit Agricole sont en tête de ce classement.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/souverainete-economique-cac-40-palmares-pme",
+      "date_published": "2026-06-30",
+      "lang": "fr"
+    },
+    {
+      "claim": "Videos showing melting traffic lights, bananas in Europe during the heatwave in 2026",
+      "title": "Old Visuals Of Melting Traffic Lights, Bananas Linked To Europe ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Videos showing melting traffic lights, bananas in Europe during the heatwave in 2026",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/old-visuals-of-melting-traffic-lights-bananas-linked-to-europe-heatwave-31818",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Two consecutive earthquakes in Iran triggered by the U.S. militarys alleged use of a new and unprecedented weapon during its recent strikes.",
+      "title": "Does the Video Show a U.S. Weapon Triggering Two Earthquakes in Iran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Two consecutive earthquakes in Iran triggered by the U.S. militarys alleged use of a new and unprecedented weapon during its recent strikes.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/30/does-video-show-us-weapon-triggering-two-earthquakes-iran",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian military targeting U.S. ships in the Strait of Hormuz.",
+      "title": "Does the Video Show Iran Targeting U.S. Ships in the Strait of Hormuz?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian military targeting U.S. ships in the Strait of Hormuz.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/30/does-video-show-iran-targeting-us-ships-strait-hormuz",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. strikes targeting Iranian drone and missile facilities in the Strait of Hormuz.",
+      "title": "Video Shows Fire in India, Not Recent U.S. Strikes on Iran",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. strikes targeting Iranian drone and missile facilities in the Strait of Hormuz.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/06/30/video-shows-fire-india-not-recent-us-strikes-iran",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
+      "claim": "This is real recording of a pregnant woman attacked in NYC subway.",
+      "title": "Fact Check: FAKE Video Shows Pregnant Woman Attacked On Subway In NYC",
+      "verdict_label": "AI Video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "This is real recording of a pregnant woman attacked in NYC subway.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-fake-video-shows-pregnant-woman-attacked-on-subway-in-nyc.html",
+      "date_published": "2026-06-30",
+      "lang": "en"
+    },
+    {
       "claim": "Photo of crowds protesting over ballot paper shortages in S. Korea election",
       "title": "Aerial view of South Korean election protests is AI-generated",
       "verdict_label": "False",
@@ -224,6 +312,28 @@
       "explanation": "The Academy of Medical Royal Colleges said that social media is as bad for children as smoking.",
       "source_name": "Full Fact",
       "source_url": "https://fullfact.org/health/social-media-smoking-aomrc/",
+      "date_published": "2026-06-29",
+      "lang": "en"
+    },
+    {
+      "claim": "Des antifa ont saboté le bassin du Lincoln Memorial avec des algues",
+      "title": "Les allégations de sabotage \"antifa\" au Lincoln Memorial sont ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des antifa ont saboté le bassin du Lincoln Memorial avec des algues",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B8DR964",
+      "date_published": "2026-06-29",
+      "lang": "fr"
+    },
+    {
+      "claim": "An image shared to social media in June 2026 accurately depicts sparse crowds at the Great American State Fair, held on Washington, D.C.'s National Mall as part of celebrations for the United States' 250th birthday.",
+      "title": "Is this a real image of sparse crowds at Trump's 'Great American State Fair'?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "An image shared to social media in June 2026 accurately depicts sparse crowds at the Great American State Fair, held on Washington, D.C.'s National Mall as part of celebrations for the United States' 250th birthday.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/great-american-state-fair-crowd-size/",
       "date_published": "2026-06-29",
       "lang": "en"
     },
