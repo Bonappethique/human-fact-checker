@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T07:16:17Z",
-  "total_count": 8207,
+  "last_updated": "2026-07-02T06:45:21Z",
+  "total_count": 8215,
   "sources": [
     "11Alive.com",
     "12News",
@@ -129,6 +129,7 @@
     "YouTurn",
     "Youturn | fact check",
     "annie lab",
+    "beto.cd",
     "dpa-factchecking",
     "dw.com",
     "foodfacts.org",
@@ -139,6 +140,72 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Les 30.000 climatiseurs livrés dans les hôpitaux risquent de propager des maladies",
+      "title": "VÉRIF' - Les climatiseurs attendus dans les hôpitaux risquent-ils de ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les 30.000 climatiseurs livrés dans les hôpitaux risquent de propager des maladies",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-les-30000-climatiseurs-attendus-dans-les-hopitaux-risquent-ils-de-propager-des-maladies-2450420.html",
+      "date_published": "2026-07-01",
+      "lang": "fr"
+    },
+    {
+      "claim": "A photograph authentically shows U.S. President Donald Trump with a flipped-up toupee alongside French President Emmanuel Macron and his wife, Brigitte Macron, in mid-June 2026.",
+      "title": "Does photo show Trump with flipped-up toupee during G7 visit?",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A photograph authentically shows U.S. President Donald Trump with a flipped-up toupee alongside French President Emmanuel Macron and his wife, Brigitte Macron, in mid-June 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-toupee-macron-versailles/",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump mounted a golden eagle decoration, shown in an image he shared on Truth Social, on the White House's Truman Balcony in June 2026.",
+      "title": "Did Trump hang golden eagle decoration on White House balcony?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump mounted a golden eagle decoration, shown in an image he shared on Truth Social, on the White House's Truman Balcony in June 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-golden-eagle-white-house/",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows US President Donald Trump stating that students can now stay in the country after finishing their studies.",
+      "title": "Old Video of Trump Clipped To Claim That Foreign Students Can Now Get Green Card",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows US President Donald Trump stating that students can now stay in the country after finishing their studies.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/old-video-of-trump-clipped-to-claim-foreign-students-can-now-get-green-card-false-claim-fact-check",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Retired tennis star Martina Navratilova said, \"Respect is earned, not given,\" in response to U.S. President Donald Trump saying, \"You have to respect the president. If you don’t respect the president, you're going to have a problem.\"",
+      "title": "Did Martina Navratilova say 'respect is earned, not given' in response to Trump?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "Retired tennis star Martina Navratilova said, \"Respect is earned, not given,\" in response to U.S. President Donald Trump saying, \"You have to respect the president. If you don’t respect the president, you're going to have a problem.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/martina-navratilova-respect-trump/",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "A picture of Andy Burnham’s return to Parliament shows him standing next to several women who are wearing Islamic dress.",
+      "title": "Photo of Andy Burnham edited to include several women wearing Islamic dress – Full Fact",
+      "verdict_label": "This image has been edited to include the women in Islamic dress. They do not appear in the original photo posted by Deputy Leader of the Labour Party, Lucy Powell MP.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A picture of Andy Burnham’s return to Parliament shows him standing next to several women who are wearing Islamic dress.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/andy-burnham-picture-edited-people-wearing-islamic-dress/",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
     {
       "claim": "Videos show members of the public talking about their views on immigration.",
       "title": "Videos of people giving their views on immigration are AI fakes – Full Fact",
@@ -226,6 +293,17 @@
       "source_url": "https://leadstories.com/hoax-alert/2026/06/fact-check-fake-video-shows-pregnant-woman-attacked-on-subway-in-nyc.html",
       "date_published": "2026-06-30",
       "lang": "en"
+    },
+    {
+      "claim": "FAUX. La rumeur d’une arrestation du ministre des Sports Didier Budimbu à Paris est sans fondement : le ministère dément et le ministre se trouve aux États-Unis avec les Léopards.",
+      "title": "Désintox : Budimbu n’a pas été arrêté à Paris",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "FAUX. La rumeur d’une arrestation du ministre des Sports Didier Budimbu à Paris est sans fondement : le ministère dément et le ministre se trouve aux États-Unis avec les Léopards.",
+      "source_name": "beto.cd",
+      "source_url": "https://beto.cd/desintox-non-le-ministre-des-sports-didier-budimbu-na-pas-ete-arrete-a-paris/",
+      "date_published": "2026-06-30",
+      "lang": "fr"
     },
     {
       "claim": "Photo of crowds protesting over ballot paper shortages in S. Korea election",
@@ -90413,6 +90491,17 @@
       "explanation": "This video shows how the ongoing heatwave in Italy and Germany is causing traffic lights to melt.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/europe-heatwave-traffic-lights-fact-check-italy-germany-fire-damage-2937012-2026-06-29",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Fact check: Old visuals of melting traffic signals go viral as recent from Europe’s heatwave",
+      "title": "Fact check: Old visuals of melting traffic signals go viral as recent ...",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Fact check: Old visuals of melting traffic signals go viral as recent from Europe’s heatwave",
+      "source_name": "Lighthouse Journalism",
+      "source_url": "https://www.lighthousejournalism.com/world/fact-check-old-visuals-of-melting-traffic-signals-go-viral-as-recent-from-europes-heatwave-5295/",
       "date_published": "",
       "lang": "en"
     }
