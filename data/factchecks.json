@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T06:45:21Z",
-  "total_count": 8215,
+  "last_updated": "2026-07-03T06:36:38Z",
+  "total_count": 8225,
   "sources": [
     "11Alive.com",
     "12News",
@@ -23,6 +23,7 @@
     "Check Your Fact",
     "Consumer Watchdog",
     "DE FACTO",
+    "DUBAI today",
     "DW News",
     "DW.com",
     "De Facto",
@@ -141,6 +142,72 @@
   ],
   "factchecks": [
     {
+      "claim": "An image shows migrants getting out of a lorry which has stopped on the M62.",
+      "title": "No evidence viral picture of ‘migrant lorry’ stopping on M62 is real – Full Fact",
+      "verdict_label": "There’s no evidence this is a real picture. The image contains a SynthID watermark suggesting it was created or at least edited with OpenAI tools, and National Highways says it has had no reports of any such incident.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "An image shows migrants getting out of a lorry which has stopped on the M62.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/migrant-lorry-m62-motorway-picture/",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Image shows Malawian stoned to death in South Africa",
+      "title": "Decade-old image of man stoned in South Africa altered, misrepresented as 2026 xenophobic attack",
+      "verdict_label": "Altered picture",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Image shows Malawian stoned to death in South Africa",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8TB4T3",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Foreign nationals in Johannesburg have formed self-defence units",
+      "title": "Posts about South African anti-migrant protests resurface 2019 video",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Foreign nationals in Johannesburg have formed self-defence units",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8VT363",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2023, U.S. Vice President JD Vance posted on X: \"In this house we believe: Black Lives Matter. No human is illegal. Prigozhin is a Liberal reformer. Love is love.\"",
+      "title": "Did Vance once post 'Black Lives Matter' and 'No human is illegal' message?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "In June 2023, U.S. Vice President JD Vance posted on X: \"In this house we believe: Black Lives Matter. No human is illegal. Prigozhin is a Liberal reformer. Love is love.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/vance-black-lives-matter-joke/",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "On July 1, 2026, U.S. President Donald Trump said, “Now, as I see my two beautiful sons sitting there, I think I’m going to give one [Medal of Honor] to myself, one to them, and we’ll have a threesome, OK.”",
+      "title": "Did Trump joke about 'threesome' with two of his sons?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "On July 1, 2026, U.S. President Donald Trump said, “Now, as I see my two beautiful sons sitting there, I think I’m going to give one [Medal of Honor] to myself, one to them, and we’ll have a threesome, OK.”",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-threesome-sons/",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows mass grave in Sudan",
+      "title": "AI-generated video of mass grave falsely linked to Sudan war",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows mass grave in Sudan",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8A62WE",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
       "claim": "Les 30.000 climatiseurs livrés dans les hôpitaux risquent de propager des maladies",
       "title": "VÉRIF' - Les climatiseurs attendus dans les hôpitaux risquent-ils de ...",
       "verdict_label": "Faux",
@@ -203,6 +270,28 @@
       "explanation": "A picture of Andy Burnham’s return to Parliament shows him standing next to several women who are wearing Islamic dress.",
       "source_name": "Full Fact",
       "source_url": "https://fullfact.org/politics/andy-burnham-picture-edited-people-wearing-islamic-dress/",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S.-Israeli missile strike on Iran.",
+      "title": "Does the Video Show Recent U.S.-Israeli Strikes on Iranian Targets?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S.-Israeli missile strike on Iran.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/01/does-video-show-recent-us-israeli-strikes-iranian-targets",
+      "date_published": "2026-07-01",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S.-Israeli strike on 10 military bases and five Islamic Revolutionary Guard Corps sites in Tehran.",
+      "title": "Old Video Does Not Show Recent U.S.-Israeli Attack on IRGC Sites in Tehran",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S.-Israeli strike on 10 military bases and five Islamic Revolutionary Guard Corps sites in Tehran.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/01/old-video-does-not-show-recent-us-israeli-attack-irgc-sites-tehran",
       "date_published": "2026-07-01",
       "lang": "en"
     },
@@ -304,6 +393,17 @@
       "source_url": "https://beto.cd/desintox-non-le-ministre-des-sports-didier-budimbu-na-pas-ete-arrete-a-paris/",
       "date_published": "2026-06-30",
       "lang": "fr"
+    },
+    {
+      "claim": "FIFA will repaint the 2026 World Cup trophy with red, white and blue stars and stripes, resembling the flag of the United States of America.",
+      "title": "ಫಿಫಾ ನಿಜವಾಗಿಯೂ ಟ್ರೋಫಿಗೆ ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಧ್ವಜವನ್ನು ಹೋಲುವಂತೆ ಪುನಃ ಬಣ್ಣ ಬಳಿಯುತ್ತಿದೆಯೇ? ಸತ್ಯ ಪರಿಶೀಲನೆ - Digiteye Kannada",
+      "verdict_label": "The claim is totally false. No official FIFA statement, press release, or credible news source supports any physical alteration of the iconic FIFA World Cup Trophy. Official pictures and news confirm that the FIFA World Cup 2026 trophy is golden in colour.",
+      "verdict_category": "FAUX",
+      "explanation": "FIFA will repaint the 2026 World Cup trophy with red, white and blue stars and stripes, resembling the flag of the United States of America.",
+      "source_name": "Digiteye Kannada - Fact Checkers",
+      "source_url": "https://kannada.digiteye.in/is-fifa-really-repainting-the-trophy-to-resemble-the-united-states-flag-fact-check/1974/",
+      "date_published": "2026-06-30",
+      "lang": "kn"
     },
     {
       "claim": "Photo of crowds protesting over ballot paper shortages in S. Korea election",
@@ -90502,6 +90602,17 @@
       "explanation": "Fact check: Old visuals of melting traffic signals go viral as recent from Europe’s heatwave",
       "source_name": "Lighthouse Journalism",
       "source_url": "https://www.lighthousejournalism.com/world/fact-check-old-visuals-of-melting-traffic-signals-go-viral-as-recent-from-europes-heatwave-5295/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "President Trump’s order could end birthright citizenship for people born in the United States.",
+      "title": "US Supreme Court Blocks Trump Birthright Citizenship Order",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "President Trump’s order could end birthright citizenship for people born in the United States.",
+      "source_name": "DUBAI today",
+      "source_url": "https://mydubaitoday.com/flash/us-supreme-court-birthright-citizenship-ruling/",
       "date_published": "",
       "lang": "en"
     }
