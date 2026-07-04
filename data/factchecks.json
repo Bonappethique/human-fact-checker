@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T06:36:38Z",
-  "total_count": 8225,
+  "last_updated": "2026-07-04T06:24:23Z",
+  "total_count": 8239,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,83 @@
   ],
   "factchecks": [
     {
+      "claim": "La vidéo d'un gigantesque objet noir démontre l'existence du projet HAARP pour dérégler le climat",
+      "title": "VÉRIF' - \"Un gigantesque objet noir\" : cette vidéo montre-t-elle vraiment un outil de manipulation du climat ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La vidéo d'un gigantesque objet noir démontre l'existence du projet HAARP pour dérégler le climat",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/meteo/verif-haarp-un-gigantesque-objet-noir-cette-video-revele-t-elle-l-utilisation-d-un-outil-de-manipulation-du-climat-2451105.html",
+      "date_published": "2026-07-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Climate activists scaled the Sydney Opera House and erected banners opposing coal and gas.",
+      "title": "Foreign actor fabricates Opera House climate change protest",
+      "verdict_label": "False. There was no such protest and an image supposedly showing the protest is AI-generated.",
+      "verdict_category": "FAUX",
+      "explanation": "Climate activists scaled the Sydney Opera House and erected banners opposing coal and gas.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/foreign-actor-fabricates-opera-house-climate-change-protest/",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows two clips of traffic lights melting due to recent heatwaves in Europe.",
+      "title": "Videos don’t show traffic lights ‘melting’ due to heatwave – Full Fact",
+      "verdict_label": "False. The first video actually shows damage caused by a car fire underneath a traffic light in Lugagnano, Italy, while the second was caused by a fire at a nearby club in Berlin in 2025.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows two clips of traffic lights melting due to recent heatwaves in Europe.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/environment/video-traffic-light-melting-heatwave-false/",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Image shows Macron kneeling to present an award to Thailand's king.",
+      "title": "Image of France's Macron kneeling before Thai king during state ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Image shows Macron kneeling to present an award to Thailand's king.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8YX6ZQ",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "In June 2026, comedian Larry the Cable Guy released a statement asking supporters of U.S. President Donald Trump to \"unfollow me and do it now.\"",
+      "title": "Did Larry the Cable Guy tell Trump supporters to 'unfollow' him? Here's the truth",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "In June 2026, comedian Larry the Cable Guy released a statement asking supporters of U.S. President Donald Trump to \"unfollow me and do it now.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/larry-cable-guy-trump-supporters/",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Meloni commenting on the US use of nuclear weapons.",
+      "title": "Mistranslated video falsely shared as Italian premier's attack on Trump over nukes",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Meloni commenting on the US use of nuclear weapons.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8VC363",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Real video shows woman in a swimsuit winning cheese-rolling race down a hill",
+      "title": "Fact Check: FAKE Video Shows Woman In Swimsuit Winning Cheese-Rolling Race Down Hill",
+      "verdict_label": "Cheesy AI",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real video shows woman in a swimsuit winning cheese-rolling race down a hill",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-video-shows-woman-in-swimsuit-winning-cheese-rolling-race-down-hill.html",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
       "claim": "An image shows migrants getting out of a lorry which has stopped on the M62.",
       "title": "No evidence viral picture of ‘migrant lorry’ stopping on M62 is real – Full Fact",
       "verdict_label": "There’s no evidence this is a real picture. The image contains a SynthID watermark suggesting it was created or at least edited with OpenAI tools, and National Highways says it has had no reports of any such incident.",
@@ -204,6 +281,61 @@
       "explanation": "Video shows mass grave in Sudan",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B8A62WE",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "La Haute Autorité de Santé (HAS) a donné son feu vert concernant le remboursement de Poppins par l’Assurance maladie.",
+      "title": "Santé : Le jeu Poppins remboursé par l'assurance maladie",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La Haute Autorité de Santé (HAS) a donné son feu vert concernant le remboursement de Poppins par l’Assurance maladie.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/jeu-video-therapeutique-remboursement-poppins",
+      "date_published": "2026-07-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le chômage des moins de 25 ans en France est repassé au-dessus de son niveau d’avant la réforme de l’apprentissage.",
+      "title": "Chômage des jeunes : pourquoi l'Espagne réussit mieux ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le chômage des moins de 25 ans en France est repassé au-dessus de son niveau d’avant la réforme de l’apprentissage.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/chomage-des-jeunes-espagnes-surpasse-france",
+      "date_published": "2026-07-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "A real video shows a machet-wielding migrant on a small boat yell, \"This is the end of England!\" just before landing on English shores from France.",
+      "title": "Fact Check: FAKE Video Shows A Machete-Wielding Migrant On A Small Boat Yelling 'This Is the End of England!'",
+      "verdict_label": "Made By AI",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real video shows a machet-wielding migrant on a small boat yell, \"This is the end of England!\" just before landing on English shores from France.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-video-shows-a-machete-wielding-migrant-on-a-small-boat-yelling-this-is-the-end-of-england.html",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. Air Force Major Jason Watson was arrested after calling for President Donald Trump's impeachment and removal while on the steps of the Capitol on July 1, 2026.",
+      "title": "US Air Force Maj. Jason Watson arrested after calling for Trump's impeachment on Capitol steps",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. Air Force Major Jason Watson was arrested after calling for President Donald Trump's impeachment and removal while on the steps of the Capitol on July 1, 2026.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/major-jason-watson-arrested/",
+      "date_published": "2026-07-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Images of Thai aircrew charged with smuggling heroin into Australia",
+      "title": "Social media users circulate AI-generated images after Thai Airways ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Images of Thai aircrew charged with smuggling heroin into Australia",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8VE8CQ",
       "date_published": "2026-07-02",
       "lang": "en"
     },
@@ -90613,6 +90745,28 @@
       "explanation": "President Trump’s order could end birthright citizenship for people born in the United States.",
       "source_name": "DUBAI today",
       "source_url": "https://mydubaitoday.com/flash/us-supreme-court-birthright-citizenship-ruling/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows Iranians burning the Indian flag along with the Israeli and US flags in Tehran.",
+      "title": "Fact Check: India-Israel-US flags burnt in Iran? This clip is from Pak",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows Iranians burning the Indian flag along with the Israeli and US flags in Tehran.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/iran-viral-video-fact-check-indian-flag-burning-clip-from-karachi-pakistan-2939759-2026-07-03",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A video purportedly showed a burqa-clad Muslim woman opening fire at a motorcycle rider after he allegedly tried to molest her by blocking her path on a road.",
+      "title": "PTI Fact Check: AI-generated video of burqa-clad woman shared claiming she opened fire at motorcycle rider to resist molestation attempt",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A video purportedly showed a burqa-clad Muslim woman opening fire at a motorcycle rider after he allegedly tried to molest her by blocking her path on a road.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/ai-generated-video-of-burqa-clad-woman-shared-claiming-she-opened-fire-at-motorcycle-rider-to-resist-molestation-attempt/3823012",
       "date_published": "",
       "lang": "en"
     }
