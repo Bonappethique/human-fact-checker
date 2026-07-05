@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T06:24:23Z",
-  "total_count": 8239,
+  "last_updated": "2026-07-05T06:45:24Z",
+  "total_count": 8244,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,50 @@
   ],
   "factchecks": [
     {
+      "claim": "A traffic signal melted due to extreme heat in Europe.",
+      "title": "Fact Check: Viral Video Claiming Traffic Lights In Europe Melted ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A traffic signal melted due to extreme heat in Europe.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.vishvasnews.com/english/world/fact-check-viral-video-claiming-traffic-lights-in-europe-melted-due-to-heat-is-actually-of-fire-damage-in-italy/",
+      "date_published": "2026-07-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Traffic lights in Italy and Germany melted due to Europe's extreme heatwave.",
+      "title": "Verified: Viral Video Does Not Show Europe's Heatwave Melting ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Traffic lights in Italy and Germany melted due to Europe's extreme heatwave.",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-viral-video-does-not-show-europes-heatwave-melting-traffic-lights/",
+      "date_published": "2026-07-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Tim Cook, PDG d'Apple, est intervenu personnellement auprès de Bruxelles suite au blocage de Siri AI en Europe, indisponible pour les utilisateurs européens depuis la WWDC 2026.",
+      "title": "Siri AI bloqué : pourquoi Apple prive-t-il l'Europe ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Tim Cook, PDG d'Apple, est intervenu personnellement auprès de Bruxelles suite au blocage de Siri AI en Europe, indisponible pour les utilisateurs européens depuis la WWDC 2026.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/siri-ai-bloque-europe-apple-bruxelles",
+      "date_published": "2026-07-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "Olivier Bertrand est détenteur de la marque de burgers en France avec sa société Bertrand Franchise.",
+      "title": "Quel futur pour Burger King en Suisse ? Le plan Bertrand.",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Olivier Bertrand est détenteur de la marque de burgers en France avec sa société Bertrand Franchise.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/burger-king-en-suisse",
+      "date_published": "2026-07-04",
+      "lang": "fr"
+    },
+    {
       "claim": "La vidéo d'un gigantesque objet noir démontre l'existence du projet HAARP pour dérégler le climat",
       "title": "VÉRIF' - \"Un gigantesque objet noir\" : cette vidéo montre-t-elle vraiment un outil de manipulation du climat ?",
       "verdict_label": "Faux",
@@ -215,6 +259,17 @@
       "explanation": "Real video shows woman in a swimsuit winning cheese-rolling race down a hill",
       "source_name": "Lead Stories",
       "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-video-shows-woman-in-swimsuit-winning-cheese-rolling-race-down-hill.html",
+      "date_published": "2026-07-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Video purportedly shows two people on the Empire State Building holding a banner reading \"TRANS WOMEN ARE MEN!\"",
+      "title": "Did two climbers really hold up a banner against transwomen at the Empire State Building? Fact Check",
+      "verdict_label": "The claim is Misrepresentation. The viral video with a different banner text was generated using Grok Imagine by referring/taking the authentic footage from July 1, 2026, which actually shows climbers Angela Nikolau and Ivan Beerkus displaying a peace banner reading, \"When the power of love beats the love of power, the world knows peace,\" before Beerkus proposed to Nikolau. They were later arrested for this stunt.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video purportedly shows two people on the Empire State Building holding a banner reading \"TRANS WOMEN ARE MEN!\"",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/did-two-climbers-really-hold-up-a-banner-against-transwomen-at-the-empire-state-building-fact-check/",
       "date_published": "2026-07-03",
       "lang": "en"
     },
