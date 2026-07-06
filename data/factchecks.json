@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T06:45:24Z",
-  "total_count": 8244,
+  "last_updated": "2026-07-06T07:17:41Z",
+  "total_count": 8245,
   "sources": [
     "11Alive.com",
     "12News",
@@ -182,6 +182,17 @@
       "explanation": "Olivier Bertrand est détenteur de la marque de burgers en France avec sa société Bertrand Franchise.",
       "source_name": "Entreprisma",
       "source_url": "https://entreprisma.fr/article/burger-king-en-suisse",
+      "date_published": "2026-07-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le gouvernement a annoncé le lancement officiel du Programme de recherche pour le numérique écoresponsable, inscrit dans le cadre de France 2030.",
+      "title": "Le projet France 2030 finance le numérique écoresponsable",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le gouvernement a annoncé le lancement officiel du Programme de recherche pour le numérique écoresponsable, inscrit dans le cadre de France 2030.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/france-2030-numerique-ecoresponsable-programme-recherche",
       "date_published": "2026-07-04",
       "lang": "fr"
     },
