@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T07:17:41Z",
-  "total_count": 8245,
+  "last_updated": "2026-07-07T06:51:13Z",
+  "total_count": 8258,
   "sources": [
     "11Alive.com",
     "12News",
@@ -141,6 +141,149 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "mRNA is now in pork and shrimp: to alter your DNA and get you vaccinated",
+      "title": "False claims about mRNA vaccination via shrimp consumption resurface",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "mRNA is now in pork and shrimp: to alter your DNA and get you vaccinated",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B8879KE",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Le joueur du Paraguay Miguel Almiron a déclaré que \"l’arbitre était contre nous\"",
+      "title": "VÉRIF' - \"L'arbitre était contre nous\" : cette déclaration d'un joueur ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le joueur du Paraguay Miguel Almiron a déclaré que \"l’arbitre était contre nous\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sport/verif-l-arbitre-etait-contre-nous-cette-declaration-d-un-joueur-paraguayen-apres-le-match-contre-les-bleus-coupe-du-monde-2026-est-elle-vraie-2451604.html",
+      "date_published": "2026-07-06",
+      "lang": "fr"
+    },
+    {
+      "claim": "Un Malawite lapidé au cours de récentes émeutes en Afrique du Sud",
+      "title": "Cette photo vieille de dix ans ne montre pas un meurtre récent de citoyen malawite en Afrique du Sud",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un Malawite lapidé au cours de récentes émeutes en Afrique du Sud",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B97A4NQ",
+      "date_published": "2026-07-06",
+      "lang": "fr"
+    },
+    {
+      "claim": "In 2026, U.S. President Donald Trump promoted a proposal called \"The TRUMP Rules\" that would restrict legislative lawmakers' privileges and actions.",
+      "title": "Posts falsely claim Trump proposed new rules restricting Congress members' privileges",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "In 2026, U.S. President Donald Trump promoted a proposal called \"The TRUMP Rules\" that would restrict legislative lawmakers' privileges and actions.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-new-rules-congress/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows Iranians burning the Indian flag along with Israeli and American flags.",
+      "title": "Fact-check: Does this video show Iranians burning the Indian flag? No!",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows Iranians burning the Indian flag along with Israeli and American flags.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/video-shows-iranians-burning-the-indian-flag-false-claim-fact-check",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shows U.S. President Donald Trump appearing to briefly doze off during Washington's Fourth of July fireworks in 2026.",
+      "title": "Does video show Trump dozing off during Fourth of July fireworks?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A video authentically shows U.S. President Donald Trump appearing to briefly doze off during Washington's Fourth of July fireworks in 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-fall-asleep-fireworks/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A joint U.S.-Israeli attack targeting a major oil refinery in Tehran.",
+      "title": "Does the Video Show a U.S.-Israeli Attack on a Tehran Oil Refinery?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A joint U.S.-Israeli attack targeting a major oil refinery in Tehran.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/06/does-video-show-us-israeli-attack-tehran-oil-refinery",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "An image of Italian Prime Minister Giorgia Meloni gazing at U.S. President Donald Trump was original and unedited",
+      "title": "Fact Check: 'Restraining Order' Image of Meloni Gazing at Trump is EDITED -- Not Original",
+      "verdict_label": "Enhanced",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "An image of Italian Prime Minister Giorgia Meloni gazing at U.S. President Donald Trump was original and unedited",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-trump-meloni-restraining-order.html",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows a woman firing at her harasser.",
+      "title": "Fact-Check: Viral Video of Woman Firing at Harasser on Bike Is AI-Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows a woman firing at her harasser.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/woman-shooting-harasser-on-bike-viral-video-ai-generated-fact-check",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A real video shows the woman from a July 4, 2026, Reuters press photo pulling down her shorts on a Metro train some time before she was surrounded by members of Patriot Front.",
+      "title": "Fact Check: FAKE 'Before Patriot Front' Video Seems To Show Woman From Reuters Photo--But It Was Made With Google AI",
+      "verdict_label": "Made With AI",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real video shows the woman from a July 4, 2026, Reuters press photo pulling down her shorts on a Metro train some time before she was surrounded by members of Patriot Front.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-before-patriot-front-video-seems-to-show-woman-from-reuters-photo-but-it-was-made-with-google-ai.html",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A photograph authentically shows a Black woman seated in the Washington, D.C., metro train while surrounded by masked members of Patriot Front, a white nationalist group.",
+      "title": "Photo shows white nationalist Patriot Front members riding with Black woman on DC metro",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A photograph authentically shows a Black woman seated in the Washington, D.C., metro train while surrounded by masked members of Patriot Front, a white nationalist group.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/patriot-front-dc-metro-photo/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A nurse called Maya has been struggling for years to find secure, affordable housing for her and her daughter.",
+      "title": "Story about struggling nurse posted on MP's social media accounts ...",
+      "verdict_label": "Maya doesn’t really exist—the MP whose social media accounts this story was published on has now clarified that it is fictional and an attempt “to present policy in an accessible way”. The accompanying image of a nurse standing next to a girl appears to be made with AI.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A nurse called Maya has been struggling for years to find secure, affordable housing for her and her daughter.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/sureena-brackenridge-nurse-story-facebook-image-fictional/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "POTUS brand new Air Force One just ripped a blazing fast low-altitude pass right beside a US Aircraft Carrier followed by a pair of deadly B-21 Raiders!",
+      "title": "Did a U.S. Presidential Aircraft Make a Low Pass Over a U.S. Aircraft Carrier?",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "POTUS brand new Air Force One just ripped a blazing fast low-altitude pass right beside a US Aircraft Carrier followed by a pair of deadly B-21 Raiders!",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/05/did-us-presidential-aircraft-make-low-pass-over-us-aircraft-carrier",
+      "date_published": "2026-07-05",
+      "lang": "en"
+    },
     {
       "claim": "A traffic signal melted due to extreme heat in Europe.",
       "title": "Fact Check: Viral Video Claiming Traffic Lights In Europe Melted ...",
