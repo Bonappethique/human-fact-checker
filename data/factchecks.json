@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T06:51:13Z",
-  "total_count": 8258,
+  "last_updated": "2026-07-08T05:56:51Z",
+  "total_count": 8268,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,83 @@
   ],
   "factchecks": [
     {
+      "claim": "A video shows a migrant on a small boat waving a machete and shouting “this is the end of England”.",
+      "title": "Video of man waving machete on small boat isn’t real – Full Fact",
+      "verdict_label": "This video has been edited with artificial intelligence to make it appear as if the man is waving a machete.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows a migrant on a small boat waving a machete and shouting “this is the end of England”.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/ai-generated-video-small-boat-machete/",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "Rodante Marcoleta should not be jailed for plunder because the Comelec already cleared him of election violations for failing to disclose P75 million in campaign donations.",
+      "title": "Plunder complaint vs Marcoleta NOT for election offense",
+      "verdict_label": "Needs Context",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Rodante Marcoleta should not be jailed for plunder because the Comelec already cleared him of election violations for failing to disclose P75 million in campaign donations.",
+      "source_name": "VERA Files",
+      "source_url": "https://verafiles.org/articles/fact-check-comelecs-dismissal-of-marcoleta-case-does-not-bar-ombudsmans-plunder-complaint",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "Weather manipulation caused heatwaves in North America and Europe",
+      "title": "Baseless 'weather warfare' claims spread as deadly heat strikes multiple continents",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Weather manipulation caused heatwaves in North America and Europe",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9FC3KE",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "Immigrants set fire to the Saint-Michel Basilica in Bordeaux, France, in July 2026.",
+      "title": "Fact Check: Saint-Michel Basilica in Bordeaux, France, Was NOT ...",
+      "verdict_label": "Church Unhurt",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Immigrants set fire to the Saint-Michel Basilica in Bordeaux, France, in July 2026.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-saint-michel-basilica-in-bordeaux-france-was-not-set-on-fire-by-immigrants-in-july-2026.html",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a June 16, 2026, Truth Social post by U.S. President Donald Trump that begins: \"I've served this country with everything I have and stopped many wars—some say I've stopped over 100 wars—and yet, I've never taken a single penny as payment from our beautiful country.\"",
+      "title": "Did Trump post about stopping 'over 100 wars'?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a June 16, 2026, Truth Social post by U.S. President Donald Trump that begins: \"I've served this country with everything I have and stopped many wars—some say I've stopped over 100 wars—and yet, I've never taken a single penny as payment from our beautiful country.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-100-wars-post/",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "Real Native Americans face racism when selling Indigenous-style jackets.",
+      "title": "Prebunk: Fake Digital Natives Used To Sell Indigenous Jackets -- 'Artificial Indians' Bank On Sympathy For Real Native Americans",
+      "verdict_label": "Prebunk",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real Native Americans face racism when selling Indigenous-style jackets.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/prebunk-fake-digital-natives-used-to-sell-indigenous-jackets-artificial-indians-bank-on-sympathy-for-real-native-americans.html",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
+      "claim": "Ronaldo said his fans should invest in United States Water Reserve token",
+      "title": "Ronaldo interview altered to push unregulated cryptocurrency offer",
+      "verdict_label": "Altered video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Ronaldo said his fans should invest in United States Water Reserve token",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9EU3NQ",
+      "date_published": "2026-07-07",
+      "lang": "en"
+    },
+    {
       "claim": "mRNA is now in pork and shrimp: to alter your DNA and get you vaccinated",
       "title": "False claims about mRNA vaccination via shrimp consumption resurface",
       "verdict_label": "False",
@@ -270,6 +347,28 @@
       "explanation": "A nurse called Maya has been struggling for years to find secure, affordable housing for her and her daughter.",
       "source_name": "Full Fact",
       "source_url": "https://fullfact.org/politics/sureena-brackenridge-nurse-story-facebook-image-fictional/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Le tremblement de terre au Venezuela a été provoqué par la technologie HAARP",
+      "title": "Attention à ces publications affirmant que le projet HAARP a ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le tremblement de terre au Venezuela a été provoqué par la technologie HAARP",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B8TP89F",
+      "date_published": "2026-07-06",
+      "lang": "fr"
+    },
+    {
+      "claim": "A collection of photos authentically show trash and debris near and inside the Lincoln Memorial Reflecting Pool after a fireworks show for America's 250th anniversary on July 4, 2026.",
+      "title": "Photos show trash in and around reflecting pool after July 4 fireworks show",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A collection of photos authentically show trash and debris near and inside the Lincoln Memorial Reflecting Pool after a fireworks show for America's 250th anniversary on July 4, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/reflecting-pool-trash-fireworks/",
       "date_published": "2026-07-06",
       "lang": "en"
     },
@@ -90976,6 +91075,17 @@
       "explanation": "A video purportedly showed a burqa-clad Muslim woman opening fire at a motorcycle rider after he allegedly tried to molest her by blocking her path on a road.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/ai-generated-video-of-burqa-clad-woman-shared-claiming-she-opened-fire-at-motorcycle-rider-to-resist-molestation-attempt/3823012",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Fact check: Video of woman opening fire at biker is AI-generated",
+      "title": "Fact check: Video of woman opening fire at biker is AI-generated | lighthousejournalism",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "Fact check: Video of woman opening fire at biker is AI-generated",
+      "source_name": "Lighthouse Journalism",
+      "source_url": "https://www.lighthousejournalism.com/viral/fact-check-video-of-woman-opening-fire-at-biker-is-ai-generated-5306/",
       "date_published": "",
       "lang": "en"
     }
