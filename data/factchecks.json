@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T05:56:51Z",
-  "total_count": 8268,
+  "last_updated": "2026-07-09T06:54:56Z",
+  "total_count": 8276,
   "sources": [
     "11Alive.com",
     "12News",
@@ -141,6 +141,72 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Europe heatwaves melts traffic lights",
+      "title": "Clips of fire damage falsely shared as Europe heatwave aftermath",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Europe heatwaves melts traffic lights",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9J92KE",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "Cambodia orders Africans to leave or face prison",
+      "title": "Document giving African nationals May deadline to leave Cambodia is fake",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Cambodia orders Africans to leave or face prison",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9DU4T3",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "After Politico reported an allegation in July 2026 that Maine's Democratic U.S. Senate candidate Graham Platner had raped a woman, author Stephen King said, \"Tell you what — if you knew the whole truth about everyone in the Senate and House of Reps, those chambers would be dead empty. Jesus said, 'Let him without sin cast the first stone.'\"",
+      "title": "Did Stephen King respond to Platner allegations by writing, 'Let him without sin cast the first stone'?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "After Politico reported an allegation in July 2026 that Maine's Democratic U.S. Senate candidate Graham Platner had raped a woman, author Stephen King said, \"Tell you what — if you knew the whole truth about everyone in the Senate and House of Reps, those chambers would be dead empty. Jesus said, 'Let him without sin cast the first stone.'\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/stephen-king-defends-graham-platner/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a July 2026 Truth Social post in which U.S. President Donald Trump said he was seeking to use Immigration and Customs Enforcement detention centers for communists and \"Democrat politicians.\"",
+      "title": "Did Trump say ICE facilities should be used to detain communists, Democrats?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a July 2026 Truth Social post in which U.S. President Donald Trump said he was seeking to use Immigration and Customs Enforcement detention centers for communists and \"Democrat politicians.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-ice-communists-democrats/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "young men and women kissing each other during the recent CJP protest at Jantar Mantar in Delhi",
+      "title": "Verified: 2014 JNU ‘Kiss of Love’ Video Falsely Linked To Recent CJP Protest",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "young men and women kissing each other during the recent CJP protest at Jantar Mantar in Delhi",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/uncategorized/verified-2014-jnu-kiss-of-love-video-falsely-linked-to-recent-cjp-protest/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows Kentucky Sen. Mitch McConnell in the hospital.",
+      "title": "Fake Mitch McConnell hospital image spreads as questions ...",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows Kentucky Sen. Mitch McConnell in the hospital.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/mitch-mcconnell-hospital-image/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
     {
       "claim": "A video shows a migrant on a small boat waving a machete and shouting “this is the end of England”.",
       "title": "Video of man waving machete on small boat isn’t real – Full Fact",
@@ -369,6 +435,17 @@
       "explanation": "A collection of photos authentically show trash and debris near and inside the Lincoln Memorial Reflecting Pool after a fireworks show for America's 250th anniversary on July 4, 2026.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/reflecting-pool-trash-fireworks/",
+      "date_published": "2026-07-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Video of man having breakfast in U.K. street and being attacked by three migrants, one of whom threatens rape before the last one jumps on the table is real.",
+      "title": "Fact Check: Breakfast Attack In London Video Is NOT Real-Life Footage -- It Is AI-Generated",
+      "verdict_label": "AI Video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video of man having breakfast in U.K. street and being attacked by three migrants, one of whom threatens rape before the last one jumps on the table is real.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-of-breakfast-attack-in-london-is-not-real-life-footage.html",
       "date_published": "2026-07-06",
       "lang": "en"
     },
@@ -91086,6 +91163,17 @@
       "explanation": "Fact check: Video of woman opening fire at biker is AI-generated",
       "source_name": "Lighthouse Journalism",
       "source_url": "https://www.lighthousejournalism.com/viral/fact-check-video-of-woman-opening-fire-at-biker-is-ai-generated-5306/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "The largest analysis ever conducted on menstrual cycle phase and exercise performance — 78 studies covering 1,193 women — found the effect is trivially small and disappears entirely in well-designed studies. Four independent research programs measuring performance, muscle protein synthesis, strength, and resting metabolism all converge on the same conclusion: cycle phase does not meaningfully change any of them.",
+      "title": "Does Your Menstrual Cycle Affect Your Workout? — FitChef",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The largest analysis ever conducted on menstrual cycle phase and exercise performance — 78 studies covering 1,193 women — found the effect is trivially small and disappears entirely in well-designed studies. Four independent research programs measuring performance, muscle protein synthesis, strength, and resting metabolism all converge on the same conclusion: cycle phase does not meaningfully change any of them.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/cycle-syncing-training-myth/",
       "date_published": "",
       "lang": "en"
     }
