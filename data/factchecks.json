@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T06:54:56Z",
-  "total_count": 8276,
+  "last_updated": "2026-07-10T06:49:59Z",
+  "total_count": 8291,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,94 @@
   ],
   "factchecks": [
     {
+      "claim": "Le programme Haarp est responsable de la canicule en France",
+      "title": "Le programme de recherche scientifique HAARP à l'origine de la ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le programme Haarp est responsable de la canicule en France",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B9L34ZQ",
+      "date_published": "2026-07-09",
+      "lang": "fr"
+    },
+    {
+      "claim": "France24 reported Zelenskyy authorized the building of a EU-funded memorial to UPA fighters who killed Poles.",
+      "title": "Fact Check: FAKE France 24 Video Does NOT Accurately ...",
+      "verdict_label": "No Such Report",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France24 reported Zelenskyy authorized the building of a EU-funded memorial to UPA fighters who killed Poles.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-france-24-video-does-not-accurately-summarize-upa-related-monument-legislation.html",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Image Trump posted as \"retribution\" against Iran shows July 2026 U.S. bombing",
+      "title": "Fact Check: Image Trump Posted as 'Retribution' Against Iran Does NOT Show July 2026 U.S. Bombing -- It Is June 2025 Israeli Attack",
+      "verdict_label": "Old Photo",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Image Trump posted as \"retribution\" against Iran shows July 2026 U.S. bombing",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-image-trump-posted-as-retribution-against-iran-does-not-show-july-2026-us-bombing-its-june-2025-israeli-attack.html",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranians burned the Indian flag because of India's US and Israel ties.",
+      "title": "Video of India's flag set alight filmed in Pakistan, not Iran",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Iranians burned the Indian flag because of India's US and Israel ties.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9DG9NQ",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "A photo circulating online in 2026 authentically shows a young Zohran Mamdani, New York's mayor, standing with sex offender Jeffrey Epstein and his associate Ghislaine Maxwell, former U.S. President Bill Clinton and tech billionaires Bill Gates and Jeff Bezos.",
+      "title": "Image allegedly shows young Mamdani with Epstein, Maxwell, Clinton, Gates and Bezos. Don't be fooled",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A photo circulating online in 2026 authentically shows a young Zohran Mamdani, New York's mayor, standing with sex offender Jeffrey Epstein and his associate Ghislaine Maxwell, former U.S. President Bill Clinton and tech billionaires Bill Gates and Jeff Bezos.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/image-clinton-gates-epstein-mamdani/",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Video authentically shows U.S. President Donald Trump falling asleep during a bilateral meeting with Turkey’s President Recep Tayyip Erdogan in July 2026.",
+      "title": "Did Trump fall asleep during meeting with Erdogan? We examined footage",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video authentically shows U.S. President Donald Trump falling asleep during a bilateral meeting with Turkey’s President Recep Tayyip Erdogan in July 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-falls-asleep-turkey/",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "In July 2026, U.S. President Donald Trump said his funeral will draw a much bigger crowd than Iranian Ayatollah Ali Khamenei's funeral.",
+      "title": "Did Trump say his funeral crowd would be bigger than Iranian ayatollah's? Don't be fooled",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In July 2026, U.S. President Donald Trump said his funeral will draw a much bigger crowd than Iranian Ayatollah Ali Khamenei's funeral.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-funeral-ayatollah/",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump shaking hands with Italian Prime Minister Giorgia Meloni at a NATO summit in Turkey.",
+      "title": "Does the Video Show Meloni Shaking Hands With Trump at the NATO Summit in Turkey?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. President Donald Trump shaking hands with Italian Prime Minister Giorgia Meloni at a NATO summit in Turkey.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/09/does-video-show-meloni-shaking-hands-trump-nato-summit-turkey",
+      "date_published": "2026-07-09",
+      "lang": "en"
+    },
+    {
       "claim": "Europe heatwaves melts traffic lights",
       "title": "Clips of fire damage falsely shared as Europe heatwave aftermath",
       "verdict_label": "False",
@@ -204,6 +292,39 @@
       "explanation": "An image authentically shows Kentucky Sen. Mitch McConnell in the hospital.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/mitch-mcconnell-hospital-image/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "\"Following the American attack on the *Shahid Haqqani* in Bandar Abbas, Iran has just launched a retaliatory strike against highly classified American facilities in response to the U.S. attack on the *Shahid Haqqani* in Bandar Abbas\".",
+      "title": "Fact check: No, Iran did not strike a secret US Gulf base",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "\"Following the American attack on the *Shahid Haqqani* in Bandar Abbas, Iran has just launched a retaliatory strike against highly classified American facilities in response to the U.S. attack on the *Shahid Haqqani* in Bandar Abbas\".",
+      "source_name": "DW.com",
+      "source_url": "https://www.dw.com/en/fact-check-no-iran-did-not-strike-a-secret-us-gulf-base/a-77876290",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump said, \"We had 111 missiles shot by the Islamic Republic of Japan.\"",
+      "title": "Trump said 'Islamic Republic of Japan' fired missiles at US aircraft carrier",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump said, \"We had 111 missiles shot by the Islamic Republic of Japan.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-islamic-republic-japan/",
+      "date_published": "2026-07-08",
+      "lang": "en"
+    },
+    {
+      "claim": "A group of 25 gas stations around Philadelphia, called the Freedom Fuel Network, offered large discounts on gas on July 3, as U.S. President Donald Trump announced in a Truth Social post.",
+      "title": "Trump-endorsed 'Freedom Fuel' gas stations exist, despite AI image he shared",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A group of 25 gas stations around Philadelphia, called the Freedom Fuel Network, offered large discounts on gas on July 3, as U.S. President Donald Trump announced in a Truth Social post.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-freedom-fuel-gas-stations/",
       "date_published": "2026-07-08",
       "lang": "en"
     },
@@ -5869,6 +5990,17 @@
       "explanation": "In 2022, conservative influencer Jack Posobiec posted \"86 46\" on X, using \"86\" as slang for getting rid of someone and \"46\" as a reference to then-U.S. President Joe Biden.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/jack-posobiec-8646-tweet/",
+      "date_published": "2026-04-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Malta established an Exclusive Economic Zone in law for the first time.",
+      "title": "Malta established an Exclusive Economic Zone in law for the first time. — Spunt",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Malta established an Exclusive Economic Zone in law for the first time.",
+      "source_name": "Spunt",
+      "source_url": "https://www.spunt.mt/malta-fact-check/did-malta-really-establish-its-exclusive-economic-zone-in-law-for-the-first-time",
       "date_published": "2026-04-30",
       "lang": "en"
     },
@@ -91174,6 +91306,39 @@
       "explanation": "The largest analysis ever conducted on menstrual cycle phase and exercise performance — 78 studies covering 1,193 women — found the effect is trivially small and disappears entirely in well-designed studies. Four independent research programs measuring performance, muscle protein synthesis, strength, and resting metabolism all converge on the same conclusion: cycle phase does not meaningfully change any of them.",
       "source_name": "FitChef",
       "source_url": "https://fitchef.com/claims/cycle-syncing-training-myth/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "The largest analysis ever conducted on menstrual cycle phase and exercise performance — 78 studies covering 1,193 women — found the effect is trivially small and disappears entirely in well-designed studies. Four independent research programs measuring performance, muscle protein synthesis, strength, and resting metabolism all converge on the same conclusion: cycle phase does not meaningfully change any of them.",
+      "title": "Women, Hormones, and Training: What 78 Studies, 3 Life Stages, and Nearly 3,000 Women Actually Found",
+      "verdict_label": "Certainty Tier High Certainty",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "The largest analysis ever conducted on menstrual cycle phase and exercise performance — 78 studies covering 1,193 women — found the effect is trivially small and disappears entirely in well-designed studies. Four independent research programs measuring performance, muscle protein synthesis, strength, and resting metabolism all converge on the same conclusion: cycle phase does not meaningfully change any of them.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/library/womens-fitness-hormones/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Oral contraceptive pill use has no meaningful effect on muscle hypertrophy, strength gains, or exercise performance — the combined evidence from 325 women across 8 studies shows an effect size of 0.01 for muscle growth, with zero disagreement between studies and zero between-study heterogeneity.",
+      "title": "Does Birth Control Affect Muscle Growth? 325 Women Tested",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Oral contraceptive pill use has no meaningful effect on muscle hypertrophy, strength gains, or exercise performance — the combined evidence from 325 women across 8 studies shows an effect size of 0.01 for muscle growth, with zero disagreement between studies and zero between-study heterogeneity.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/birth-control-pill-gains/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Body composition changes significantly during the menopause transition — fat gain nearly doubles while lean mass reverses from gain to loss — but these changes are concentrated in a roughly 3.5-year window around the final menstrual period and stop afterward. The largest longitudinal study on this question tracked 1,246 women for 17 years with DXA scans and found that after the transition, every body composition variable decelerated to zero slope. Standard metrics — weight and BMI — cannot detect the shift at all.",
+      "title": "The Menopause Body Composition Timeline Your Scale Can't Show You",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Body composition changes significantly during the menopause transition — fat gain nearly doubles while lean mass reverses from gain to loss — but these changes are concentrated in a roughly 3.5-year window around the final menstrual period and stop afterward. The largest longitudinal study on this question tracked 1,246 women for 17 years with DXA scans and found that after the transition, every body composition variable decelerated to zero slope. Standard metrics — weight and BMI — cannot detect the shift at all.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/menopause-body-composition-timeline/",
       "date_published": "",
       "lang": "en"
     }
