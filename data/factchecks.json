@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T05:45:06Z",
-  "total_count": 8299,
+  "last_updated": "2026-07-12T06:08:19Z",
+  "total_count": 8302,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,17 @@
   ],
   "factchecks": [
     {
+      "claim": "Moroccan migrants have broken into a violent riot in Paris following Morocco's defeat to France in the FIFA World Cup",
+      "title": "No, viral video does not show ‘migrant Moroccans’ rioting in Paris after World Cup defeat",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Moroccan migrants have broken into a violent riot in Paris following Morocco's defeat to France in the FIFA World Cup",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/no-viral-video-does-not-show-migrant-moroccans-rioting-in-paris-after-world-cup-defeat/",
+      "date_published": "2026-07-11",
+      "lang": "en"
+    },
+    {
       "claim": "Individuals who received the COVID-19 vaccine will only live up to 2030 and will experience symptoms prior to death.",
       "title": "FACT CHECK: Claim that COVID-19 vaccine recipients will only live until 2030 is false",
       "verdict_label": "False",
@@ -215,6 +226,17 @@
       "explanation": "Video shows people gathering for Iran's former supreme leader's funeral",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B9PC8T3",
+      "date_published": "2026-07-10",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically showed that U.S Sen. Mitch McConnell, R-Ky., posted proof of life on X including a picture of himself holding a copy of The Washington Post on July 7, 2026.",
+      "title": "Mitch McConnell didn't post proof of life on X",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically showed that U.S Sen. Mitch McConnell, R-Ky., posted proof of life on X including a picture of himself holding a copy of The Washington Post on July 7, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/mitch-mcconnell-proof-life-post/",
       "date_published": "2026-07-10",
       "lang": "en"
     },
@@ -316,6 +338,17 @@
       "source_url": "https://factcheck.afp.com/doc.afp.com.B9RC2WE",
       "date_published": "2026-07-09",
       "lang": "en"
+    },
+    {
+      "claim": "Emmanuel Macron menace le Burkina Faso",
+      "title": "Macron réagit à la rupture diplomatique avec le Burkina Faso ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Emmanuel Macron menace le Burkina Faso",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B9QC4G3",
+      "date_published": "2026-07-09",
+      "lang": "fr"
     },
     {
       "claim": "Europe heatwaves melts traffic lights",
