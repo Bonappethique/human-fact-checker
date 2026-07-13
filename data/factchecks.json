@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T06:08:19Z",
-  "total_count": 8302,
+  "last_updated": "2026-07-13T06:24:18Z",
+  "total_count": 8303,
   "sources": [
     "11Alive.com",
     "12News",
@@ -141,6 +141,17 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "A new law was proposed to ban women in skirt from sitting on subways",
+      "title": "Claims of proposed South Korean anti-spycam law targetting ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A new law was proposed to ban women in skirt from sitting on subways",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9P94CQ",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
     {
       "claim": "Moroccan migrants have broken into a violent riot in Paris following Morocco's defeat to France in the FIFA World Cup",
       "title": "No, viral video does not show ‘migrant Moroccans’ rioting in Paris after World Cup defeat",
