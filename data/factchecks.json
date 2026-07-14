@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T06:24:18Z",
-  "total_count": 8303,
+  "last_updated": "2026-07-14T05:36:12Z",
+  "total_count": 8317,
   "sources": [
     "11Alive.com",
     "12News",
@@ -16,6 +16,7 @@
     "Africa Check",
     "Agence Science-Presse",
     "Alt News",
+    "BETO",
     "BOOM",
     "BOOM Fact Check",
     "Boom Live",
@@ -150,6 +151,149 @@
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.B9P94CQ",
       "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Harry Kane has confirmed that he will not wear the LGBT rainbow symbol in upcoming matches, saying football should not be about political or social movements.",
+      "title": "Harry Kane didn’t refuse to wear a rainbow symbol in matches – Full Fact",
+      "verdict_label": "False. There is no evidence that Harry Kane ever made these comments, and the English Football Association (FA) has confirmed that the quote is fake.",
+      "verdict_category": "FAUX",
+      "explanation": "Harry Kane has confirmed that he will not wear the LGBT rainbow symbol in upcoming matches, saying football should not be about political or social movements.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/sport/harry-kane-lgbt-refused-to-wear-symbol-fake-quote/",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "There was no such thing as autism in Vietnam before a vaccine programme funded by Bill Gates.",
+      "title": "Vaccines funded by Bill Gates did not cause autism to increase in Vietnam – Full Fact",
+      "verdict_label": "Vaccines do not cause autism, and an increase in diagnosis of autism does not mean it did not exist in the country before.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "There was no such thing as autism in Vietnam before a vaccine programme funded by Bill Gates.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/health/autism-vietnam-vaccine-bill-gates/",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Le projet Haarp a causé le double séisme au Venezuela",
+      "title": "Attention à ces publications affirmant que le projet HAARP a ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le projet Haarp a causé le double séisme au Venezuela",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B9R68ZQ",
+      "date_published": "2026-07-13",
+      "lang": "fr"
+    },
+    {
+      "claim": "5G causes heatwaves across Europe",
+      "title": "Posts falsely link 5G to heatwaves in Europe",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "5G causes heatwaves across Europe",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9LQ3T3",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Une vidéo du Hezbollah revendiquant une attaque à venir en France pour le 14 juillet",
+      "title": "Un attentat en France annoncé par le Hezbollah pour le 14 juillet ? Attention à cette vidéo peu crédible",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une vidéo du Hezbollah revendiquant une attaque à venir en France pour le 14 juillet",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B9ZW3NR",
+      "date_published": "2026-07-13",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France est à la 99e place du classement des pays les plus sûrs du Monde",
+      "title": "Attention à ces publications qui affirment que la France est l'un des pays les moins sûrs du monde",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France est à la 99e place du classement des pays les plus sûrs du Monde",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.B9UC6KE",
+      "date_published": "2026-07-13",
+      "lang": "fr"
+    },
+    {
+      "claim": "South African flag-bearer falls at World Cup 2026",
+      "title": "AI-generated video does not show South African flag bearer tripping ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South African flag-bearer falls at World Cup 2026",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9ZK7T3",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "A recent U.S. strike on a uranium enrichment facility near Iran's Bushehr nuclear power plant using bunker-buster bombs.",
+      "title": "Video Falsely Linked to Recent Bunker-Buster Strike on Iranian Facility",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A recent U.S. strike on a uranium enrichment facility near Iran's Bushehr nuclear power plant using bunker-buster bombs.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/13/video-falsely-linked-recent-bunker-buster-strike-iranian-facility",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "British woman Millie Taplin was paralysed after Muslim men spiked her drink on the way to a nightclub.",
+      "title": "Old spiked drink story used to push fake anti-Muslim narrative",
+      "verdict_label": "False. The claim comes from a parody account and the suspect was never identified.",
+      "verdict_category": "FAUX",
+      "explanation": "British woman Millie Taplin was paralysed after Muslim men spiked her drink on the way to a nightclub.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/old-spiked-drink-story-used-to-push-fake-anti-muslim-narrative/",
+      "date_published": "2026-07-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Sur les réseaux, deux affirmations circulent : « il n'y a pas d'Ebola en RDC » et l'épidémie serait « un prétexte pour vendre des vaccins ». Verdict : FAUX. Ce déni, propagé notamment par une vidéo générée par IA, met en danger la riposte et les populations.",
+      "title": "Non, Ebola n'est pas une invention pour vendre des vaccins",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Sur les réseaux, deux affirmations circulent : « il n'y a pas d'Ebola en RDC » et l'épidémie serait « un prétexte pour vendre des vaccins ». Verdict : FAUX. Ce déni, propagé notamment par une vidéo générée par IA, met en danger la riposte et les populations.",
+      "source_name": "BETO",
+      "source_url": "https://beto.cd/beto-verite-ebola-nest-pas-invention-vendre-vaccins-factcheck/",
+      "date_published": "2026-07-12",
+      "lang": "fr"
+    },
+    {
+      "claim": "Musician Bruce Springsteen said, \"There's some very weird, strange and dangerous s*** going on in America. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president.\"",
+      "title": "Did Bruce Springsteen call Trump an 'unfit president'?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "Musician Bruce Springsteen said, \"There's some very weird, strange and dangerous s*** going on in America. A majority of our elected representatives have failed to protect the American people from the abuses of an unfit president.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/bruce-springsteen-trump-unfit/",
+      "date_published": "2026-07-12",
+      "lang": "en"
+    },
+    {
+      "claim": "L'affirmation, virale : un avion de guerre des FARDC aurait été abattu par le M23 à Goma. Verdict : FAUX. Elle appartient à une série d'intox militaires, montages et fabrications par IA, qui font de l'image une arme dans la guerre de l'Est.",
+      "title": "BETO Vérité — Non, le M23 n'a pas abattu d'avion des FARDC : la guerre de l'image à l'Est",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "L'affirmation, virale : un avion de guerre des FARDC aurait été abattu par le M23 à Goma. Verdict : FAUX. Elle appartient à une série d'intox militaires, montages et fabrications par IA, qui font de l'image une arme dans la guerre de l'Est.",
+      "source_name": "BETO",
+      "source_url": "https://beto.cd/factcheck-avion-fardc-m23-guerre-image-est-intox/",
+      "date_published": "2026-07-12",
+      "lang": "fr"
+    },
+    {
+      "claim": "Australian newspaper published article titled 'Free Curry and Roti pulled massive crowd'",
+      "title": "Free food drew crowd to Modi event in Australia? Morphed ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Australian newspaper published article titled 'Free Curry and Roti pulled massive crowd'",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/did-australian-media-expose-that-free-curry-and-roti-drew-crowds-to-modi-event-fact-check/",
+      "date_published": "2026-07-12",
       "lang": "en"
     },
     {
@@ -91471,6 +91615,17 @@
       "explanation": "Body composition changes significantly during the menopause transition — fat gain nearly doubles while lean mass reverses from gain to loss — but these changes are concentrated in a roughly 3.5-year window around the final menstrual period and stop afterward. The largest longitudinal study on this question tracked 1,246 women for 17 years with DXA scans and found that after the transition, every body composition variable decelerated to zero slope. Standard metrics — weight and BMI — cannot detect the shift at all.",
       "source_name": "FitChef",
       "source_url": "https://fitchef.com/claims/menopause-body-composition-timeline/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "These videos show recent US and Iran attacks following the breakdown of the ceasefire.",
+      "title": "Fact Check: These videos DON’T show US and Iran attacks",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "These videos show recent US and Iran attacks following the breakdown of the ceasefire.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/us-iran-attacks-fact-check-viral-videos-from-malta-moscow-hong-kong-dubai-2946866-2026-07-13",
       "date_published": "",
       "lang": "en"
     }
