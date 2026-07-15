@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T05:36:12Z",
-  "total_count": 8317,
+  "last_updated": "2026-07-15T05:37:09Z",
+  "total_count": 8318,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,17 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "The AI industry needs \"more energy than the entire country produces right now ... In fact some people say almost double.\"",
+      "title": "Data centers need a lot of energy, but President Donald Trump's ...",
+      "verdict_label": "Mostly False",
+      "verdict_category": "FAUX",
+      "explanation": "The AI industry needs \"more energy than the entire country produces right now ... In fact some people say almost double.\"",
+      "source_name": "PolitiFact",
+      "source_url": "https://www.politifact.com/factchecks/2026/jul/14/donald-trump/ai-data-centers-electricty-grid/",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
     {
       "claim": "A new law was proposed to ban women in skirt from sitting on subways",
       "title": "Claims of proposed South Korean anti-spycam law targetting ...",
