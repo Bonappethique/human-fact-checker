@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T05:37:09Z",
-  "total_count": 8318,
+  "last_updated": "2026-07-16T05:44:48Z",
+  "total_count": 8323,
   "sources": [
     "11Alive.com",
     "12News",
@@ -142,6 +142,61 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Jean-Luc Mélenchon déclaré dans une interview en 1991 que \"le Front national réhabilite la politique\"",
+      "title": "VÉRIF' - Jean-Luc Mélenchon a-t-il vraiment affirmé dans une ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Jean-Luc Mélenchon déclaré dans une interview en 1991 que \"le Front national réhabilite la politique\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-jean-luc-melenchon-a-t-il-vraiment-affirme-dans-une-interview-que-le-front-national-rehabilite-la-politique-2453279.html",
+      "date_published": "2026-07-15",
+      "lang": "fr"
+    },
+    {
+      "claim": "Heatwave in Europe melting traffic lights",
+      "title": "Clips of fire damage falsely shared as Europe heatwave aftermath",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Heatwave in Europe melting traffic lights",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2733CQ",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Des véhicules électriques explosent en France à cause de la chaleur",
+      "title": "VÉRIF' - Canicule : des véhicules électriques explosent-ils en ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des véhicules électriques explosent en France à cause de la chaleur",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-des-vehicules-electriques-explosent-ils-en-france-a-cause-de-la-canicule-2453073.html",
+      "date_published": "2026-07-15",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump said, \"If Christians don't get involved in politics, politics will erase their right to be Christians.\"",
+      "title": "Did Trump tell Christians they need to get involved in politics?",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump said, \"If Christians don't get involved in politics, politics will erase their right to be Christians.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-christians-politics-quote/",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Authorities arrested Lena Hale, a transgender woman working as a corrections officer at a women's prison in Lee County, Florida, for impregnating 13 female inmates.",
+      "title": "Florida corrections officer Lena Hale wasn't arrested for ...",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "Authorities arrested Lena Hale, a transgender woman working as a corrections officer at a women's prison in Lee County, Florida, for impregnating 13 female inmates.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/lena-hale-corrections-officer/",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
     {
       "claim": "The AI industry needs \"more energy than the entire country produces right now ... In fact some people say almost double.\"",
       "title": "Data centers need a lot of energy, but President Donald Trump's ...",
