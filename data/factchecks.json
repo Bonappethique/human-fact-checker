@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T05:44:48Z",
-  "total_count": 8323,
+  "last_updated": "2026-07-17T05:46:15Z",
+  "total_count": 8348,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Jean-Luc Mélenchon a déclaré \"'Le seul parti qui réhabilite la politique, c'est le Front national\"",
+      "title": "VRAI OU FAUX. Jean-Luc Mélenchon a-t-il déclaré que \"le seul parti ...",
+      "verdict_label": "C’est plus compliqué",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Jean-Luc Mélenchon a déclaré \"'Le seul parti qui réhabilite la politique, c'est le Front national\"",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-jean-luc-melenchon-a-t-il-declare-que-le-seul-parti-qui-rehabilite-la-politique-c-est-le-front-national-comme-le-pretend-une-interview-relayee-par-jean-philippe-tanguy_8108606.html",
+      "date_published": "2026-07-17",
+      "lang": "fr"
+    },
+    {
+      "claim": "Votre logement réquisitionné pour loger des sans-abris ou des migrants quand vous partez en vacances",
+      "title": "Vacances d’été : Votre logement réquisitionné pour loger des sans-abri ou des migrants quand vous partez ? C’est faux",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Votre logement réquisitionné pour loger des sans-abris ou des migrants quand vous partez en vacances",
+      "source_name": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/societe/4234698-20260716-vacances-logement-requisitionne-loger-abri-migrants-quand-partez-faux",
+      "date_published": "2026-07-16",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le haut-commissariat à la Stratégie et au Plan a évalué à 187 milliards d'euros les soutiens publics bénéficiant aux entreprises.",
+      "title": "Budget : 187 milliards d'euros d'aides aux entreprises",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le haut-commissariat à la Stratégie et au Plan a évalué à 187 milliards d'euros les soutiens publics bénéficiant aux entreprises.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/budget-aides-aux-entreprises-187-milliards-euros",
+      "date_published": "2026-07-16",
+      "lang": "fr"
+    },
+    {
+      "claim": "In July 2026, U.S. Defense Secretary Pete Hegseth announced testosterone screening for U.S. troops, along with replacement therapy.",
+      "title": "Did Hegseth announce testosterone screening, replacement therapy for troops?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In July 2026, U.S. Defense Secretary Pete Hegseth announced testosterone screening for U.S. troops, along with replacement therapy.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/pete-hegseth-testosterone-testing/",
+      "date_published": "2026-07-16",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a Muslim man named Shahil engaging in obscene behaviour in front of two young women on a bus in Sagar, Madhya Pradesh.",
+      "title": "The man who engaged in obscene behaviour in front of two young women on a bus in M.P, is not Muslim",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a Muslim man named Shahil engaging in obscene behaviour in front of two young women on a bus in Sagar, Madhya Pradesh.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/the-man-who-engaged-in-obscene-behaviour-in-front-of-two-young-women-on-a-bus-in-m-p-is-not-muslim/",
+      "date_published": "2026-07-16",
+      "lang": "en"
+    },
+    {
+      "claim": "South Korean school children required to study Chinese culture and history.",
+      "title": "Posts falsely claim all South Korean students required to learn Chinese history, culture",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South Korean school children required to study Chinese culture and history.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2466T3",
+      "date_published": "2026-07-16",
+      "lang": "en"
+    },
+    {
+      "claim": "People With Diabetes should Eat 70 Grams of Sugar",
+      "title": "Fact Check: Should People With Diabetes Eat 70 Grams of Sugar?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "People With Diabetes should Eat 70 Grams of Sugar",
+      "source_name": "THIP Media",
+      "source_url": "https://www.thip.media/health-news-fact-check/fact-check-should-people-with-diabetes-eat-70-grams-of-sugar/149391/",
+      "date_published": "2026-07-16",
+      "lang": "en"
+    },
+    {
       "claim": "Jean-Luc Mélenchon déclaré dans une interview en 1991 que \"le Front national réhabilite la politique\"",
       "title": "VÉRIF' - Jean-Luc Mélenchon a-t-il vraiment affirmé dans une ...",
       "verdict_label": "Plutôt faux",
@@ -198,6 +275,94 @@
       "lang": "en"
     },
     {
+      "claim": "U.S. Immigration and Customs Enforcement has spent hundreds of thousands of dollars on vehicles equipped with \"cell site simulators\" (also known as \"fake cell towers\") that can be used to spy on phones.",
+      "title": "ICE bought vehicles equipped with 'fake cell towers' used to spy on phones. Here's proof",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. Immigration and Customs Enforcement has spent hundreds of thousands of dollars on vehicles equipped with \"cell site simulators\" (also known as \"fake cell towers\") that can be used to spy on phones.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/ice-cell-tower-spy/",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows fire near Eiffel Tower following France-Morocco match",
+      "title": "Old PSG victory celebrations misrepresented online as World Cup vandalism in Paris",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows fire near Eiffel Tower following France-Morocco match",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9Z82G6",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Cette photo montre les récents bombardements américains sur l'Iran",
+      "title": "Les images partagées par Donald Trump n'ont rien à voir avec les nouvelles frappes contre l'Iran",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Cette photo montre les récents bombardements américains sur l'Iran",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C29X7NQ",
+      "date_published": "2026-07-15",
+      "lang": "fr"
+    },
+    {
+      "claim": "A video shows an explosion in Bushehr due to a July 2026 US airstrike",
+      "title": "Video of 2015 China explosions misrepresented as US strike on Iran",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows an explosion in Bushehr due to a July 2026 US airstrike",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C27K6G3",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "After the death of Sen. Lindsey Graham, U.S. President Donald Trump said in a July 2026 interview with Newsmax that “a certain part of [Graham's] body literally blew up.\"",
+      "title": "Trump said part of Lindsey Graham's body 'literally blew up'",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "After the death of Sen. Lindsey Graham, U.S. President Donald Trump said in a July 2026 interview with Newsmax that “a certain part of [Graham's] body literally blew up.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/lindsey-graham-trump-quote/",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. strikes on a weapons and ammunition storage facility operated by the Iranian Army.",
+      "title": "Video Does Not Show U.S. Attack on Iranian Weapons Storage Facility",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. strikes on a weapons and ammunition storage facility operated by the Iranian Army.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/15/video-does-not-show-us-attack-iranian-weapons-storage-facility",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows IRGC Headquarters in Tehran, Iran, burning after a US strike.",
+      "title": "Fact-check: Video of a Fire in Hong Kong Falsely Linked to the US-Iran Conflict",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows IRGC Headquarters in Tehran, Iran, burning after a US strike.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/video-of-fire-in-hong-kong-falsely-linked-to-us-iran-conflict",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian forces targeting and destroying a U.S. ship in the Strait of Hormuz.",
+      "title": "Does the Video Show Iran Destroying a U.S. Ship in the Strait of Hormuz Recently?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian forces targeting and destroying a U.S. ship in the Strait of Hormuz.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/15/does-video-show-iran-destroying-us-ship-strait-hormuz-recently",
+      "date_published": "2026-07-15",
+      "lang": "en"
+    },
+    {
       "claim": "The AI industry needs \"more energy than the entire country produces right now ... In fact some people say almost double.\"",
       "title": "Data centers need a lot of energy, but President Donald Trump's ...",
       "verdict_label": "Mostly False",
@@ -207,6 +372,94 @@
       "source_url": "https://www.politifact.com/factchecks/2026/jul/14/donald-trump/ai-data-centers-electricty-grid/",
       "date_published": "2026-07-14",
       "lang": "en"
+    },
+    {
+      "claim": "Un rapport a été remis à la Commission européenne le lundi 13 juillet.",
+      "title": "Le permis numérique pour mineurs devient un futur probable ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un rapport a été remis à la Commission européenne le lundi 13 juillet.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/permis-numerique-pour-pour-mineurs-europe",
+      "date_published": "2026-07-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video shows Iran attack on US airbase in Kuwait",
+      "title": "Video Of Malta Factory Blast Falsely Shared As Iran Attack on US Airbase | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Iran attack on US airbase in Kuwait",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/video-of-malta-factory-blast-falsely-shared-as-iran-attack-on-us-airbase-31874",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows a US strike on Iran in July 2026",
+      "title": "Old fire videos misrepresented as US strikes on Iran",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows a US strike on Iran in July 2026",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C23G6ZQ",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "The United States destroying Iranian military bases after launching at least 500 missiles in recent attacks.",
+      "title": "Does the Video Show U.S. Strikes Destroying Iranian Military Bases in Recent Attacks?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The United States destroying Iranian military bases after launching at least 500 missiles in recent attacks.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/14/does-video-show-us-strikes-destroying-iranian-military-bases-recent-attacks",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Photos from the Lincoln Memorial Reflecting Pool's July 2026 draining show tire tracks left by U.S. President Donald Trump's motorcade from early May.",
+      "title": "Did Trump's motorcade leave tire tracks in reflecting pool? What photos show",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Photos from the Lincoln Memorial Reflecting Pool's July 2026 draining show tire tracks left by U.S. President Donald Trump's motorcade from early May.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/reflecting-pool-tire-tracks/",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Israeli and U.S. pilots fleeing air bases in the Gulf following recent Iranian attacks.",
+      "title": "Video Does Not Show Israeli and U.S. Pilots Escaping Air Bases in the Gulf",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Israeli and U.S. pilots fleeing air bases in the Gulf following recent Iranian attacks.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/14/video-does-not-show-israeli-and-us-pilots-escaping-air-bases-gulf",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "In 2025, U.S. President Donald Trump's administration cut surveillance of cyclospora, a parasite that causes an intestinal disease called cyclosporiasis, of which thousands of cases were reported across the country in 2026.",
+      "title": "Trump's CDC cut tracking of 'explosive diarrhea' parasite before 2026 outbreak",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In 2025, U.S. President Donald Trump's administration cut surveillance of cyclospora, a parasite that causes an intestinal disease called cyclosporiasis, of which thousands of cases were reported across the country in 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/cyclospora-parasite-trump-cuts/",
+      "date_published": "2026-07-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Une femme libère un lion d’un barbelé",
+      "title": "Une femme libère un lion d’un barbelé ? Gare au deepfake",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une femme libère un lion d’un barbelé",
+      "source_name": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/societe/4233883-20260714-femme-libere-lion-barbele-gare-deepfake",
+      "date_published": "2026-07-14",
+      "lang": "fr"
     },
     {
       "claim": "A new law was proposed to ban women in skirt from sitting on subways",
@@ -91692,6 +91945,28 @@
       "explanation": "These videos show recent US and Iran attacks following the breakdown of the ceasefire.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/us-iran-attacks-fact-check-viral-videos-from-malta-moscow-hong-kong-dubai-2946866-2026-07-13",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows the destruction caused by Iran's recent attacks on US military bases in the Gulf region.",
+      "title": "Fact Check: Viral blaze is from South Korea, NOT Iran's attacks on Gulf countries",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This video shows the destruction caused by Iran's recent attacks on US military bases in the Gulf region.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/south-korea-fire-video-fact-check-viral-clip-falsely-linked-to-iran-attacks-in-gulf-2949476-2026-07-16",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Video claiming to show a muslim man allegedly making obscene gestures toward two women inside a bus.",
+      "title": "PTI Fact Check: Madhya Pradesh bus harassment video reshared with false communal claim identifying accused as Muslim",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Video claiming to show a muslim man allegedly making obscene gestures toward two women inside a bus.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/madhya-pradesh-bus-harassment-video-reshared-with-false-communal-claim-identifying-accused-as-muslim/3867161",
       "date_published": "",
       "lang": "en"
     }
