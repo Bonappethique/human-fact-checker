@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T05:46:15Z",
-  "total_count": 8348,
+  "last_updated": "2026-07-18T05:31:32Z",
+  "total_count": 8359,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,17 @@
   ],
   "factchecks": [
     {
+      "claim": "Un seul médecin rencontrera le patient avant la validation d'une demande d'aide à mourir",
+      "title": "VRAI OU FAUX. Aide à mourir : le patient ne rencontrera-t-il qu'un ...",
+      "verdict_label": "Plutôt Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un seul médecin rencontrera le patient avant la validation d'une demande d'aide à mourir",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-aide-a-mourir-le-patient-ne-rencontrera-t-il-qu-un-seul-medecin-avant-la-validation-de-sa-demande-comme-le-denonce-francois-xavier-bellamy_8110238.html",
+      "date_published": "2026-07-18",
+      "lang": "fr"
+    },
+    {
       "claim": "Jean-Luc Mélenchon a déclaré \"'Le seul parti qui réhabilite la politique, c'est le Front national\"",
       "title": "VRAI OU FAUX. Jean-Luc Mélenchon a-t-il déclaré que \"le seul parti ...",
       "verdict_label": "C’est plus compliqué",
@@ -152,6 +163,116 @@
       "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-jean-luc-melenchon-a-t-il-declare-que-le-seul-parti-qui-rehabilite-la-politique-c-est-le-front-national-comme-le-pretend-une-interview-relayee-par-jean-philippe-tanguy_8108606.html",
       "date_published": "2026-07-17",
       "lang": "fr"
+    },
+    {
+      "claim": "Une vingtaine de départements sont encore dépourvus d'unités de soins palliatifs en France",
+      "title": "VÉRIF' - Une vingtaine de départements sont-ils encore dépourvus ...",
+      "verdict_label": "Vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une vingtaine de départements sont encore dépourvus d'unités de soins palliatifs en France",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-une-vingtaine-de-departements-sont-ils-encore-depourvus-d-unites-de-soins-palliatifs-en-france-2453503.html",
+      "date_published": "2026-07-17",
+      "lang": "fr"
+    },
+    {
+      "claim": "Malaysia PM Anwar Ibrahim calls off state polls after election defeat.",
+      "title": "Months-old comments from Malaysian PM misrepresented as reaction to state elections defeat",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Malaysia PM Anwar Ibrahim calls off state polls after election defeat.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2EZ8KE",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "You have to be a member of the House of Lords or an elected member in a general election to become UK Prime Minister. Andy Burnham was neither of these and therefore has no legal right to be Prime Minister.",
+      "title": "Posts claiming Andy Burnham ‘has no legal right to be Prime Minister’ aren’t accurate – Full Fact",
+      "verdict_label": "Incorrect. By modern convention the Prime Minister is an MP, but there is no law that requires them to have been elected in a general election.",
+      "verdict_category": "FAUX",
+      "explanation": "You have to be a member of the House of Lords or an elected member in a general election to become UK Prime Minister. Andy Burnham was neither of these and therefore has no legal right to be Prime Minister.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/andy-burnham-cannot-legally-be-pm-incorrect-claim/",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Hillary Clinton made appeal to China to meddle in 2020 election during TV interview",
+      "title": "Fact Check: Hillary Clinton Did NOT Appeal To China To Meddle In 2020 Election During TV Interview -- It Was A 'What If' Question",
+      "verdict_label": "Hypothetical",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Hillary Clinton made appeal to China to meddle in 2020 election during TV interview",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-hillary-clinton-did-not-appeal-to-china-to-meddle-in-2020-election-during-tv-interview-it-was-a-what-if-question.html",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "\"Plus de 50% de l'eau qu'on prélève en France sert à refroidir les centrales nucléaires, et on les rejette avec des températures supérieures de 3-10°C : on condamne tout le vivant de la rivière\"",
+      "title": "VÉRIF' – \"On condamne tout le vivant\" : les rejets d'eau des centrales nucléaires sont-ils vraiment nocifs pour la biodiversité ?",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"Plus de 50% de l'eau qu'on prélève en France sert à refroidir les centrales nucléaires, et on les rejette avec des températures supérieures de 3-10°C : on condamne tout le vivant de la rivière\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/environnement-ecologie/verif-on-condamne-tout-le-vivant-les-rejets-d-eau-des-centrales-nucleaires-sont-ils-vraiment-nocifs-pour-la-biodiversite-2453630.html",
+      "date_published": "2026-07-17",
+      "lang": "fr"
+    },
+    {
+      "claim": "The United States is the only country competing in the 2026 FIFA World Cup without universal healthcare.",
+      "title": "Is US only country in 2026 World Cup without universal healthcare? We checked all 48 teams",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The United States is the only country competing in the 2026 FIFA World Cup without universal healthcare.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/world-cup-teams-universal-healthcare/",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said, “Infertility is genetic. If your parents can’t have kids, neither can you.”",
+      "title": "Did RFK Jr. say 'infertility is genetic'? Here's the truth",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said, “Infertility is genetic. If your parents can’t have kids, neither can you.”",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/rfk-infertility-genetic-quote/",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Is there a leaked video from the Jeffrey Epstein files that shows woman tied up and begging for food?",
+      "title": "Fact Check: Video Is NOT From Epstein Files Showing Woman Tied Up In Kitchen -- It Is From A Comedy Film",
+      "verdict_label": "Comedy Sketch",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Is there a leaked video from the Jeffrey Epstein files that shows woman tied up and begging for food?",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-not-epstein-files-woman-tied-up-kitchen-comedy-sketch.html",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Real photo shows Elliot Page on the cover of Men's Health for August 2026.",
+      "title": "Fact Check: FAKE Photo Shows Elliot Page On Men's Health Cover ...",
+      "verdict_label": "Satire Label",
+      "verdict_category": "SATIRE",
+      "explanation": "Real photo shows Elliot Page on the cover of Men's Health for August 2026.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-photo-shows-elliot-page-onl-mens-health-cover-for-august-2026.html",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Author and anti-transgender activist J.K. Rowling posted an \"upskirt\" photo of a transgender woman named Freda Wallace on social media.",
+      "title": "JK Rowling deadnamed and posted 'upskirt' photo of trans woman ...",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Author and anti-transgender activist J.K. Rowling posted an \"upskirt\" photo of a transgender woman named Freda Wallace on social media.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/jk-rowling-upskirt-transgender-woman/",
+      "date_published": "2026-07-17",
+      "lang": "en"
     },
     {
       "claim": "Votre logement réquisitionné pour loger des sans-abris ou des migrants quand vous partez en vacances",
