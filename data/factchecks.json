@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T05:31:32Z",
-  "total_count": 8359,
+  "last_updated": "2026-07-19T05:58:12Z",
+  "total_count": 8366,
   "sources": [
     "11Alive.com",
     "12News",
@@ -154,6 +154,17 @@
       "lang": "fr"
     },
     {
+      "claim": "A screenshot circulating in mid-2026 authentically showed a Truth Social post from U.S. President Donald Trump that disparaged The Beatles and called musician Paul McCartney an \"ANTI-TRUMP JOKE.\"",
+      "title": "Don't fall for fake Trump post ranting about Paul McCartney, The Beatles",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A screenshot circulating in mid-2026 authentically showed a Truth Social post from U.S. President Donald Trump that disparaged The Beatles and called musician Paul McCartney an \"ANTI-TRUMP JOKE.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-paul-mccartney-beatles-post/",
+      "date_published": "2026-07-18",
+      "lang": "en"
+    },
+    {
       "claim": "Jean-Luc Mélenchon a déclaré \"'Le seul parti qui réhabilite la politique, c'est le Front national\"",
       "title": "VRAI OU FAUX. Jean-Luc Mélenchon a-t-il déclaré que \"le seul parti ...",
       "verdict_label": "C’est plus compliqué",
@@ -271,6 +282,50 @@
       "explanation": "Author and anti-transgender activist J.K. Rowling posted an \"upskirt\" photo of a transgender woman named Freda Wallace on social media.",
       "source_name": "Snopes.com",
       "source_url": "https://www.snopes.com/fact-check/jk-rowling-upskirt-transgender-woman/",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Did FIFA president sahy a decision will be made after the final game about a penalty for Argentina after players displayed political message about Falkland Islands.",
+      "title": "Fact Check: FIFA President Gianni Infantino Did NOT Say They Will Make A Decision About Argentina Political Message After Final Game",
+      "verdict_label": "Never Said",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Did FIFA president sahy a decision will be made after the final game about a penalty for Argentina after players displayed political message about Falkland Islands.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fifa-president-gianni-infantino-did-not-say-will-make-decision-argentina-political-message-after-final-game.html",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. Air Force is currently bombing Iranian port cities, with reports of at least explosions in the vicinity of Chabahar.",
+      "title": "Old Video Does Not Show Recent U.S. Strikes on Iran Amid Latest Escalation",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The U.S. Air Force is currently bombing Iranian port cities, with reports of at least explosions in the vicinity of Chabahar.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/17/old-video-does-not-show-recent-us-strikes-iran-amid-latest-escalation",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "An image accurately shows U.S. Defense Secretary Pete Hegseth dressing in emo fashion for his senior yearbook photo.",
+      "title": "Pete Hegseth didn't sport emo look in senior yearbook photo",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image accurately shows U.S. Defense Secretary Pete Hegseth dressing in emo fashion for his senior yearbook photo.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/hegseth-high-school-yearbook-photo/",
+      "date_published": "2026-07-17",
+      "lang": "en"
+    },
+    {
+      "claim": "A group of six \"MAGA fans\" in Louisiana started a hunger strike they vowed would continue until writer E. Jean Carroll returns U.S. President Donald Trump's $5.6 million sexual abuse and defamation lawsuit payment.",
+      "title": "Did Louisiana 'MAGA fans' start hunger strike over Trump's payment to E. Jean Carroll?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A group of six \"MAGA fans\" in Louisiana started a hunger strike they vowed would continue until writer E. Jean Carroll returns U.S. President Donald Trump's $5.6 million sexual abuse and defamation lawsuit payment.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/louisiana-maga-fans-hunger-strike/",
       "date_published": "2026-07-17",
       "lang": "en"
     },
@@ -92088,6 +92143,28 @@
       "explanation": "Video claiming to show a muslim man allegedly making obscene gestures toward two women inside a bus.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/madhya-pradesh-bus-harassment-video-reshared-with-false-communal-claim-identifying-accused-as-muslim/3867161",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This video shows an Iranian attack on the largest US military base in the Gulf region.",
+      "title": "Fact Check: This video DOES NOT show Iranian attack on US military base in the Gulf",
+      "verdict_label": "Half true",
+      "verdict_category": "NUANCÉ",
+      "explanation": "This video shows an Iranian attack on the largest US military base in the Gulf region.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/fact-check-this-video-does-not-show-iranian-attack-on-us-military-base-in-the-gulf-2950970-2026-07-18",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran's upgraded air defence system shot down a US Air Force F-22 Raptor fighter jet.",
+      "title": "Fact Check: Iran shot down US Air Force F-22 Raptor? This video is from Greece",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Iran's upgraded air defence system shot down a US Air Force F-22 Raptor fighter jet.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/iran-f22-raptor-claim-false-viral-jet-fire-video-from-greece-2950840-2026-07-18",
       "date_published": "",
       "lang": "en"
     }
