@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T05:58:12Z",
-  "total_count": 8366,
+  "last_updated": "2026-07-20T06:21:36Z",
+  "total_count": 8378,
   "sources": [
     "11Alive.com",
     "12News",
@@ -61,6 +61,7 @@
     "Full Fact",
     "Ghana Fact",
     "Greece Fact Check",
+    "HR Vendor News",
     "Health Dialogues - Medical Dialogues",
     "Hindustan Times",
     "Inconnu",
@@ -143,6 +144,94 @@
   ],
   "factchecks": [
     {
+      "claim": "The post shows Sonam Wangchuk's health report, which was allegedly issued on 13 July.",
+      "title": "Post Sharing Sonam Wangchuk’s Health Report Is Not Related to His Detention",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The post shows Sonam Wangchuk's health report, which was allegedly issued on 13 July.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/viral-post-sharing-sonam-wangchuks-health-report-shows-old-report-false-claim-fact-check",
+      "date_published": "2026-07-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Florence Portelli défend que la culture, \"c'est aussi de l'emploi et de l'économie\".",
+      "title": "Coupes budgétaires sur la culture : impact pour les PME",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Florence Portelli défend que la culture, \"c'est aussi de l'emploi et de l'économie\".",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/coupes-budgetaires-subventions-culture-impact-pme",
+      "date_published": "2026-07-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "Chaque année en Europe, 600 000 tonnes de produits de mode invendus sont détruites par des entreprises.",
+      "title": "Mode : L'Europe interdit la destruction des invendus",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Chaque année en Europe, 600 000 tonnes de produits de mode invendus sont détruites par des entreprises.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/mode-interdiction-detruire-invendus-pme-europe-600000-tonnes-par-an",
+      "date_published": "2026-07-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France consacre 70 euros par habitant au financement de son réseau ferroviaire.",
+      "title": "La France en retard sur son financement ferroviaire.",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France consacre 70 euros par habitant au financement de son réseau ferroviaire.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/france-financement-ferroviaire-retard-europe-70-euros-par-individus",
+      "date_published": "2026-07-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "Major explosions reported all across Iran following US strikes.",
+      "title": "Viral Video Does Not Show Fires in Iran Following Recent U.S. Strikes",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Major explosions reported all across Iran following US strikes.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/19/viral-video-does-not-show-fires-iran-following-recent-us-strikes",
+      "date_published": "2026-07-19",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. aircraft carrier Gerald R. Ford on fire after it was struck by Iranian missiles.",
+      "title": "Does the Video Show Iranian Missiles Striking the Gerald R. Ford Aircraft Carrier?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The U.S. aircraft carrier Gerald R. Ford on fire after it was struck by Iranian missiles.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/19/does-video-show-iranian-missiles-striking-gerald-r-ford-aircraft-carrier",
+      "date_published": "2026-07-19",
+      "lang": "en"
+    },
+    {
+      "claim": "US B-52 shot down by missile",
+      "title": "Fact Check: FAKE Video Falsely Shows A U.S. B-52 Being Shot Down By A Missile -- Computer Generated",
+      "verdict_label": "Computer GFX",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "US B-52 shot down by missile",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-video-falsely-shows-a-u.s.-b52-being-shot-down-by-a-missile.html",
+      "date_published": "2026-07-19",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. strikes targeting facilities operated by Iran's Islamic Revolutionary Guard Corps (IRGC).",
+      "title": "Old Video From Russia Falsely Linked to Recent U.S. Strikes on Iran",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. strikes targeting facilities operated by Iran's Islamic Revolutionary Guard Corps (IRGC).",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/19/old-video-russia-falsely-linked-recent-us-strikes-iran",
+      "date_published": "2026-07-19",
+      "lang": "en"
+    },
+    {
       "claim": "Un seul médecin rencontrera le patient avant la validation d'une demande d'aide à mourir",
       "title": "VRAI OU FAUX. Aide à mourir : le patient ne rencontrera-t-il qu'un ...",
       "verdict_label": "Plutôt Faux",
@@ -161,6 +250,39 @@
       "explanation": "A screenshot circulating in mid-2026 authentically showed a Truth Social post from U.S. President Donald Trump that disparaged The Beatles and called musician Paul McCartney an \"ANTI-TRUMP JOKE.\"",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/trump-paul-mccartney-beatles-post/",
+      "date_published": "2026-07-18",
+      "lang": "en"
+    },
+    {
+      "claim": "Des épisodes de fortes chaleurs poussent certains habitants à envisager le déménagement pour trouver un climat plus supportable, avec des régions refuges comme la Normandie qui attirent de nouveaux arrivants.",
+      "title": "Exode climatique : quel impact sur l'immobilier en 2026 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des épisodes de fortes chaleurs poussent certains habitants à envisager le déménagement pour trouver un climat plus supportable, avec des régions refuges comme la Normandie qui attirent de nouveaux arrivants.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/exode-climatique-impact-immobilier-pme-guide",
+      "date_published": "2026-07-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les dégâts des canicules s'ajoutent à ceux des inondations du début d'année et à la hausse des prix liée à la guerre au Moyen-Orient.",
+      "title": "Canicule 2026 : pertes pour l’agriculture française",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les dégâts des canicules s'ajoutent à ceux des inondations du début d'année et à la hausse des prix liée à la guerre au Moyen-Orient.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/agriculture-francaise-pertes-canicule-strategie",
+      "date_published": "2026-07-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "The Iranian army captures the largest US naval ship.. Iran humiliates America in the worst possible way.",
+      "title": "Does the Video Show Iran Capturing the Largest U.S. Commercial Vessel Recently?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The Iranian army captures the largest US naval ship.. Iran humiliates America in the worst possible way.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/18/does-video-show-iran-capturing-largest-us-commercial-vessel-recently",
       "date_published": "2026-07-18",
       "lang": "en"
     },
@@ -92165,6 +92287,17 @@
       "explanation": "Iran's upgraded air defence system shot down a US Air Force F-22 Raptor fighter jet.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/iran-f22-raptor-claim-false-viral-jet-fire-video-from-greece-2950840-2026-07-18",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Make Better HR Tech Vendor Choices With Smarter Selection and Pilots",
+      "title": "HR Vendor News",
+      "verdict_label": "Verified",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Make Better HR Tech Vendor Choices With Smarter Selection and Pilots",
+      "source_name": "HR Vendor News",
+      "source_url": "https://hrvendornews.com/make-better-hr-tech-vendor-choices-with-smarter-selection-and-pilots",
       "date_published": "",
       "lang": "en"
     }
