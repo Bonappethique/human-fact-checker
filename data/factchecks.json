@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T06:21:36Z",
-  "total_count": 8378,
+  "last_updated": "2026-07-21T05:55:42Z",
+  "total_count": 8387,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,105 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Trump déclare que les USA mettent fin à toutes les négociations commerciales avec le Canada",
+      "title": "Attention, les Etats-Unis n'ont pas rompu toutes les négociations ...",
+      "verdict_label": "Manque de contexte",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Trump déclare que les USA mettent fin à toutes les négociations commerciales avec le Canada",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C2GG49E",
+      "date_published": "2026-07-20",
+      "lang": "fr"
+    },
+    {
+      "claim": "La sortie, en Chine, de nouveaux systèmes d’intelligence artificielle très performants et ouverts, par Moonshot, Zhipu ou Deepseek, peut remettre en cause le modèle économique des géants américains, fondé sur un accès payant et fermé.",
+      "title": "Comment l'IA Chinoises menace le modèle US en 2026 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La sortie, en Chine, de nouveaux systèmes d’intelligence artificielle très performants et ouverts, par Moonshot, Zhipu ou Deepseek, peut remettre en cause le modèle économique des géants américains, fondé sur un accès payant et fermé.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/ia-chinoises-menace-modele-americain",
+      "date_published": "2026-07-20",
+      "lang": "fr"
+    },
+    {
+      "claim": "L'Union Européenne a infligé une amende de 550 millions d'euros à la plateforme chinoise AliExpress.",
+      "title": "Aliexpress : L'UE inflige une amende de 550M€ via la DSA",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'Union Européenne a infligé une amende de 550 millions d'euros à la plateforme chinoise AliExpress.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/amende-aliexpress-ue-dsa-sanction",
+      "date_published": "2026-07-20",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. attacks on Iran during the latest military escalation.",
+      "title": "Does the Video Show Recent U.S. Strikes on Tehran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. attacks on Iran during the latest military escalation.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/20/does-video-show-recent-us-strikes-tehran",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows US strike against Iran in July 2026.",
+      "title": "Spain wildfire video falsely linked to renewed US-Iran strikes",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows US strike against Iran in July 2026.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2BP2ZQ",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
+    {
+      "claim": "The crowd at the 2026 World Cup Final booed when U.S. President Donald Trump and FIFA President Gianni Infantino walked onto the pitch to present the tournament's trophy to Spain.",
+      "title": "Were Trump and FIFA President Infantino booed at World Cup trophy presentation?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The crowd at the 2026 World Cup Final booed when U.S. President Donald Trump and FIFA President Gianni Infantino walked onto the pitch to present the tournament's trophy to Spain.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-infantino-booed-world-cup/",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a July 2026 Truth Social post by U.S. President Donald Trump saying that he would turn on a “GIANT FAUCET” in California to extinguish the wildfires in Canada.",
+      "title": "Did Trump say he'd turn on 'giant faucet' in California to extinguish Canadian wildfires?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a July 2026 Truth Social post by U.S. President Donald Trump saying that he would turn on a “GIANT FAUCET” in California to extinguish the wildfires in Canada.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-giant-faucet-canada/",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian sailors shooting down a U.S. helicopter with an advanced Russian missile.",
+      "title": "AI-Generated Video Does Not Show an Iranian Patrol Boat Confronting a U.S. Helicopter",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "Iranian sailors shooting down a U.S. helicopter with an advanced Russian missile.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/20/ai-generated-video-does-not-show-iranian-patrol-boat-confronting-us-helicopter",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a four-year-old personal video of Abhijeet Dipke, the founder of the Cockroach Janata Party, kissing a young woman.",
+      "title": "This viral video does not show an old personal video of CJP founder Abhijeet Dipke; it is of a couple from Bangladesh",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a four-year-old personal video of Abhijeet Dipke, the founder of the Cockroach Janata Party, kissing a young woman.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/this-viral-video-does-not-show-an-old-personal-video-of-cjp-founder-abhijeet-dipke-it-is-of-a-couple-from-bangladesh/",
+      "date_published": "2026-07-20",
+      "lang": "en"
+    },
     {
       "claim": "The post shows Sonam Wangchuk's health report, which was allegedly issued on 13 July.",
       "title": "Post Sharing Sonam Wangchuk’s Health Report Is Not Related to His Detention",
