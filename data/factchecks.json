@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T05:55:42Z",
-  "total_count": 8387,
+  "last_updated": "2026-07-22T05:54:31Z",
+  "total_count": 8393,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,72 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "In July 2026, U.S. President Donald Trump issued an order to cut 3 million acres of land from two national monuments in Utah.",
+      "title": "Trump administration's cuts to 2 Utah national monuments, explained",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In July 2026, U.S. President Donald Trump issued an order to cut 3 million acres of land from two national monuments in Utah.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-cuts-utah-monuments/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows US military helicopters flying into Iranian airspace.",
+      "title": "Video filmed in South Korea misrepresented as US military helicopters over Iran",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows US military helicopters flying into Iranian airspace.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.B9ZH8WE",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. airstrikes targeting military sites of Irans Islamic Revolutionary Guard Corps.",
+      "title": "Video Does Not Show Recent Strike on Iranian Missile Launch Platforms",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. airstrikes targeting military sites of Irans Islamic Revolutionary Guard Corps.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/21/video-does-not-show-recent-strike-iranian-missile-launch-platforms",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shows a man destroying Flock cameras in the U.S.",
+      "title": "Does video show Flock cameras being destroyed in US? Here's the truth",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video authentically shows a man destroying Flock cameras in the U.S.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/flock-camera-vandalism/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "Clip shows aftermath of Iran strike on US air base",
+      "title": "S.Korea fire clip falsely linked to renewed US-Iran fighting",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Clip shows aftermath of Iran strike on US air base",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2M63ZQ",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows a woman wearing a niqab being asked to leave a Tesco store by a security guard because face coverings aren't allowed under store policy.",
+      "title": "Video of a woman in a niqab being told to leave Tesco is an AI fake – Full Fact",
+      "verdict_label": "The video is an AI-generated fake. Tesco confirmed that the footage was not filmed in one of its stores and banning face coverings is not a real store policy.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows a woman wearing a niqab being asked to leave a Tesco store by a security guard because face coverings aren't allowed under store policy.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/culture-and-society/muslim-woman-niqab-tesco-leave-video-fake/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
     {
       "claim": "Trump déclare que les USA mettent fin à toutes les négociations commerciales avec le Canada",
       "title": "Attention, les Etats-Unis n'ont pas rompu toutes les négociations ...",
