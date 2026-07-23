@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T05:54:31Z",
-  "total_count": 8393,
+  "last_updated": "2026-07-23T06:05:40Z",
+  "total_count": 8404,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,94 @@
   ],
   "factchecks": [
     {
+      "claim": "'Climate change' is actually weather manipulation, wildfires created by DEWs",
+      "title": "Canadian wildfires supercharged by climate, not directed energy weapons",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "'Climate change' is actually weather manipulation, wildfires created by DEWs",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2TP463",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows immigrants setting fire to the Basilica of St Michael in Bordeaux, France.",
+      "title": "False claim about French church fire fans anti-migrant flames",
+      "verdict_label": "False. The video shows a tent on fire beside the church.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows immigrants setting fire to the Basilica of St Michael in Bordeaux, France.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/false-claim-about-french-church-fire-fans-anti-migrant-flames/",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "Le Tesla FSD ne sera pas autorisé en France",
+      "title": "Attention, cette vidéo du ministre des Transports qui parle du Tesla FSD est totalement fausse",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le Tesla FSD ne sera pas autorisé en France",
+      "source_name": "Numerama",
+      "source_url": "https://www.numerama.com/vroom/2299721-attention-cette-video-du-ministre-des-transports-qui-parle-du-tesla-fsd-est-totalement-fausse.html",
+      "date_published": "2026-07-22",
+      "lang": "fr"
+    },
+    {
+      "claim": "US President Donald Trump plans to secure the release of former president Rodrigo Duterte from the custody of the International Criminal Court (ICC).",
+      "title": "FACT CHECK: No Trump plan to secure Duterte's release from ICC",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "US President Donald Trump plans to secure the release of former president Rodrigo Duterte from the custody of the International Criminal Court (ICC).",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/no-donald-trump-plan-secure-rodrigo-duterte-release-icc/",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "An Iranian missile strike targeting a U.S. base in Kuwait.",
+      "title": "AI-Generated Video Does Not Show Iran Targeting a U.S. Base in Kuwait",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "An Iranian missile strike targeting a U.S. base in Kuwait.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/22/ai-generated-video-does-not-show-iran-targeting-us-base-kuwait",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Iranian attack on US logistics warehouse in Saudi Arabia",
+      "title": "US warehouse blaze clip misrepresented as Middle East war scene",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Iranian attack on US logistics warehouse in Saudi Arabia",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2Q49T3",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "The baby name \"Donald\" hit a record low popularity for new U.S. births in 2025.",
+      "title": "Baby name 'Donald' hit record low popularity in US",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The baby name \"Donald\" hit a record low popularity for new U.S. births in 2025.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/donald-baby-name-popularity/",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. forces destroying an electronics manufacturing facility linked to drone production in Shiraz.",
+      "title": "Does the Video Show a Recent U.S. Strike on a Drone Facility in Shiraz?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. forces destroying an electronics manufacturing facility linked to drone production in Shiraz.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/22/does-video-show-recent-us-strike-drone-facility-shiraz",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
       "claim": "In July 2026, U.S. President Donald Trump issued an order to cut 3 million acres of land from two national monuments in Utah.",
       "title": "Trump administration's cuts to 2 Utah national monuments, explained",
       "verdict_label": "True",
@@ -206,6 +294,39 @@
       "explanation": "A video shows a woman wearing a niqab being asked to leave a Tesco store by a security guard because face coverings aren't allowed under store policy.",
       "source_name": "Full Fact",
       "source_url": "https://fullfact.org/culture-and-society/muslim-woman-niqab-tesco-leave-video-fake/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. heat wave index data does not support the idea that “climate change is causing heat waves to become more frequent and extreme.”",
+      "title": "Misleading claim misuses US heat wave index to downplay worsening heat waves",
+      "verdict_label": "The post and similar claims are misleading: the interpretation ignores how the heat wave index is constructed, the uniqueness of the 1930s spike, and decades of evidence that heat waves have intensified in the United States and globally.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. heat wave index data does not support the idea that “climate change is causing heat waves to become more frequent and extreme.”",
+      "source_name": "annie lab",
+      "source_url": "https://annielab.org/2026/07/21/misleading-claim-misuses-us-heat-wave-index-to-downplay-worsening-heat-waves/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "In social media posts on July 19, 2026, FIFA and the Spanish national men's soccer team posted photos of Spain celebrating their World Cup victory over Argentina, with U.S. President Donald Trump cropped out.",
+      "title": "FIFA, Spain posted World Cup photos without Trump. Was it intentional?",
+      "verdict_label": "Mostly True",
+      "verdict_category": "VRAI",
+      "explanation": "In social media posts on July 19, 2026, FIFA and the Spanish national men's soccer team posted photos of Spain celebrating their World Cup victory over Argentina, with U.S. President Donald Trump cropped out.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/fifa-cropped-trump-photo/",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "Mobilization in several U.S. bases in the region.",
+      "title": "Does the Video Show U.S. Bases on High Alert and Bombers Departing to Strike Iran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Mobilization in several U.S. bases in the region.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/21/does-video-show-us-bases-high-alert-and-bombers-departing-strike-iran",
       "date_published": "2026-07-21",
       "lang": "en"
     },
