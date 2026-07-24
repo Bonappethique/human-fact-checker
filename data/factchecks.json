@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T06:05:40Z",
-  "total_count": 8404,
+  "last_updated": "2026-07-24T05:53:52Z",
+  "total_count": 8416,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,127 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Les vaccins augmentent les risques de démence",
+      "title": "Non, cette étude ne prouve pas que les vaccins augmentent les risques de maladies neurodégénératives",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les vaccins augmentent les risques de démence",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C2FM9T8",
+      "date_published": "2026-07-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "In July 2026, U.S. President Donald Trump accidentally declassified documents that revealed Russian President Vladimir Putin and his government sought to help him in the 2020 election.",
+      "title": "Did Trump accidentally declassify proof Russia tried to help him win 2020 election?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "In July 2026, U.S. President Donald Trump accidentally declassified documents that revealed Russian President Vladimir Putin and his government sought to help him in the 2020 election.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-russia-2020-election-declassified-proof/",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "France denies visa to Sri Lanka President Anura Kumara Dissanayake.",
+      "title": "Officials reject false claim that France refused visa for Sri Lankan leader ahead of expected state visit",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "France denies visa to Sri Lanka President Anura Kumara Dissanayake.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2LX866",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "US Airforces targeted and destroyed an underground missile launch facility of IRGC in Shiraz. Same facility was used to attack US bases in Baharin Kuwait.",
+      "title": "Does the Video Show a Recent U.S. Strike on an Underground IRGC Missile Launch Facility?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "US Airforces targeted and destroyed an underground missile launch facility of IRGC in Shiraz. Same facility was used to attack US bases in Baharin Kuwait.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/does-video-show-recent-us-strike-underground-irgc-missile-launch-facility",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "A U.S. strike targeting an Iranian Revolutionary Guard headquarters.",
+      "title": "Viral Video Does Not Show U.S. Attack on Iranian Revolutionary Guard Headquarters",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A U.S. strike targeting an Iranian Revolutionary Guard headquarters.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/viral-video-does-not-show-us-attack-iranian-revolutionary-guard-headquarters",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shares a recording of former U.S. President Bill Clinton delivering a speech criticizing President Donald Trump's July 2026 address at Mount Rushmore.",
+      "title": "Did Bill Clinton give speech criticizing Trump's Mount Rushmore address?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A video authentically shares a recording of former U.S. President Bill Clinton delivering a speech criticizing President Donald Trump's July 2026 address at Mount Rushmore.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/clinton-trump-mount-rushmore-speech/",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows an explosion following a recent US airstrike on Bushehr, Iran.",
+      "title": "Old clip of warehouse explosion in China shared as US airstrike on Iran – Full Fact",
+      "verdict_label": "False. This video actually shows explosions at a warehouse in Tianjin, China, in 2015.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows an explosion following a recent US airstrike on Bushehr, Iran.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/conflict/old-video-warehouse-china-shared-as-iran-us-airstrikes/",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian preparations to target U.S. bases and Israeli sites amid the ongoing escalation.",
+      "title": "Does the Video Show Iranian Preparations to Target U.S. Bases?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian preparations to target U.S. bases and Israeli sites amid the ongoing escalation.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/does-video-show-iranian-preparations-target-us-bases",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump and Homeland Security Secretary Markwayne Mullin accurately claimed that New Jersey has at least 35,152 noncitizens on its voter rolls.",
+      "title": "No proof New Jersey registered 35,000 noncitizens to vote",
+      "verdict_label": "Mostly False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump and Homeland Security Secretary Markwayne Mullin accurately claimed that New Jersey has at least 35,152 noncitizens on its voter rolls.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/new-jersey-35000-noncitizens-registered/",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "Recent U.S. airstrikes on Iranian coastal sites near Chabahar Port.",
+      "title": "Old Video Does Not Show Recent U.S. Strikes on Iran’s Coast",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Recent U.S. airstrikes on Iranian coastal sites near Chabahar Port.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/old-video-does-not-show-recent-us-strikes-iran%E2%80%99s-coast",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
+      "claim": "Visuals of police officers assaulting female protesters during the CJP protest at Jantar Mantar, Delhi.",
+      "title": "Old, unrelated video from Uttarakhand falsely linked to Delhi’s 'Chalo Sansad' protest",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "Visuals of police officers assaulting female protesters during the CJP protest at Jantar Mantar, Delhi.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/old-unrelated-video-from-uttarakhand-falsely-linked-to-delhis-chalo-sansad-protest/",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
     {
       "claim": "'Climate change' is actually weather manipulation, wildfires created by DEWs",
       "title": "Canadian wildfires supercharged by climate, not directed energy weapons",
@@ -327,6 +448,17 @@
       "explanation": "Mobilization in several U.S. bases in the region.",
       "source_name": "Inconnu",
       "source_url": "https://www.misbar.com/en/factcheck/2026/07/21/does-video-show-us-bases-high-alert-and-bombers-departing-strike-iran",
+      "date_published": "2026-07-21",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows the police grabbing a Palestinian flag from a woman at the CJP protest at Jantar Mantar.",
+      "title": "Old, Unrelated Video Shared as Visual From CJP Protest at Jantar Mantar",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows the police grabbing a Palestinian flag from a woman at the CJP protest at Jantar Mantar.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/old-unrelated-video-shared-as-a-visual-from-the-cjp-protest-at-jantar-mantar-false-claim-fact-check",
       "date_published": "2026-07-21",
       "lang": "en"
     },
