@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T05:53:52Z",
-  "total_count": 8416,
+  "last_updated": "2026-07-25T05:46:56Z",
+  "total_count": 8427,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Angela Rayner, shown in a picture smoking and holding a pint of beer, has been appointed as health secretary.",
+      "title": "Angela Rayner is not the new health secretary – Full Fact",
+      "verdict_label": "False. Angela Rayner is not the health secretary. She has been made the secretary of state for housing, communities and local government. The image of Ms Rayner being shared with the claim is also fake.",
+      "verdict_category": "FAUX",
+      "explanation": "Angela Rayner, shown in a picture smoking and holding a pint of beer, has been appointed as health secretary.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/angela-rayner-health-secretary-false-claim-ai-picture/",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Adult vaccines increase risk of Alzheimer's and Dementia for a full decade",
+      "title": "Study does not prove vaccines increase dementia risk",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Adult vaccines increase risk of Alzheimer's and Dementia for a full decade",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2Z92KE",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Les éoliennes sont en réalité très polluantes à cause de leur moteur thermique",
+      "title": "VÉRIF' - Les éoliennes fonctionnent-elles vraiment grâce à un ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les éoliennes sont en réalité très polluantes à cause de leur moteur thermique",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/environnement-ecologie/verif-pollution-les-eoliennes-eolien-fonctionnent-elles-vraiment-grace-a-un-moteur-thermique-2454858.html",
+      "date_published": "2026-07-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le russe n’est plus enseigné en France",
+      "title": "Non, le russe n'a pas cessé d'être enseigné en France",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le russe n’est plus enseigné en France",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C2RX2NY",
+      "date_published": "2026-07-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video shows riots in Paris after France World Cup defeat",
+      "title": "Video of PSG fans rioting in May unrelated to French team’s World Cup elimination",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows riots in Paris after France World Cup defeat",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2Z96NQ",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "The United States using highly destructive bombs for the first time during its ongoing strikes on Iran.",
+      "title": "Does the Video Show the First Use of Powerful Bombs in U.S. Strikes on Iran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The United States using highly destructive bombs for the first time during its ongoing strikes on Iran.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/24/does-video-show-first-use-powerful-bombs-us-strikes-iran",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Trump said the US will end all trade talks with Canada",
+      "title": "Old clip used to falsely claim Trump cut Canada trade talks",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Trump said the US will end all trade talks with Canada",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2ZC9WG",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
       "claim": "Les vaccins augmentent les risques de démence",
       "title": "Non, cette étude ne prouve pas que les vaccins augmentent les risques de maladies neurodégénératives",
       "verdict_label": "Faux",
@@ -265,6 +342,28 @@
       "lang": "en"
     },
     {
+      "claim": "Une photo de Joseph Kabila rencontrant Martin Fayulu le 6 juillet",
+      "title": "Cette image censée montrer l'opposant congolais Martin Fayulu et ...",
+      "verdict_label": "Image générée par IA",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une photo de Joseph Kabila rencontrant Martin Fayulu le 6 juillet",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C2VZ99E",
+      "date_published": "2026-07-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "Thousands of families displaced in fear of the anticipated American attack.",
+      "title": "Does Video Show Thousands of Iranian Families Fleeing Tehran Amid Recent U.S. Attacks?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Thousands of families displaced in fear of the anticipated American attack.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/does-video-show-thousands-iranian-families-fleeing-tehran-amid-recent-us-attacks",
+      "date_published": "2026-07-23",
+      "lang": "en"
+    },
+    {
       "claim": "'Climate change' is actually weather manipulation, wildfires created by DEWs",
       "title": "Canadian wildfires supercharged by climate, not directed energy weapons",
       "verdict_label": "False",
@@ -349,6 +448,17 @@
       "explanation": "U.S. forces destroying an electronics manufacturing facility linked to drone production in Shiraz.",
       "source_name": "Inconnu",
       "source_url": "https://www.misbar.com/en/factcheck/2026/07/22/does-video-show-recent-us-strike-drone-facility-shiraz",
+      "date_published": "2026-07-22",
+      "lang": "en"
+    },
+    {
+      "claim": "France's Army Would Last Just Seven Days Against Russia, Statista Says",
+      "title": "Fake: France’s Army Would Last Just Seven Days Against Russia, Statista Says | StopFake",
+      "verdict_label": "Neither Statista nor the Institute for the Study of War published any such study. The infographic circulating online is a forgery built on Statista's visual branding. The real debate about France's insufficient stockpiles of certain types of ammunition does not mean the country would be defeated by Russia in seven days.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France's Army Would Last Just Seven Days Against Russia, Statista Says",
+      "source_name": "StopFake",
+      "source_url": "https://www.stopfake.org/en/fake-france-s-army-would-last-just-seven-days-against-russia-statista-says/",
       "date_published": "2026-07-22",
       "lang": "en"
     },
@@ -92716,6 +92826,17 @@
       "explanation": "Make Better HR Tech Vendor Choices With Smarter Selection and Pilots",
       "source_name": "HR Vendor News",
       "source_url": "https://hrvendornews.com/make-better-hr-tech-vendor-choices-with-smarter-selection-and-pilots",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Leclanche SA Shareholders Reelect Board, Ensuring Stability in Low-Carbon Energy Growth",
+      "title": "Leclanche SA Shareholders Reelect Board, Ensuring Stability in Low-Carbon Energy Growth",
+      "verdict_label": "Verified",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Leclanche SA Shareholders Reelect Board, Ensuring Stability in Low-Carbon Energy Growth",
+      "source_name": "HR Vendor News",
+      "source_url": "https://hrvendornews.com/hr-news/leclanche-sa-shareholders-reelect-board-ensuring-stability-in-low-carbon-energy-growth",
       "date_published": "",
       "lang": "en"
     }
