@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T05:46:56Z",
-  "total_count": 8427,
+  "last_updated": "2026-07-26T06:10:00Z",
+  "total_count": 8437,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,61 @@
   ],
   "factchecks": [
     {
+      "claim": "La France est devenue le pays le plus touché d'Europe par les fuites de données, avec 43,4 millions de comptes piratés entre janvier et juin 2026.",
+      "title": "Fuites de données : pourquoi la France est-elle n°1 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France est devenue le pays le plus touché d'Europe par les fuites de données, avec 43,4 millions de comptes piratés entre janvier et juin 2026.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/fuites-de-donnees-france-1-ere-victime-d-europe",
+      "date_published": "2026-07-25",
+      "lang": "fr"
+    },
+    {
+      "claim": "An Iranian attack on Camp Doha in Kuwait that destroyed a U.S. ammunition depot.",
+      "title": "Does the Video Show Iran Bombing an American Ammunition Depot in Kuwait?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian attack on Camp Doha in Kuwait that destroyed a U.S. ammunition depot.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/25/does-video-show-iran-bombing-american-ammunition-depot-kuwait",
+      "date_published": "2026-07-25",
+      "lang": "en"
+    },
+    {
+      "claim": "In July 2026, authentic footage showed U.S. President Donald Trump fall while attempting to get into a vehicle.",
+      "title": "Did Trump collapse while trying to get into vehicle?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "In July 2026, authentic footage showed U.S. President Donald Trump fall while attempting to get into a vehicle.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-fell-video-ai/",
+      "date_published": "2026-07-25",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Darkhovin nuclear power plant targeted by a US missile strike.",
+      "title": "Months-old explosion footage falsely shared as recent US strikes on Iran nuclear site",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Darkhovin nuclear power plant targeted by a US missile strike.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2XH89E",
+      "date_published": "2026-07-25",
+      "lang": "en"
+    },
+    {
+      "claim": "A massive U.S. strike on Bandar Abbas.",
+      "title": "Does the Video Show a U.S. Strike on Bandar Abbas?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A massive U.S. strike on Bandar Abbas.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/25/does-video-show-us-strike-bandar-abbas",
+      "date_published": "2026-07-25",
+      "lang": "en"
+    },
+    {
       "claim": "Angela Rayner, shown in a picture smoking and holding a pint of beer, has been appointed as health secretary.",
       "title": "Angela Rayner is not the new health secretary – Full Fact",
       "verdict_label": "False. Angela Rayner is not the health secretary. She has been made the secretary of state for housing, communities and local government. The image of Ms Rayner being shared with the claim is also fake.",
@@ -217,6 +272,39 @@
       "explanation": "Trump said the US will end all trade talks with Canada",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.C2ZC9WG",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Real video shows Iranian ballistic missile attack on US aircraft carrier.",
+      "title": "Fact Check: FAKE Video Does NOT Show Iranian Ballistic Missile Attack On U.S. Aircraft Carrier -- It's Digital Creation",
+      "verdict_label": "AI Carrier",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real video shows Iranian ballistic missile attack on US aircraft carrier.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-fake-video-does-not-show-iranian-ballistic-missile-attack-on-us-aircraft-carrier-its-digital-creation.html",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Footage authentically shows U.S. President Donald Trump’s \"body double\" walking around behind the president.",
+      "title": "Does video show Trump's 'body double' behind president? Here's the truth",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Footage authentically shows U.S. President Donald Trump’s \"body double\" walking around behind the president.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-body-double-video/",
+      "date_published": "2026-07-24",
+      "lang": "en"
+    },
+    {
+      "claim": "Actor Kurt Russell once said, \"Children don't need new genders, they need normal parents.\"",
+      "title": "Did Kurt Russell say, 'Children don't need new genders, they need ...",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "Actor Kurt Russell once said, \"Children don't need new genders, they need normal parents.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/kurt-russell-gender-comments/",
       "date_published": "2026-07-24",
       "lang": "en"
     },
@@ -362,6 +450,28 @@
       "source_url": "https://www.misbar.com/en/factcheck/2026/07/23/does-video-show-thousands-iranian-families-fleeing-tehran-amid-recent-us-attacks",
       "date_published": "2026-07-23",
       "lang": "en"
+    },
+    {
+      "claim": "La France compte 17 millions de retraités.",
+      "title": "Quel avenir pour la Fiscalité des retraités en 2027 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France compte 17 millions de retraités.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/fiscalite-des-retraites-2027",
+      "date_published": "2026-07-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "France Digitale est une association qui représente les entrepreneurs et investisseurs du numérique en France et partage des bonnes pratiques.",
+      "title": "Comment optimiser votre protection des données ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France Digitale est une association qui représente les entrepreneurs et investisseurs du numérique en France et partage des bonnes pratiques.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/protection-des-donnees",
+      "date_published": "2026-07-23",
+      "lang": "fr"
     },
     {
       "claim": "'Climate change' is actually weather manipulation, wildfires created by DEWs",
