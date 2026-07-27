@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T06:10:00Z",
-  "total_count": 8437,
+  "last_updated": "2026-07-27T06:34:45Z",
+  "total_count": 8445,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,94 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Turkish President Recep Tayyip Erdoğans health deteriorating in recent days.",
+      "title": "Video Claiming to Show Erdoğan’s Health Deteriorating Is Misleading",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Turkish President Recep Tayyip Erdoğans health deteriorating in recent days.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/26/video-claiming-show-erdo%C4%9Fan%E2%80%99s-health-deteriorating-misleading",
+      "date_published": "2026-07-26",
+      "lang": "en"
+    },
+    {
+      "claim": "McKinsey est un cabinet de conseil qui publie des analyses sur des sujets économiques et de compétitivité.",
+      "title": "Quel est le rôle réel de Bpifrance pour les start-up ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "McKinsey est un cabinet de conseil qui publie des analyses sur des sujets économiques et de compétitivité.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/role-de-bpifrance",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "Iran testing a new intercontinental ballistic missile during the ongoing war.",
+      "title": "Does the Video Show Iran Testing an Intercontinental Ballistic Missile?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran testing a new intercontinental ballistic missile during the ongoing war.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/26/does-video-show-iran-testing-intercontinental-ballistic-missile",
+      "date_published": "2026-07-26",
+      "lang": "en"
+    },
+    {
+      "claim": "France Digitale est une organisation qui représente l'écosystème des startups en France.",
+      "title": "Comment appliquer l'AI Act de 2026 ? Le Guide Complet",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France Digitale est une organisation qui représente l'écosystème des startups en France.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/ai-act-2026-obligations-pme-utilisateurs",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "France Digitale accompagne les startups de la tech sur les enjeux réglementaires.",
+      "title": "Quelles sont les entreprises concernées par l'AI Act ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France Digitale accompagne les startups de la tech sur les enjeux réglementaires.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/entreprises-concernees-ai-act-guide-conformite",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France injecte des milliards dans la R&D via Bpifrance et France 2030.",
+      "title": "Quel avenir pour le financement des deeptech en France ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France injecte des milliards dans la R&D via Bpifrance et France 2030.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/financement-des-deeptech-france-enquete-echecs-strategiques",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "CCI France oriente les entreprises sur les procédures collectives et le soutien aux entreprises en difficulté.",
+      "title": "Comment sauver un brevet en liquidation judiciaire ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "CCI France oriente les entreprises sur les procédures collectives et le soutien aux entreprises en difficulté.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/brevet-liquidation-judiciaire-guide-sauver-valeur",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video shows woman's mask forcibly removed during CJP protest",
+      "title": "Old Video from Mexico FIFA Fan Fest Falsely Shared As CJP Protest | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows woman's mask forcibly removed during CJP protest",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://boomlive.in/n-31941",
+      "date_published": "2026-07-26",
+      "lang": "en"
+    },
     {
       "claim": "La France est devenue le pays le plus touché d'Europe par les fuites de données, avec 43,4 millions de comptes piratés entre janvier et juin 2026.",
       "title": "Fuites de données : pourquoi la France est-elle n°1 ?",
