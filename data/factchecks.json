@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T06:34:45Z",
-  "total_count": 8445,
+  "last_updated": "2026-07-28T05:51:10Z",
+  "total_count": 8457,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,61 @@
   ],
   "factchecks": [
     {
+      "claim": "Emmanuel Macron a promis en 2022 de remplacer les 12 Canadair existants et d'en acheter 4 supplémentaires en 2027",
+      "title": "VÉRIF' - Emmanuel Macron avait-il promis de passer de 12 à 16 ...",
+      "verdict_label": "Vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Emmanuel Macron a promis en 2022 de remplacer les 12 Canadair existants et d'en acheter 4 supplémentaires en 2027",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-incendies-emmanuel-macron-avait-il-promis-de-passer-de-12-a-16-canadair-en-2027-pour-lutter-contre-les-feux-2455305.html",
+      "date_published": "2026-07-27",
+      "lang": "fr"
+    },
+    {
+      "claim": "An comparison of images of U.S. President Donald Trump shows a photo edited by the White House next to Getty Images' original photo.",
+      "title": "Do images of Trump show White House edited Getty photo? We investigated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "An comparison of images of U.S. President Donald Trump shows a photo edited by the White House next to Getty Images' original photo.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-white-house-getty-photo/",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Iran targeting a US military base in the Gulf in July 2026.",
+      "title": "Years-old Kuwait blaze falsely linked to renewed US-Iran conflict",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Iran targeting a US military base in the Gulf in July 2026.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2XM39E",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a building in Iran on fire following a US missile strike",
+      "title": "Old UAE fire clip falsely linked to Mideast war",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows a building in Iran on fire following a US missile strike",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2XJ3KE",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
+      "claim": "76% of pregnant women vaccinated against Covid-19 experience miscarriage.",
+      "title": "Covid vaccines don’t raise your risk of miscarriage – Full Fact",
+      "verdict_label": "False. This figure appears to be based on a very small sample of high-risk pregnancies. The vaccine has no link with miscarriage.",
+      "verdict_category": "FAUX",
+      "explanation": "76% of pregnant women vaccinated against Covid-19 experience miscarriage.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/health/covid-vaccines-miscarriage-john-olooney-australia/",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
       "claim": "Turkish President Recep Tayyip Erdoğans health deteriorating in recent days.",
       "title": "Video Claiming to Show Erdoğan’s Health Deteriorating Is Misleading",
       "verdict_label": "misleading",
@@ -228,6 +283,72 @@
       "explanation": "Video shows woman's mask forcibly removed during CJP protest",
       "source_name": "BOOM Fact Check",
       "source_url": "https://boomlive.in/n-31941",
+      "date_published": "2026-07-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Les politiques monétaires et les décisions sur les taux directeurs, suivies par la Banque de France, affectent le coût du crédit pour les entreprises.",
+      "title": "Quel est le coût d’une entreprise ? Guide complet 2026",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les politiques monétaires et les décisions sur les taux directeurs, suivies par la Banque de France, affectent le coût du crédit pour les entreprises.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/cout-une-entreprise",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les chambres de commerce et d'industrie, comme le réseau de CCI France, peuvent jouer un rôle de facilitateur pour identifier de nouveaux débouchés.",
+      "title": "Symbio : comment sauver la gigafactory de l'hydrogène ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les chambres de commerce et d'industrie, comme le réseau de CCI France, peuvent jouer un rôle de facilitateur pour identifier de nouveaux débouchés.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/symbio-hydrogene-survivre-perte-client-strategie",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "Existence du cabinet de conseil McKinsey en France.",
+      "title": "Agronutris redressement judiciaire : 3 causes de l'échec ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Existence du cabinet de conseil McKinsey en France.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/agronutris-redressement-judiciaire-echec-filiere-insecte",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "La technologie d'Aldebaran est désormais entre les mains du groupe allemand United Robotics Group (URG), qui avait racheté l'entreprise à SoftBank.",
+      "title": "Liquidation d'Aldebaran : que devient la robotique ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La technologie d'Aldebaran est désormais entre les mains du groupe allemand United Robotics Group (URG), qui avait racheté l'entreprise à SoftBank.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/aldebaran-liquidation-avenir-robots-nao-pepper",
+      "date_published": "2026-07-26",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video shows woman's mask being forcibly removed during CJP protest",
+      "title": "Video Of Woman Manhandled In Mexico FIFA Fan Fest Shared As CJP Protest",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows woman's mask being forcibly removed during CJP protest",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/video-of-woman-manhandled-in-mexico-fifa-fan-fest-shared-as-cjp-protest",
+      "date_published": "2026-07-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows woman's mask being forcibly removed during CJP protest",
+      "title": "Video Of Woman Manhandled In Mexico FIFA Fan Fest Shared As CJP Protest | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows woman's mask being forcibly removed during CJP protest",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/amp/video-of-woman-manhandled-in-mexico-fifa-fan-fest-shared-as-cjp-protest",
       "date_published": "2026-07-26",
       "lang": "en"
     },
@@ -93035,6 +93156,17 @@
       "explanation": "Leclanche SA Shareholders Reelect Board, Ensuring Stability in Low-Carbon Energy Growth",
       "source_name": "HR Vendor News",
       "source_url": "https://hrvendornews.com/hr-news/leclanche-sa-shareholders-reelect-board-ensuring-stability-in-low-carbon-energy-growth",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This image shows a woman in revealing clothing participating in the CJP protest at Jantar Mantar.",
+      "title": "AI-generated woman protester image linked to CJP protest at Jantar Mantar: Fact check",
+      "verdict_label": "Mostly false",
+      "verdict_category": "FAUX",
+      "explanation": "This image shows a woman in revealing clothing participating in the CJP protest at Jantar Mantar.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/ai-generated-woman-protester-image-cjp-protest-jantar-mantar-fact-check-2956072-2026-07-25",
       "date_published": "",
       "lang": "en"
     }
