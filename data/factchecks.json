@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T05:51:10Z",
-  "total_count": 8457,
+  "last_updated": "2026-07-29T05:56:45Z",
+  "total_count": 8466,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,72 @@
   ],
   "factchecks": [
     {
+      "claim": "A graph shows the gap between net immigration and housing supply is growing.",
+      "title": "Border crossing data misleadingly used in housing and migration claim",
+      "verdict_label": "Misleading. The graph depicts international border crossings, not net overseas migration.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A graph shows the gap between net immigration and housing supply is growing.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/border-crossing-data-misleadingly-used-in-housing-and-migration-claim/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "Pope Leo XIV said U.S. President Donald Trump \"does not fear chaos. He needs it. Martial law. Emergency powers. Democratic norms pushed aside. And then — no midterm elections … Destroying democracy to keep yourself out of prison — that is extreme.\"",
+      "title": "Did Pope Leo XIV say Trump is 'destroying democracy' to stay out of prison?",
+      "verdict_label": "Incorrect Attribution",
+      "verdict_category": "FAUX",
+      "explanation": "Pope Leo XIV said U.S. President Donald Trump \"does not fear chaos. He needs it. Martial law. Emergency powers. Democratic norms pushed aside. And then — no midterm elections … Destroying democracy to keep yourself out of prison — that is extreme.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/pope-leo-xiv-trump-democracy/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "Ismail Masri was killed instantly in the attack and that he was the individual responsible for a bombing of residential areas in the U.S. that killed over 100 people.",
+      "title": "Misleading: Viral Tehran strike video shows old footage and misidentifies man in image",
+      "verdict_label": "The claim is misleading. The image depicts Mohsen Rezaei, a living Iranian military adviser and former IRGC commander, not Ismail Masri. Masri was killed in a joint IDF and Shin Bet operation in Gaza on June 23.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Ismail Masri was killed instantly in the attack and that he was the individual responsible for a bombing of residential areas in the U.S. that killed over 100 people.",
+      "source_name": "annie lab",
+      "source_url": "https://annielab.org/2026/07/28/misleading-viral-tehran-strike-video-shows-old-footage-and-misidentifies-man-in-image/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a US base in Bahrain attacked by Iran in July 2026.",
+      "title": "Months-old footage of Russian market fire falsely linked to renewed Middle East conflict",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows a US base in Bahrain attacked by Iran in July 2026.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C32X2WE",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "This viral image purportedly showing a woman at the CJP protest may have caught your eye.",
+      "title": "Verified: This Viral Image From CJP Protest Is AI-Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This viral image purportedly showing a woman at the CJP protest may have caught your eye.",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-this-viral-image-from-cjp-protest-is-ai-generated/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "Anthony Fauci, the chief medical adviser to the U.S. president during the COVID-19 pandemic, had a pulmonary infarct that was a side effect of a COVID-19 vaccine months earlier.",
+      "title": "Did Fauci suffer pulmonary infarction due to COVID-19 vaccine ...",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Anthony Fauci, the chief medical adviser to the U.S. president during the COVID-19 pandemic, had a pulmonary infarct that was a side effect of a COVID-19 vaccine months earlier.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/fauci-pulmonary-infarction-covid/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
       "claim": "Emmanuel Macron a promis en 2022 de remplacer les 12 Canadair existants et d'en acheter 4 supplémentaires en 2027",
       "title": "VÉRIF' - Emmanuel Macron avait-il promis de passer de 12 à 16 ...",
       "verdict_label": "Vrai",
@@ -195,6 +261,39 @@
       "explanation": "76% of pregnant women vaccinated against Covid-19 experience miscarriage.",
       "source_name": "Full Fact",
       "source_url": "https://fullfact.org/health/covid-vaccines-miscarriage-john-olooney-australia/",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
+      "claim": "L'AI Act européen segmente les systèmes d'IA en quatre catégories de risque.",
+      "title": "Le kill swith ia est-il plus radical que l'AI Act ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'AI Act européen segmente les systèmes d'IA en quatre catégories de risque.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/kill-swith-ia-loi-americaine-impact-pme",
+      "date_published": "2026-07-27",
+      "lang": "fr"
+    },
+    {
+      "claim": "An Iranian cruise missile attack on a U.S. warship.",
+      "title": "AI-Generated Video Does Not Show an Iranian Cruise Missile Attack on a U.S. Navy Warship",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "An Iranian cruise missile attack on a U.S. warship.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/27/ai-generated-video-does-not-show-iranian-cruise-missile-attack-us-navy-warship",
+      "date_published": "2026-07-27",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows US Senator John Fetterman being arrested",
+      "title": "Fact Check: Video Does NOT Show US Sen. John Fetterman Being Arrested -- Man Arrested Is Someone Else in Des Moines",
+      "verdict_label": "Man In Iowa",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows US Senator John Fetterman being arrested",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-us-sen-john-fetterman-being-arrested-man-arrested-is-someone-else-in-des-moines.html",
       "date_published": "2026-07-27",
       "lang": "en"
     },
