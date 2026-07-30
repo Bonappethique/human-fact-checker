@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T05:56:45Z",
-  "total_count": 8466,
+  "last_updated": "2026-07-30T05:45:54Z",
+  "total_count": 8476,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Food and vaccines are being used to alter people's sexual orientation",
+      "title": "'Scientifically impossible': False health claims fuel LGBTQ hate in Indonesia",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Food and vaccines are being used to alter people's sexual orientation",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C2LU39E",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
+      "claim": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "title": "Eligible asylum seekers could access support before 2003 court case involving Keir Starmer – Full Fact",
+      "verdict_label": "This is misleading. Eligible asylum seekers could already access accommodation and financial support before the 2003 case involving Mr Starmer, under previous legislation.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/keir-starmer-court-case-2003-asylum-seeker-benefits-repeat/",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
+      "claim": "Le russe n’est plus enseigné en France",
+      "title": "Non, le russe n'a pas cessé d'être enseigné en France",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le russe n’est plus enseigné en France",
+      "source_name": "DE FACTO",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-le-russe-n-a-pas-cesse-d-etre-enseigne-en-France/",
+      "date_published": "2026-07-29",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les agriculteurs sont empêchés d'apporter leur aide dans les incendies en Gironde",
+      "title": "VÉRIF' - Incendies en Gironde : des agriculteurs ont-ils vraiment été ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les agriculteurs sont empêchés d'apporter leur aide dans les incendies en Gironde",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-incendies-en-gironde-des-agriculteurs-ont-ils-vraiment-ete-empeches-d-apporter-leur-aide-aux-pompiers-2455760.html",
+      "date_published": "2026-07-29",
+      "lang": "fr"
+    },
+    {
+      "claim": "Former president Rodrigo Duterte is set to be released following the United States' vows to dismantle the International Criminal Court (ICC).",
+      "title": "FACT CHECK: Duterte not set to be released amid US push to dismantle ICC",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Former president Rodrigo Duterte is set to be released following the United States' vows to dismantle the International Criminal Court (ICC).",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/duterte-not-released-us-dismantle-icc/",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows an X post from \"Stacy is Right\" (@PoliticalStacy) approving of U.S. President Donald Trump hypothetically raping the user and touching the user's children.",
+      "title": "Alleged 'Stacy is Right' X post about Trump, Epstein list is fake",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows an X post from \"Stacy is Right\" (@PoliticalStacy) approving of U.S. President Donald Trump hypothetically raping the user and touching the user's children.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/stacy-trump-epstein-post/",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
+      "claim": "A U.S. aircraft carrier being targeted in an Iranian missile attack.",
+      "title": "AI-Generated Video Does Not Show Iranian Missile Attack on U.S. Aircraft Carrier",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "A U.S. aircraft carrier being targeted in an Iranian missile attack.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/29/ai-generated-video-does-not-show-iranian-missile-attack-us-aircraft-carrier",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
       "claim": "A graph shows the gap between net immigration and housing supply is growing.",
       "title": "Border crossing data misleadingly used in housing and migration claim",
       "verdict_label": "Misleading. The graph depicts international border crossings, not net overseas migration.",
@@ -206,6 +283,17 @@
       "explanation": "Anthony Fauci, the chief medical adviser to the U.S. president during the COVID-19 pandemic, had a pulmonary infarct that was a side effect of a COVID-19 vaccine months earlier.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/fauci-pulmonary-infarction-covid/",
+      "date_published": "2026-07-28",
+      "lang": "en"
+    },
+    {
+      "claim": "More than 250,000 non-U.S. citizens are registered to vote across California, Nevada, New Jersey and Pennyslvania.",
+      "title": "DHS claimed 250K noncitizens are registered to vote across 4 states. Here's the truth",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "More than 250,000 non-U.S. citizens are registered to vote across California, Nevada, New Jersey and Pennyslvania.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/dhs-250k-noncitizens-registered-vote/",
       "date_published": "2026-07-28",
       "lang": "en"
     },
@@ -9472,6 +9560,17 @@
       "lang": "en"
     },
     {
+      "claim": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "title": "Many asylum seekers received support prior to 2003 court case involving Keir Starmer – Full Fact",
+      "verdict_label": "This is misleading. Eligible asylum seekers could access accommodation and financial support from the government before the 2003 case involving Mr Starmer, which specifically concerned whether asylum seekers who didn't claim asylum as soon as they entered the UK could also get this help.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/starmer-court-case-2003-asylum-benefit-system/",
+      "date_published": "2026-04-15",
+      "lang": "en"
+    },
+    {
       "claim": "President Ferdinand \"Bongbong\" Marcos Jr.’s health is deteriorating, raising the possibility that Vice President Sara Duterte will replace him.",
       "title": "FACT CHECK: Rumors of deteriorating health not true, says Marcos",
       "verdict_label": "False",
@@ -17707,6 +17806,17 @@
       "explanation": "Six images circulating online, depicting snow mounds burying apartment buildings, authentically showed the effects of snow in Russia's Kamchatka Peninsula in January 2026.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/russia-kamchatka-snow/",
+      "date_published": "2026-01-27",
+      "lang": "en"
+    },
+    {
+      "claim": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "title": "Misleading claim about Keir Starmer’s role in giving ‘illegal migrants’ access to benefits recirculates online – Full Fact",
+      "verdict_label": "This is misleading. Mr Starmer was involved in a 2003 court case that specifically concerned whether asylum seekers who didn't claim asylum as soon as they entered the UK could get help from the government in the form of accommodation or financial support. Most asylum seekers could already receive accommodation and financial support before this case.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "In 2003 Keir Starmer won the case that gave illegal migrants access to UK benefits.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/starmer-2003-court-case-asylum-benefits/",
       "date_published": "2026-01-27",
       "lang": "en"
     },
