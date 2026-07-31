@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T05:45:54Z",
-  "total_count": 8476,
+  "last_updated": "2026-07-31T06:17:38Z",
+  "total_count": 8479,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,28 @@
   ],
   "factchecks": [
     {
+      "claim": "Videos show a Nanjing massacre vigil in France",
+      "title": "Unrelated clips misrepresented as Nanjing massacre memorial in ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show a Nanjing massacre vigil in France",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C39U2CQ",
+      "date_published": "2026-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Des panneaux photovoltaïques installés après l'incendie de 2022 à Hostens",
+      "title": "Attention à ces publications faisant un lien entre les incendies de ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des panneaux photovoltaïques installés après l'incendie de 2022 à Hostens",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C3BC4WE",
+      "date_published": "2026-07-30",
+      "lang": "fr"
+    },
+    {
       "claim": "Food and vaccines are being used to alter people's sexual orientation",
       "title": "'Scientifically impossible': False health claims fuel LGBTQ hate in Indonesia",
       "verdict_label": "False",
@@ -217,6 +239,17 @@
       "explanation": "A U.S. aircraft carrier being targeted in an Iranian missile attack.",
       "source_name": "Inconnu",
       "source_url": "https://www.misbar.com/en/factcheck/2026/07/29/ai-generated-video-does-not-show-iranian-missile-attack-us-aircraft-carrier",
+      "date_published": "2026-07-29",
+      "lang": "en"
+    },
+    {
+      "claim": "“If they [Canada] managed their forests, they wouldn’t have the fires.”",
+      "title": "Major Driver of Worsening Canadian Wildfires Is Climate Change ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "“If they [Canada] managed their forests, they wouldn’t have the fires.”",
+      "source_name": "FactCheck.org",
+      "source_url": "https://www.factcheck.org/2026/07/major-driver-of-worsening-canadian-wildfires-is-climate-change-not-forest-mismanagement/",
       "date_published": "2026-07-29",
       "lang": "en"
     },
