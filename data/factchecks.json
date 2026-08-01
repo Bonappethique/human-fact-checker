@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T06:17:38Z",
-  "total_count": 8479,
+  "last_updated": "2026-08-01T06:00:38Z",
+  "total_count": 8482,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,39 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "SA president begs for travel ban lift from xenophobia claims",
+      "title": "Old Ramaphosa speech on Covid-19 travel bans falsely linked to ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "SA president begs for travel ban lift from xenophobia claims",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3NF9CW",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Nate Ward, who confront Fauci and DC Mayor Muriel Bowser on Covid, is dead",
+      "title": "Fact Check: Nate Ward Is NOT Dead -- He Confronted Fauci, D.C. ...",
+      "verdict_label": "Still With Us",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Nate Ward, who confront Fauci and DC Mayor Muriel Bowser on Covid, is dead",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-nate-ward-is-not-dead-he-confronted-fauci-dc-mayor-bowser-over-covid-19-vaccine.html",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Annual energy bills in the UK are £2,325 compared to £485 in France, £520 in Belgium, £470 in Austria, £495 in Spain, £550 in Germany, £590 in Israel, £460 in Norway and £150 in Poland.",
+      "title": "Viral energy price figures don't show annual consumer energy bills ...",
+      "verdict_label": "These figures appear to be based on wholesale electricity costs and do not reflect the annual cost of energy for consumers in each country.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Annual energy bills in the UK are £2,325 compared to £485 in France, £520 in Belgium, £470 in Austria, £495 in Spain, £550 in Germany, £590 in Israel, £460 in Norway and £150 in Poland.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/economy/uk-eu-energy-price-comparison-repeat/",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
     {
       "claim": "Videos show a Nanjing massacre vigil in France",
       "title": "Unrelated clips misrepresented as Nanjing massacre memorial in ...",
