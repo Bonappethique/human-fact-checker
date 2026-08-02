@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T06:00:38Z",
-  "total_count": 8482,
+  "last_updated": "2026-08-02T06:06:58Z",
+  "total_count": 8500,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,39 @@
   ],
   "factchecks": [
     {
+      "claim": "Les actions à faible investissement génèrent jusqu'à 15 % d'économies",
+      "title": "Hausse de l'électricité : comment protéger votre marge ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les actions à faible investissement génèrent jusqu'à 15 % d'économies",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/hausse-de-electricite",
+      "date_published": "2026-08-01",
+      "lang": "fr"
+    },
+    {
+      "claim": "Three Iranian drones have targeted the US Embassy in Saudi Arabia.",
+      "title": "Video Does Not Show a Recent Iranian Strike on the U.S. Embassy in Saudi Arabia",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Three Iranian drones have targeted the US Embassy in Saudi Arabia.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/01/video-does-not-show-recent-iranian-strike-us-embassy-saudi-arabia",
+      "date_published": "2026-08-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Footage of the attack on a US air base in the Kuwaiti capital clearly shows that Iran has rendered the jamming system ineffective.",
+      "title": "Does the Video Show a Recent Iranian Attack on Kuwait?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Footage of the attack on a US air base in the Kuwaiti capital clearly shows that Iran has rendered the jamming system ineffective.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/01/does-video-show-recent-iranian-attack-kuwait",
+      "date_published": "2026-08-01",
+      "lang": "en"
+    },
+    {
       "claim": "SA president begs for travel ban lift from xenophobia claims",
       "title": "Old Ramaphosa speech on Covid-19 travel bans falsely linked to ...",
       "verdict_label": "False",
@@ -177,6 +210,116 @@
       "lang": "en"
     },
     {
+      "claim": "A video shows Moroccan guard opening a border fence as migrants cross into Ceuta, Spain in July 2026.",
+      "title": "Fact Check: Video Does NOT Show Moroccan Guard Opening Border Gate Into Ceuta, Spain In July 2026 -- Footage Was Posted In 2021",
+      "verdict_label": "Older Footage",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows Moroccan guard opening a border fence as migrants cross into Ceuta, Spain in July 2026.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-video-does-not-show-moroccan-guard-opening-border-gate-into-ceuta-spain-in-july-2026-footage-was-posted-in-2021.html",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "A decision notice shows Manchester City Council approved a lease for the offices used by Number 10 North on 10 June, before Andy Burnham was elected as MP for Makerfield.",
+      "title": "Council document doesn’t prove lease for Number 10 North was agreed before Andy Burnham was elected as Makerfield MP – Full Fact",
+      "verdict_label": "This is not correct according to Manchester City Council, which says the decision notice relates to a lease for a different part of Heron House, let to an arms-length public body not currently based in the building. The council says Number 10 North is based in office space which was already being leased by the government, and the Cabinet Office says preparations for it took place during the Labour leadership contest.",
+      "verdict_category": "VRAI",
+      "explanation": "A decision notice shows Manchester City Council approved a lease for the offices used by Number 10 North on 10 June, before Andy Burnham was elected as MP for Makerfield.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/politics/manchester-council-heron-house-decision-lease-burnham/",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "France Digitale est une organisation encourageant l'adoption de standards ouverts",
+      "title": "Souveraineté numérique : quel plan pour le RSSI en 2026 ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France Digitale est une organisation encourageant l'adoption de standards ouverts",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/souverainete-numerique-feuille-route-rssi",
+      "date_published": "2026-07-31",
+      "lang": "fr"
+    },
+    {
+      "claim": "Real California Rep. Jack Kimble posted an AI generated picture of a family claiming \"This Is The America They Want To Take Away.\"",
+      "title": "Fact Check: SATIRICAL California 'Rep. Jack Kimble' Posted 'This Is The America They Want To Take Away'",
+      "verdict_label": "Parody Account",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real California Rep. Jack Kimble posted an AI generated picture of a family claiming \"This Is The America They Want To Take Away.\"",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-satirical-california-rep-jack-kimble-posted-this-is-the-america-they-want-to-take-away.html",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows U.S. President Donald Trump's aide Natalie Harp carrying a bag full of diapers for the president.",
+      "title": "Is image of Natalie Harp carrying 'diaper bag' for Trump real? Don't be fooled",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows U.S. President Donald Trump's aide Natalie Harp carrying a bag full of diapers for the president.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/natalie-harp-diaper-bag-photo/",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Netanyahu insulting U.S. officials before leaving Lindsey Grahams funeral.",
+      "title": "Does the Video Show Netanyahu Insulting U.S. Officials at Lindsey Graham’s Funeral?",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "Netanyahu insulting U.S. officials before leaving Lindsey Grahams funeral.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/31/does-video-show-netanyahu-insulting-us-officials-lindsey-graham%E2%80%99s-funeral",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Image of US command centre destroyed by Iran",
+      "title": "AI-generated image falsely shared as Iranian strike on US military facility in the Gulf",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Image of US command centre destroyed by Iran",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3NE663",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Footage shows CJP founder Abhijeet Dipke leaving for the US",
+      "title": "Old footage misrepresented online as Cockroach Janta Party founder leaving India",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Footage shows CJP founder Abhijeet Dipke leaving for the US",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3G29KE",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "An Iranian oil tanker destroying a U.S. reconnaissance boat.",
+      "title": "Does This Video Show an Iranian Oil Tanker Destroying a U.S. Reconnaissance Boat?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian oil tanker destroying a U.S. reconnaissance boat.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/07/31/does-video-show-iranian-oil-tanker-destroying-us-reconnaissance-boat",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
+      "claim": "Sophie Cunningham said she would take a five-game suspension rather than recant her remarks on trans women in sport.",
+      "title": "Fact Check: Sophie Cunningham Did NOT Say She Would Take 5-Game Suspension Instead Of Recanting Remarks On Trans Women In Sport",
+      "verdict_label": "Satire Label",
+      "verdict_category": "SATIRE",
+      "explanation": "Sophie Cunningham said she would take a five-game suspension rather than recant her remarks on trans women in sport.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-sophie-cunningham-did-not-say-she-would-take-5-game-suspension-instead-of-recanting-remarks-on-trans-women-in-sports.html",
+      "date_published": "2026-07-31",
+      "lang": "en"
+    },
+    {
       "claim": "Videos show a Nanjing massacre vigil in France",
       "title": "Unrelated clips misrepresented as Nanjing massacre memorial in ...",
       "verdict_label": "False",
@@ -197,6 +340,50 @@
       "source_url": "https://factuel.afp.com/doc.afp.com.C3BC4WE",
       "date_published": "2026-07-30",
       "lang": "fr"
+    },
+    {
+      "claim": "A video allegedly shows US President Donald Trump randomly falling down before entering a car.",
+      "title": "Does this video really show Donald Trump falling before entering a car? Fact Check",
+      "verdict_label": "The claim is false. There are no credible reports or official statements from the White House confirming such an incident. Furthermore, analysis indicates that the circulating clip was manipulated using AI. US President Donald Trump did not fall or collapse as depicted in the video.",
+      "verdict_category": "FAUX",
+      "explanation": "A video allegedly shows US President Donald Trump randomly falling down before entering a car.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/does-this-video-really-show-donald-trump-falling-before-entering-a-car-fact-check/",
+      "date_published": "2026-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "The administration of U.S. President Donald Trump announced the end of a Medicare subsidy program aimed to help lower the cost of prescription drugs.",
+      "title": "Trump administration to end Medicare Part D subsidy program. Will costs increase?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The administration of U.S. President Donald Trump announced the end of a Medicare subsidy program aimed to help lower the cost of prescription drugs.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-medicare-part-d-subsidies/",
+      "date_published": "2026-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Anthony Fauci, former top infectious-disease official at the National Institutes of Health, wrote in his publicly released diary of President Donald Trump, \"POTUS has no interest at all in the Pandemic. He is focusing on blocking Biden from being POTUS. He is embarrassing the USA.\"",
+      "title": "Fauci said in diary that Trump had 'no interest' in COVID-19 pandemic, was embarrassing US",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "Anthony Fauci, former top infectious-disease official at the National Institutes of Health, wrote in his publicly released diary of President Donald Trump, \"POTUS has no interest at all in the Pandemic. He is focusing on blocking Biden from being POTUS. He is embarrassing the USA.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/fauci-diary-trump-embarrassing/",
+      "date_published": "2026-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "Sophie Cunningham said LeBron James \"doesn't have the correct genitalia\" to discuss trans women in sports",
+      "title": "Fact Check: Sophie Cunningham Did NOT Say LeBron James 'Doesn't Have the Correct Genitalia' To Discuss Trans Women In Sports",
+      "verdict_label": "Satire Page",
+      "verdict_category": "SATIRE",
+      "explanation": "Sophie Cunningham said LeBron James \"doesn't have the correct genitalia\" to discuss trans women in sports",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/07/fact-check-sophie-cunningham-did-not-say-lebron-james-doesnt-have-the-correct-genitalia-to-discuss-trans-women-in-sports.html",
+      "date_published": "2026-07-30",
+      "lang": "en"
     },
     {
       "claim": "Food and vaccines are being used to alter people's sexual orientation",
@@ -93442,6 +93629,17 @@
       "explanation": "This image shows a woman in revealing clothing participating in the CJP protest at Jantar Mantar.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/ai-generated-woman-protester-image-cjp-protest-jantar-mantar-fact-check-2956072-2026-07-25",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A video purportedly shows a woman participating in the CJP protest in New Delhi being assaulted by police and Bajrang Dal members for using abusive language against Prime Minister Narendra Modi and his late mother.",
+      "title": "PTI Fact Check: Unrelated video of woman with severe bruises on her face from Varanasi falsely linked to recent CJP protest in Delhi",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A video purportedly shows a woman participating in the CJP protest in New Delhi being assaulted by police and Bajrang Dal members for using abusive language against Prime Minister Narendra Modi and his late mother.",
+      "source_name": "Press Trust of India",
+      "source_url": "https://www.ptinews.com/fact-detail/unrelated-video-of-woman-with-severe-bruises-on-her-face-from-varanasi-falsely-linked-to-recent-cjp-protest-in-delhi/3919006",
       "date_published": "",
       "lang": "en"
     }
