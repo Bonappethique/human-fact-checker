@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T06:06:58Z",
-  "total_count": 8500,
+  "last_updated": "2026-08-03T06:28:12Z",
+  "total_count": 8504,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,28 @@
   ],
   "factchecks": [
     {
+      "claim": "#BREAKING : After IRGCs missile strike on a US base, the US military retaliated by annihilating IRGCs main nerve centerthe Sar-Allah HQ in Tehran.",
+      "title": "Old Video Shows a Fire in Cairo, Not a U.S. Strike on Iran's IRGC Headquarters",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "#BREAKING : After IRGCs missile strike on a US base, the US military retaliated by annihilating IRGCs main nerve centerthe Sar-Allah HQ in Tehran.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/02/old-video-shows-fire-cairo-not-us-strike-irans-irgc-headquarters",
+      "date_published": "2026-08-02",
+      "lang": "en"
+    },
+    {
+      "claim": "The US Air Force F-22 Raptors just delivered a devastating blow to Irans largest missile base. Complete destruction reported. The IRGC leadership is in total chaos.",
+      "title": "The Video Shows a Military Simulation Game, Not an F-22 Strike on Iranian Targets",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The US Air Force F-22 Raptors just delivered a devastating blow to Irans largest missile base. Complete destruction reported. The IRGC leadership is in total chaos.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/02/video-shows-military-simulation-game-not-f-22-strike-iranian-targets",
+      "date_published": "2026-08-02",
+      "lang": "en"
+    },
+    {
       "claim": "Les actions à faible investissement génèrent jusqu'à 15 % d'économies",
       "title": "Hausse de l'électricité : comment protéger votre marge ?",
       "verdict_label": "À nuancer",
@@ -173,6 +195,28 @@
       "explanation": "Footage of the attack on a US air base in the Kuwaiti capital clearly shows that Iran has rendered the jamming system ineffective.",
       "source_name": "Inconnu",
       "source_url": "https://www.misbar.com/en/factcheck/2026/08/01/does-video-show-recent-iranian-attack-kuwait",
+      "date_published": "2026-08-01",
+      "lang": "en"
+    },
+    {
+      "claim": "For most adults, the health payoff from daily steps largely levels off between 5,000 and 7,000 — well short of the popular 10,000 target — though the pattern flips for older adults, where the evidence points to a linear benefit with no plateau in sight.",
+      "title": "How Many Steps Per Day? The Evidence Behind the Number",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "For most adults, the health payoff from daily steps largely levels off between 5,000 and 7,000 — well short of the popular 10,000 target — though the pattern flips for older adults, where the evidence points to a linear benefit with no plateau in sight.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/how-many-steps-per-day/",
+      "date_published": "2026-08-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Several U.S. Senate Republicans reportedly suffered from diarrhea in July 2026 after filming themselves eating salads to troll Dr. Anthony Fauci after he criticized the party for food regulation cuts.",
+      "title": "Did Senate Republicans suffer from diarrhea after eating salads to troll Fauci?",
+      "verdict_label": "Labeled Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "Several U.S. Senate Republicans reportedly suffered from diarrhea in July 2026 after filming themselves eating salads to troll Dr. Anthony Fauci after he criticized the party for food regulation cuts.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/republicans-diarrhea-salads-fauci/",
       "date_published": "2026-08-01",
       "lang": "en"
     },
