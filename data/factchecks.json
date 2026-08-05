@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T05:52:25Z",
-  "total_count": 8514,
+  "last_updated": "2026-08-05T05:50:17Z",
+  "total_count": 8526,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,116 @@
   ],
   "factchecks": [
     {
+      "claim": "Des mini-pots de confiture Bonne Maman de 30 grammes, commercialisés entre le 17 juin et le 13 juillet, sont rappelés dans toute la France en raison d'un risque potentiel de présence de petits éclats de verre.",
+      "title": "Rappel des confitures Bonne Maman : risque de bris de verre",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des mini-pots de confiture Bonne Maman de 30 grammes, commercialisés entre le 17 juin et le 13 juillet, sont rappelés dans toute la France en raison d'un risque potentiel de présence de petits éclats de verre.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/rappel-de-confitures-bonne-maman-risque-de-bris-de-verre",
+      "date_published": "2026-08-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "Arsonist seen \"starting climate change\" in 2026 wildfire in France",
+      "title": "Old arson clip from Italy falsely linked to French wildfires",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Arsonist seen \"starting climate change\" in 2026 wildfire in France",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3XX4NT",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran targeting and shooting down a U.S. F-35 fighter jet, killing its entire crew.",
+      "title": "Video Does Not Show Iran Shooting Down U.S. F-35 Fighter Jet",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran targeting and shooting down a U.S. F-35 fighter jet, killing its entire crew.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/04/video-does-not-show-iran-shooting-down-us-f-35-fighter-jet",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Capital One bank closed 300 of U.S. President Donald Trump’s accounts because of money laundering concerns.",
+      "title": "Capital One closed hundreds of Trump bank accounts for 'anti-money laundering reasons,' lawsuit says",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Capital One bank closed 300 of U.S. President Donald Trump’s accounts because of money laundering concerns.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/capital-one-close-trump-accounts/",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "In July 2026, a chef claimed he knew U.S. Sen. Rand Paul, R-Ky., was vaccinated because he attended an event the chef cooked for in early 2022 that required unmasked attendees to provide a negative COVID-19 test.",
+      "title": "Did chef Joe Gera expose Rand Paul lied about not getting COVID-19 vaccine?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "In July 2026, a chef claimed he knew U.S. Sen. Rand Paul, R-Ky., was vaccinated because he attended an event the chef cooked for in early 2022 that required unmasked attendees to provide a negative COVID-19 test.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/joe-gera-chef-rand-paul-covid-19/",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. has “the highest death rate from COVID of any nation on Earth.”",
+      "title": "RFK Jr.'s Falsehood-Filled CNN Interview",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The U.S. has “the highest death rate from COVID of any nation on Earth.”",
+      "source_name": "FactCheck.org",
+      "source_url": "https://www.factcheck.org/2026/08/rfk-jr-s-falsehood-filled-cnn-interview/",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Kangana was not assaulted by women after her objectionable statement.",
+      "title": "TMC Leader Daughter Viral Video Falsely Linked with Kangana Ranaut assault news",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Kangana was not assaulted by women after her objectionable statement.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.vishvasnews.com/english/politics/fact-check-claim-of-kangana-ranaut-being-assaulted-after-calling-gen-z-the-gutter-generation-is-fake/",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "\"Christian men’s gym” in Georgia that bans women so pious men can have “lust-free workouts” had threee men caught “violating Leviticus in the locker room” just six days after opening.",
+      "title": "Fact Check: 'Christian Men's Gym' Did NOT Have 3 Men Caught 'Violating Leviticus' In Locker Room After Banning Women For 'Lust-Free Workouts'",
+      "verdict_label": "It's Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "\"Christian men’s gym” in Georgia that bans women so pious men can have “lust-free workouts” had threee men caught “violating Leviticus in the locker room” just six days after opening.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-christian-mens-gym-did-not-have-3-men-caught-violating-leviticus-in-locker-room-after-banning-women-for-lust-free-workouts-satire.html",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "A viral image allegedly shows a policeman assaulting a woman during the Cockroach Janata Party (CJP) protest at Delhi's Jantar Mantar.",
+      "title": "Verified: Image Claiming Police Assault During CJP Protest Is AI-Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A viral image allegedly shows a policeman assaulting a woman during the Cockroach Janata Party (CJP) protest at Delhi's Jantar Mantar.",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-image-claiming-police-assault-during-cjp-protest-is-ai-generated/",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Ukrainian military attacks on Russian energy facilities using drones.",
+      "title": "Outdated Video Does Not Show Ukrainian Drones Recently ...",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Ukrainian military attacks on Russian energy facilities using drones.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/04/outdated-video-does-not-show-ukrainian-drones-recently-targeting-russian-energy-facilities",
+      "date_published": "2026-08-04",
+      "lang": "en"
+    },
+    {
       "claim": "Zinedine Zidane vient de claquer la porte au nez de Brigitte Macron. L'Élysée l'avait invité à un banquet privé pour le féliciter de son poste de sélectionneur.",
       "title": "L'étrange intox qui mêle Zinédine Zidane, l'Elysée et Brigitte Macron",
       "verdict_label": "Faux",
@@ -228,6 +338,28 @@
       "explanation": "Legend a cédé 25 % de son capital pour 17 millions d'euros",
       "source_name": "Entreprisma",
       "source_url": "https://entreprisma.fr/article/le-media-legend-de-guillaume-pley-valorise-72-millions-d-euros-en-trois-ans",
+      "date_published": "2026-08-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le renouvellement des équipements peut générer des économies d'énergie de 20% à 50% sur les postes concernés.",
+      "title": "EDF coupe 3 de ces réacteurs à cause de la sécheresse",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le renouvellement des équipements peut générer des économies d'énergie de 20% à 50% sur les postes concernés.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/secheresse-edf-arrete-trois-reacteurs-nucleaires-en-france",
+      "date_published": "2026-08-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les salariés français sont ceux qui prennent le moins l'intégralité de leurs congés en Europe.",
+      "title": "Congés payés en France : pourquoi sont-ils moins pris ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les salariés français sont ceux qui prennent le moins l'intégralité de leurs congés en Europe.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/conges-payes-les-salaries-francais-champions-d-europe-des-conges-non-pris",
       "date_published": "2026-08-03",
       "lang": "fr"
     },
