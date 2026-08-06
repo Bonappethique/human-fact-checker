@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T05:50:17Z",
-  "total_count": 8526,
+  "last_updated": "2026-08-06T05:54:04Z",
+  "total_count": 8538,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,138 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "mRNA-based dengue vaccine prototype will alter DNA and is controlled by AI",
+      "title": "Indonesia dengue vaccine prototype revives mRNA misinformation",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "mRNA-based dengue vaccine prototype will alter DNA and is controlled by AI",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3AA867",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Cette vidéo montre la complicité de gendarmes marocains dans l'afflux de migrants à Ceuta",
+      "title": "VÉRIF' - Ceuta : ce que l'on sait sur la vidéo d'un camion d'où descendent des dizaines de jeunes hommes au Maroc",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Cette vidéo montre la complicité de gendarmes marocains dans l'afflux de migrants à Ceuta",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/verif-ceuta-ce-que-l-on-sait-sur-la-video-d-un-camion-d-ou-descendent-des-dizaines-de-jeunes-hommes-au-maroc-2456710.html",
+      "date_published": "2026-08-05",
+      "lang": "fr"
+    },
+    {
+      "claim": "\"The Spanish Supreme Court issued a ruling considered one of the most prominent decisions in the migration file, prohibiting the immediate deportation of irregular migrants...\"",
+      "title": "Fact check: Did disinformation trigger the Ceuta crisis?",
+      "verdict_label": "False.",
+      "verdict_category": "FAUX",
+      "explanation": "\"The Spanish Supreme Court issued a ruling considered one of the most prominent decisions in the migration file, prohibiting the immediate deportation of irregular migrants...\"",
+      "source_name": "DW.com",
+      "source_url": "https://www.dw.com/en/fact-check-did-misleading-claims-about-spains-migration-law-trigger-the-ceuta-crisis/a-78233161",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian forces shooting down a U.S. F-16 fighter jet and capturing its pilot.",
+      "title": "Video Does Not Show Iran Downing U.S. Fighter Jet and Capturing Pilot",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian forces shooting down a U.S. F-16 fighter jet and capturing its pilot.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/05/video-does-not-show-iran-downing-us-fighter-jet-and-capturing-pilot",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "WNBA star Caitlin Clark responded with an uplifting message after U.S. President Donald Trump attacked her for being \"too woke,\" as claimed online in the summer of 2026.",
+      "title": "Did Caitlin Clark respond to Trump's 'attack' with uplifting message?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "WNBA star Caitlin Clark responded with an uplifting message after U.S. President Donald Trump attacked her for being \"too woke,\" as claimed online in the summer of 2026.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/caitlin-clark-response-trump-attack/",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically showed a Truth Social post on U.S. President Donald Trump's account featuring an image depicting him with World War II Generals George Patton and Douglas MacArthur.",
+      "title": "Did Trump post AI image of himself with Generals Patton and MacArthur?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A screenshot authentically showed a Truth Social post on U.S. President Donald Trump's account featuring an image depicting him with World War II Generals George Patton and Douglas MacArthur.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-ai-image-patton-macarthur/",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "\"We inherited the worst inflation in the history of America from the Biden administration. And as you know, last week, it was announced that inflation is way down. It’s down more than it’s been in over six years.\"",
+      "title": "Trump's Cherry-Picked Inflation Boast",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "\"We inherited the worst inflation in the history of America from the Biden administration. And as you know, last week, it was announced that inflation is way down. It’s down more than it’s been in over six years.\"",
+      "source_name": "FactCheck.org",
+      "source_url": "https://www.factcheck.org/2026/08/trumps-cherry-picked-inflation-boast/",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "The aftermath of Iranian strikes on US bases in Kuwait.",
+      "title": "Old Video Does Not Show Aftermath of Iranian Strikes on U.S. Bases in Kuwait",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The aftermath of Iranian strikes on US bases in Kuwait.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/05/old-video-does-not-show-aftermath-iranian-strikes-us-bases-kuwait",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian military helicopters carrying out airstrikes on two U.S. military sites.",
+      "title": "Does the Video Show Iranian Helicopters Attacking U.S. Military Bases?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian military helicopters carrying out airstrikes on two U.S. military sites.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/05/does-video-show-iranian-helicopters-attacking-us-military-bases",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump said, \"You know, grass is like human beings. Grass has a life also.\"",
+      "title": "Did Trump say grass 'is like human beings'?",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump said, \"You know, grass is like human beings. Grass has a life also.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-grass-quote/",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a young woman being beaten by her family members for abusing PM Modi during the CJP protests in Delhi.",
+      "title": "An unrelated video is shared as showing a young woman being beaten by her family members for abusing PM Modi during the Delhi CJP protest",
+      "verdict_label": "FALSE",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a young woman being beaten by her family members for abusing PM Modi during the CJP protests in Delhi.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/an-unrelated-video-is-shared-as-showing-a-young-woman-being-beaten-by-her-family-members-for-abusing-pm-modi-during-the-delhi-cjp-protest/",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows a real scene where a transgender woman pulls up to someone’s house with guns after being misgendered.",
+      "title": "Fact Check: Staged Video Shows A FAKE Scene Of A Transgender Woman With A Gun Angry Over Being Misgendered",
+      "verdict_label": "Staged Skit",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows a real scene where a transgender woman pulls up to someone’s house with guns after being misgendered.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-staged-video-shows-a-fake-scene-of-a-transwoman-with-a-gun-angry-over-being-misgendered.html",
+      "date_published": "2026-08-05",
+      "lang": "en"
+    },
     {
       "claim": "Des mini-pots de confiture Bonne Maman de 30 grammes, commercialisés entre le 17 juin et le 13 juillet, sont rappelés dans toute la France en raison d'un risque potentiel de présence de petits éclats de verre.",
       "title": "Rappel des confitures Bonne Maman : risque de bris de verre",
