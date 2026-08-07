@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T05:54:04Z",
-  "total_count": 8538,
+  "last_updated": "2026-08-07T04:58:12Z",
+  "total_count": 8545,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,83 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Acting Dasmariñas City Mayor Elpidio “Thirdy” Barzaga gave the Commission on Elections (Comelec) P50 million, as his mother is among the candidates in the special elections for the vacant Cavite 4th District seat in the House of Representatives.",
+      "title": "FACT CHECK: Dasmariñas LGU's P50-M donation not a bribe, Comelec says",
+      "verdict_label": "Missing Context",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Acting Dasmariñas City Mayor Elpidio “Thirdy” Barzaga gave the Commission on Elections (Comelec) P50 million, as his mother is among the candidates in the special elections for the vacant Cavite 4th District seat in the House of Representatives.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/dasmarinas-lgu-50-million-donation-not-legal-bribery-comelec/",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Ces images montrent des pompiers et des animaux pendant les incendies dans le Sud-Ouest de la France",
+      "title": "Après les incendies dans le Sud-Ouest de la France, les réseaux saturés d'images générées par IA",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Ces images montrent des pompiers et des animaux pendant les incendies dans le Sud-Ouest de la France",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C43L3T3",
+      "date_published": "2026-08-06",
+      "lang": "fr"
+    },
+    {
+      "claim": "Video shows migrants influx into Spanish territory in north Africa.",
+      "title": "Video of pilgrims in Turkey misrepresented as migrant rush to Spain's Ceuta",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows migrants influx into Spanish territory in north Africa.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C3VX86A",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "A video allegedly shows leaked Chinese intelligence footage of the destruction caused by Iran's strikes on US bases in Jordan, Kuwait, Bahrain and the Gulf.",
+      "title": "Does this video show leaked Chinese intelligence footage of Iran striking US bases? Fact Check",
+      "verdict_label": "The claim is false. The video is AI-generated footage, not authentic recordings of strikes on those US bases in the Gulf. China did not leak it as official intelligence. While Iran has conducted real missile and drone attacks on US facilities in the Gulf, this specific clip is fabricated.",
+      "verdict_category": "FAUX",
+      "explanation": "A video allegedly shows leaked Chinese intelligence footage of the destruction caused by Iran's strikes on US bases in Jordan, Kuwait, Bahrain and the Gulf.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/does-this-video-show-leaked-chinese-intelligence-footage-of-iran-striking-us-bases-fact-check/",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran revealing the development of nuclear weapons amid escalating tensions with the United States.",
+      "title": "Does the Video Show Iran Revealing Nuclear Weapons?",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "Iran revealing the development of nuclear weapons amid escalating tensions with the United States.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/06/does-video-show-iran-revealing-nuclear-weapons",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran destroying a parked U.S. B-2 stealth bomber at an American air base in Saudi Arabia.",
+      "title": "Old Video Does Not Show Iran Destroying a U.S. B-2 Bomber in Saudi Arabia",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran destroying a parked U.S. B-2 stealth bomber at an American air base in Saudi Arabia.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/06/old-video-does-not-show-iran-destroying-us-b-2-bomber-saudi-arabia",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "In early August 2026, White House press secretary Karoline Leavitt said, \"The conflict in Iran would be over by now if President Trump had better intelligence.\"",
+      "title": "Did Karoline Leavitt say Iran war 'would be over' if 'Trump had better ...",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In early August 2026, White House press secretary Karoline Leavitt said, \"The conflict in Iran would be over by now if President Trump had better intelligence.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-iran-intelligence-karoline-leavitt/",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
     {
       "claim": "mRNA-based dengue vaccine prototype will alter DNA and is controlled by AI",
       "title": "Indonesia dengue vaccine prototype revives mRNA misinformation",
