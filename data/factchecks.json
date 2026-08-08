@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T04:58:12Z",
-  "total_count": 8545,
+  "last_updated": "2026-08-08T04:13:20Z",
+  "total_count": 8551,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,61 @@
   ],
   "factchecks": [
     {
+      "claim": "In August 2026, the White House's official Instagram account shared Spider-Man-inspired graphics showing immigrants trapped in webs next to a U.S. Immigration and Customs Enforcement agent.",
+      "title": "White House posted Spider-Man-inspired graphics to promote ICE deportations",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In August 2026, the White House's official Instagram account shared Spider-Man-inspired graphics showing immigrants trapped in webs next to a U.S. Immigration and Customs Enforcement agent.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/white-house-spider-man-deportations/",
+      "date_published": "2026-08-07",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, Iran's government announced that it would only reopen the Strait of Hormuz if U.S. President Donald Trump admitted he lost the 2020 presidential election.",
+      "title": "Did Iran say it'd only reopen Strait of Hormuz if Trump admits he lost 2020 election?",
+      "verdict_label": "Labeled Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In August 2026, Iran's government announced that it would only reopen the Strait of Hormuz if U.S. President Donald Trump admitted he lost the 2020 presidential election.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/iran-open-hormuz-trump-lost-election/",
+      "date_published": "2026-08-07",
+      "lang": "en"
+    },
+    {
+      "claim": "La France refuse d'acheter des Canadair français",
+      "title": "VÉRIF' - Pour lutter contre les feux de forêt, la France refuse-t-elle d'acheter des \"Canadair français\" ?",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France refuse d'acheter des Canadair français",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-pour-lutter-contre-les-feux-de-foret-la-france-refuse-t-elle-d-acheter-des-canadair-francais-2456957.html",
+      "date_published": "2026-08-07",
+      "lang": "fr"
+    },
+    {
+      "claim": "In August 2026, 300 military officers and generals resigned from the U.S. Department of Defense.",
+      "title": "300 generals and officers didn't resign from Defense Department, despite claims",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "In August 2026, 300 military officers and generals resigned from the U.S. Department of Defense.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/department-defense-resignations/",
+      "date_published": "2026-08-07",
+      "lang": "en"
+    },
+    {
+      "claim": "A real screenshot shows Mehdi Hasan's post with 9/11 photo and the caption, \"Make American planes crash again.\"",
+      "title": "Fact Check: Mehdi Hasan Social Media Post Did NOT Have A 9/11 Image Under The Caption 'Make American Planes Crash Again.' -- Now-Deleted Post Retweeted NewsWire",
+      "verdict_label": "Not That Image",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real screenshot shows Mehdi Hasan's post with 9/11 photo and the caption, \"Make American planes crash again.\"",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-mehdi-hasan-social-media-post-did-not-have-a-911-image-under-the-caption-make-american-planes-crash-again.html",
+      "date_published": "2026-08-07",
+      "lang": "en"
+    },
+    {
       "claim": "Acting Dasmariñas City Mayor Elpidio “Thirdy” Barzaga gave the Commission on Elections (Comelec) P50 million, as his mother is among the candidates in the special elections for the vacant Cavite 4th District seat in the House of Representatives.",
       "title": "FACT CHECK: Dasmariñas LGU's P50-M donation not a bribe, Comelec says",
       "verdict_label": "Missing Context",
@@ -217,6 +272,17 @@
       "explanation": "In early August 2026, White House press secretary Karoline Leavitt said, \"The conflict in Iran would be over by now if President Trump had better intelligence.\"",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/trump-iran-intelligence-karoline-leavitt/",
+      "date_published": "2026-08-06",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. Senate candidate Abdul El-Sayed, the Democratic nominee from Michigan, said he believes America deserved the 9/11 terrorist attacks.",
+      "title": "Did Michigan Senate candidate Abdul El-Sayed say he believes America deserved 9/11? There's no proof",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. Senate candidate Abdul El-Sayed, the Democratic nominee from Michigan, said he believes America deserved the 9/11 terrorist attacks.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/el-sayed-america-deserved-911/",
       "date_published": "2026-08-06",
       "lang": "en"
     },
