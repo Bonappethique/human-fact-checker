@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T04:13:20Z",
-  "total_count": 8551,
+  "last_updated": "2026-08-09T04:20:38Z",
+  "total_count": 8557,
   "sources": [
     "11Alive.com",
     "12News",
@@ -199,6 +199,61 @@
       "lang": "en"
     },
     {
+      "claim": "Real video shows an African migrant saying \"I want my money and my free house, and English woman.\"",
+      "title": "Fact Check: FAKE Video REPLACED African Migrant's Original Words -- He Did NOT Discuss Money, Home, English Women",
+      "verdict_label": "AI Edits",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real video shows an African migrant saying \"I want my money and my free house, and English woman.\"",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-fake-video-replaced-african-migrants-original-words.html",
+      "date_published": "2026-08-07",
+      "lang": "en"
+    },
+    {
+      "claim": "La Banque de France rappelle régulièrement l'importance de fonds propres solides lors de la négociation de dettes d'acquisition.",
+      "title": "SASU ou SARL en Holding : les 5 critères de choix",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La Banque de France rappelle régulièrement l'importance de fonds propres solides lors de la négociation de dettes d'acquisition.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/holding-sasu-ou-sarl-quel-statut-choisir-pour-sa-societe-mere",
+      "date_published": "2026-08-07",
+      "lang": "fr"
+    },
+    {
+      "claim": "La Banque de France figure parmi les ressources économiques générales mentionnées dans l’article.",
+      "title": "Créer une holding après sa société : étapes 2026",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La Banque de France figure parmi les ressources économiques générales mentionnées dans l’article.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/comment-creer-une-holding-apres-avoir-cree-sa-societe",
+      "date_published": "2026-08-07",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les indicateurs de la Banque de France renseignent le contexte financier global.",
+      "title": "régime mère fille de la holding : calcul et conditions",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les indicateurs de la Banque de France renseignent le contexte financier global.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/regime-mere-fille-d-une-holding-en-2026-conditions-calcul-et-exemple",
+      "date_published": "2026-08-07",
+      "lang": "fr"
+    },
+    {
+      "claim": "Ces images montrent des pompiers et des animaux pendant les incendies dans le Sud-Ouest de la France",
+      "title": "Après les incendies dans le Sud-Ouest de la France, les réseaux saturés d'images générées par IA",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Ces images montrent des pompiers et des animaux pendant les incendies dans le Sud-Ouest de la France",
+      "source_name": "DE FACTO",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Apres-les-incendies-dans-le-Sud-Ouest-de-la-France-les-reseaux-satures-d-images-generees-par-IA/",
+      "date_published": "2026-08-07",
+      "lang": "fr"
+    },
+    {
       "claim": "Acting Dasmariñas City Mayor Elpidio “Thirdy” Barzaga gave the Commission on Elections (Comelec) P50 million, as his mother is among the candidates in the special elections for the vacant Cavite 4th District seat in the House of Representatives.",
       "title": "FACT CHECK: Dasmariñas LGU's P50-M donation not a bribe, Comelec says",
       "verdict_label": "Missing Context",
@@ -285,6 +340,17 @@
       "source_url": "https://www.snopes.com/fact-check/el-sayed-america-deserved-911/",
       "date_published": "2026-08-06",
       "lang": "en"
+    },
+    {
+      "claim": "Aucune alerte consommateur en France ni aucun rappel de jouet ne figure dans les bases publiques à ce stade",
+      "title": "Un jouer squishy causant des brûlures : que vérifier ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Aucune alerte consommateur en France ni aucun rappel de jouet ne figure dans les bases publiques à ce stade",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/jouet-squishy-dangereux-ce-que-l-on-sait-apres-l-accident-de-saint-omer",
+      "date_published": "2026-08-06",
+      "lang": "fr"
     },
     {
       "claim": "mRNA-based dengue vaccine prototype will alter DNA and is controlled by AI",
