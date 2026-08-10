@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T04:20:38Z",
-  "total_count": 8557,
+  "last_updated": "2026-08-10T04:42:12Z",
+  "total_count": 8561,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,50 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "L'annonce a été diffusée pendant le Tour de France Femmes.",
+      "title": "Lapierre demande son placement en redressement judiciaire",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'annonce a été diffusée pendant le Tour de France Femmes.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/tendances-actualites/lapierre-en-redressement-judiciaire-crise-du-velo-en-france",
+      "date_published": "2026-08-09",
+      "lang": "fr"
+    },
+    {
+      "claim": "Iran attacks the U.S. Fifth Fleet headquarters in Bahrain with heavy missiles.",
+      "title": "Does the Footage Show Iran Targeting U.S. 5th Fleet Facilities?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran attacks the U.S. Fifth Fleet headquarters in Bahrain with heavy missiles.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/09/does-footage-show-iran-targeting-us-5th-fleet-facilities",
+      "date_published": "2026-08-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian missiles targeting the U.S. Consulate in Qatar.",
+      "title": "Outdated Video Does Not Show Iran Targeting U.S. Embassy in Qatar",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian missiles targeting the U.S. Consulate in Qatar.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/09/outdated-video-does-not-show-iran-targeting-us-embassy-qatar",
+      "date_published": "2026-08-09",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. forces withdrawing from their bases in the Middle East.",
+      "title": "Does the Video Show U.S. Troops Evacuating Bases in the Middle East?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "U.S. forces withdrawing from their bases in the Middle East.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/09/does-video-show-us-troops-evacuating-bases-middle-east",
+      "date_published": "2026-08-09",
+      "lang": "en"
+    },
     {
       "claim": "In August 2026, the White House's official Instagram account shared Spider-Man-inspired graphics showing immigrants trapped in webs next to a U.S. Immigration and Customs Enforcement agent.",
       "title": "White House posted Spider-Man-inspired graphics to promote ICE deportations",
