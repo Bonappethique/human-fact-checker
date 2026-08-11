@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T04:42:12Z",
-  "total_count": 8561,
+  "last_updated": "2026-08-11T04:23:00Z",
+  "total_count": 8566,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,50 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Pour lutter contre les ingérences étrangères, la France peut suspendre X le temps des élections",
+      "title": "VÉRIF' - Ingérence étrangère : suspendre X le temps des élections ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Pour lutter contre les ingérences étrangères, la France peut suspendre X le temps des élections",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-ingerence-etrangere-suspendre-x-le-temps-des-elections-en-france-comme-le-demande-marine-tondelier-est-ce-possible-2457725.html",
+      "date_published": "2026-08-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "La progression observée en août 2026 est la quatrième hausse mensuelle consécutive.",
+      "title": "Europe moral investisseurs : que disent 4 mois de hausse ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La progression observée en août 2026 est la quatrième hausse mensuelle consécutive.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/tendances-actualites/zone-euro-le-moral-des-investisseurs-progresse-malgre-les-tensions",
+      "date_published": "2026-08-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "The U.S. Army swore in four senior executives with ties to technology companies Meta, Palantir, OpenAI and Thinking Machines Lab as lieutenant colonels.",
+      "title": "US Army swore in 4 tech executives as lieutenant colonels. Here's why",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "The U.S. Army swore in four senior executives with ties to technology companies Meta, Palantir, OpenAI and Thinking Machines Lab as lieutenant colonels.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/army-tech-executives-colonels/",
+      "date_published": "2026-08-10",
+      "lang": "en"
+    },
+    {
+      "claim": "NIV Developed a Chandipura Virus Vaccine in 2005",
+      "title": "Fact Check: Did NIV Develop a Chandipura Virus Vaccine in 2005?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "NIV Developed a Chandipura Virus Vaccine in 2005",
+      "source_name": "THIP Media",
+      "source_url": "https://www.thip.media/health-news-fact-check/fact-check-did-niv-develop-a-chandipura-virus-vaccine-in-2005/150752/",
+      "date_published": "2026-08-10",
+      "lang": "en"
+    },
     {
       "claim": "L'annonce a été diffusée pendant le Tour de France Femmes.",
       "title": "Lapierre demande son placement en redressement judiciaire",
@@ -94311,6 +94355,17 @@
       "explanation": "For most adults, the health payoff from daily steps largely levels off between 5,000 and 7,000 — well short of the popular 10,000 target — though the pattern flips for older adults, where the evidence points to a linear benefit with no plateau in sight.",
       "source_name": "FitChef",
       "source_url": "https://fitchef.com/library/cardio-conditioning/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "A Muslim man, disguising himself as a Hindu with a saffron scarf, tried to rob two Hindu women. They caught him and beat him up.",
+      "title": "Fact Check: Man being beaten up is NOT a Muslim pretending to be Hindu",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A Muslim man, disguising himself as a Hindu with a saffron scarf, tried to rob two Hindu women. They caught him and beat him up.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/gwalior-video-fact-check-police-say-accused-manpreet-is-sikh-not-muslim-2968019-2026-08-10",
       "date_published": "",
       "lang": "en"
     }
