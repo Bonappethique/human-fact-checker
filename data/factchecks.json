@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T04:23:00Z",
-  "total_count": 8566,
+  "last_updated": "2026-08-12T04:50:39Z",
+  "total_count": 8572,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,50 @@
   ],
   "factchecks": [
     {
+      "claim": "Trump reduced number of required vaccines for children from 72 to 11",
+      "title": "Misleading childhood vaccine claims resurface as Trump seeks ...",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Trump reduced number of required vaccines for children from 72 to 11",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4EJ79E",
+      "date_published": "2026-08-11",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a church fire started in 2026 by a Muslim immigrant to Canada",
+      "title": "Anti-Muslim posts misrepresent old footage of lightning-sparked Canadian church fire",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows a church fire started in 2026 by a Muslim immigrant to Canada",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4CB8NQ",
+      "date_published": "2026-08-11",
+      "lang": "en"
+    },
+    {
+      "claim": "L'éclipse du 12 août va provoquer une obscurité totale en France",
+      "title": "VÉRIF' - L'éclipse du 12 août va-t-elle vraiment plonger la France dans \"une nuit totale\" ?",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'éclipse du 12 août va provoquer une obscurité totale en France",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sciences-et-innovation/verif-une-nuit-totale-l-eclipse-du-12-aout-2026-va-t-elle-vraiment-plonger-la-france-dans-l-obscurite-2457866.html",
+      "date_published": "2026-08-11",
+      "lang": "fr"
+    },
+    {
+      "claim": "The Yemeni army carried out a well-planned ambush against Saudi-American armored vehicles.",
+      "title": "Video Does Not Show Recent Houthi Ambush on Saudi-American Armored Vehicles",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The Yemeni army carried out a well-planned ambush against Saudi-American armored vehicles.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/11/video-does-not-show-recent-houthi-ambush-saudi-american-armored-vehicles",
+      "date_published": "2026-08-11",
+      "lang": "en"
+    },
+    {
       "claim": "Pour lutter contre les ingérences étrangères, la France peut suspendre X le temps des élections",
       "title": "VÉRIF' - Ingérence étrangère : suspendre X le temps des élections ...",
       "verdict_label": "Plutôt faux",
@@ -186,6 +230,28 @@
       "source_url": "https://www.thip.media/health-news-fact-check/fact-check-did-niv-develop-a-chandipura-virus-vaccine-in-2005/150752/",
       "date_published": "2026-08-10",
       "lang": "en"
+    },
+    {
+      "claim": "Revolut propose ses services à 8 millions de clients français et européens",
+      "title": "Revolut obtient sa licence bancaire pour la France",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Revolut propose ses services à 8 millions de clients français et européens",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/revolut-obtient-sa-licence-bancaire-en-france-opportunites-pour-les-pme",
+      "date_published": "2026-08-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "France Digitale est mentionnée comme relais général de l’écosystème numérique.",
+      "title": "Astra ia piratage en 2026 : quels risques réels ?",
+      "verdict_label": "À nuancer",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France Digitale est mentionnée comme relais général de l’écosystème numérique.",
+      "source_name": "Entreprisma",
+      "source_url": "https://entreprisma.fr/article/ia-automatisation/openai-freine-astra-l-ia-trop-douee-pour-le-piratage",
+      "date_published": "2026-08-10",
+      "lang": "fr"
     },
     {
       "claim": "L'annonce a été diffusée pendant le Tour de France Femmes.",
