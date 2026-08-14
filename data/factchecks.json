@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T04:55:02Z",
-  "total_count": 8582,
+  "last_updated": "2026-08-14T04:52:10Z",
+  "total_count": 8590,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,83 @@
   ],
   "factchecks": [
     {
+      "claim": "Les incendies en France imputables aux pyromanes, pas au réchauffement",
+      "title": "Plus que les pyromanes, c'est le réchauffement climatique qui ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les incendies en France imputables aux pyromanes, pas au réchauffement",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4FN6ZQ",
+      "date_published": "2026-08-13",
+      "lang": "fr"
+    },
+    {
+      "claim": "Une église incendiée par un immigrant musulman au Canada",
+      "title": "Cette église canadienne a été incendiée par la foudre et non par un migrant musulman",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une église incendiée par un immigrant musulman au Canada",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4HA3T3",
+      "date_published": "2026-08-13",
+      "lang": "fr"
+    },
+    {
+      "claim": "A video shows a Moroccan migrant filming himself with a selfie stick while swimming into the Spanish territory of Ceuta off the coast of North Africa.",
+      "title": "Video does not show ‘Moroccan migrant’ swimming into Ceuta – Full Fact",
+      "verdict_label": "False. This video was actually taken in a harbour in El Jadida, Morocco, which is over 250 miles away from Ceuta.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows a Moroccan migrant filming himself with a selfie stick while swimming into the Spanish territory of Ceuta off the coast of North Africa.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/video-moroccon-migrant-swimming-ceuta-false/",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows Manoj Tiwari getting emotional after BJP’s defeat in the Bankipur by-election and Prashant Kishor’s victory.",
+      "title": "Verified: Old Manoj Tiwari Interview Falsely Linked To Bankipur By-Election Defeat",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows Manoj Tiwari getting emotional after BJP’s defeat in the Bankipur by-election and Prashant Kishor’s victory.",
+      "source_name": "News Mobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-old-manoj-tiwari-interview-falsely-linked-to-bankipur-by-election-defeat/",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shows U.S. President Donald Trump waking himself up with a fart during a maternal healthcare announcement in the Oval Office on May 11, 2026.",
+      "title": "Is video of Trump 'waking himself up' with a fart in Oval Office real?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A video authentically shows U.S. President Donald Trump waking himself up with a fart during a maternal healthcare announcement in the Oval Office on May 11, 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/video-trump-farting-awake/",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "Fauci knew Covid-19 vaccines led to an 82% miscarriage rate",
+      "title": "Fauci texts release revives false claims linking Covid-19 vaccination ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Fauci knew Covid-19 vaccines led to an 82% miscarriage rate",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4HE6ZQ",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, the Florida Chamber of Commerce paid for an advertisement in Times Square naming New York City Mayor Zohran Mamdani Florida's \"Economic Developer of the Year.\"",
+      "title": "Florida Chamber of Commerce paid for Times Square billboard with dig at Mamdani",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "In August 2026, the Florida Chamber of Commerce paid for an advertisement in Times Square naming New York City Mayor Zohran Mamdani Florida's \"Economic Developer of the Year.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/florida-chamber-billboard-mamdani/",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
       "claim": "In August 2026, the Trump administration paid German energy company RWE $1.2 billion to stop building wind farms.",
       "title": "Did Trump admin pay German energy company RWE $1.2B to stop building offshore wind farms?",
       "verdict_label": "True",
@@ -186,6 +263,17 @@
       "source_url": "https://factly.in/the-woman-who-threw-slippers-at-the-shivaji-maharaj-statue-in-sasane-nagar-pune-is-not-muslim/",
       "date_published": "2026-08-12",
       "lang": "en"
+    },
+    {
+      "claim": "L 'Espagne annonce qu'elle utilisera la monnaie Yuan chinois au lieu du dollar américain.",
+      "title": "L'Espagne n'a pas annoncé remplacer le dollar par le yuan chinois dans ses échanges internationaux",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L 'Espagne annonce qu'elle utilisera la monnaie Yuan chinois au lieu du dollar américain.",
+      "source_name": "DE FACTO",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/L-Espagne-n-a-pas-annonce-remplacer-le-dollar-par-le-yuan-chinois-dans-ses-echanges-internationaux/",
+      "date_published": "2026-08-12",
+      "lang": "fr"
     },
     {
       "claim": "Trump reduced number of required vaccines for children from 72 to 11",
