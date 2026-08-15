@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T04:52:10Z",
-  "total_count": 8590,
+  "last_updated": "2026-08-15T03:43:02Z",
+  "total_count": 8602,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,94 @@
   ],
   "factchecks": [
     {
+      "claim": "Les peptides peuvent optimiser le physique",
+      "title": "Les peptides injectables pour perdre du gras et gagner du muscle ...",
+      "verdict_label": "Infondé",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les peptides peuvent optimiser le physique",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C3ZX6CQ",
+      "date_published": "2026-08-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le vaccin contre le Covid-19 engendre des fausses couches",
+      "title": "Des messages privés du Dr Fauci relancent les infox liant vaccins anti-Covid et fausses couches",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le vaccin contre le Covid-19 engendre des fausses couches",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4MV6CQ",
+      "date_published": "2026-08-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "Texts prove Dr. Anthony Fauci, who helped lead the United States' COVID-19 response, covered up data indicating that 82% of pregnant women who received an mRNA COVID-19 vaccine in their first trimester miscarried.",
+      "title": "Fauci didn't cover up data supposedly showing COVID-19 vaccine had 82% miscarriage rate",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Texts prove Dr. Anthony Fauci, who helped lead the United States' COVID-19 response, covered up data indicating that 82% of pregnant women who received an mRNA COVID-19 vaccine in their first trimester miscarried.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/fauci-covid-19-vaccine-miscarriages/",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows migrants being assisted across the border at Ceuta recently.",
+      "title": "Old video shared with misleading suggestion it shows migrants recently crossing into Ceuta – Full Fact",
+      "verdict_label": "This is incorrect. While the clip does reportedly show migrants crossing over the Moroccan border into the Spanish enclave of Ceuta, this video actually dates from 2021.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows migrants being assisted across the border at Ceuta recently.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/morocco-ceuta-migrants-video-old-footage/",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows a migrant eating a rat in Europe",
+      "title": "Fact Check: Video Does NOT Show Migrant Eating Rat In Europe ...",
+      "verdict_label": "SA Rodent",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows a migrant eating a rat in Europe",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-video-does-not-show-migrant-eating-rat-in-europe-scene-is-from-south-africa.html",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "A company linked to U.S. President Donald Trump began setting up an oil drilling operation in Greenland without the government's permission.",
+      "title": "Did Trump-linked oil company set up drilling operation in Greenland without permission?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "A company linked to U.S. President Donald Trump began setting up an oil drilling operation in Greenland without the government's permission.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-greenland-drilling-oil/",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Ex-Nigerian VP named in new US graft report",
+      "title": "2010 US Senate report recycled as fresh corruption probe into Nigeria’s former VP",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Ex-Nigerian VP named in new US graft report",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4KU6G3",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "A technology issue was proof of fraud in 2026 Wisconsin democratic primary",
+      "title": "Wisconsin election officials reject 'fraud' claims over technology issue",
+      "verdict_label": "Unsubstantiated",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A technology issue was proof of fraud in 2026 Wisconsin democratic primary",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4LD9ZQ",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
       "claim": "Les incendies en France imputables aux pyromanes, pas au réchauffement",
       "title": "Plus que les pyromanes, c'est le réchauffement climatique qui ...",
       "verdict_label": "Faux",
@@ -217,6 +305,28 @@
       "explanation": "In August 2026, the Florida Chamber of Commerce paid for an advertisement in Times Square naming New York City Mayor Zohran Mamdani Florida's \"Economic Developer of the Year.\"",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/florida-chamber-billboard-mamdani/",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "US HELICOPTERS STRIKE IRAN",
+      "title": "Does the Footage Show U.S. Helicopters Attacking Military Facilities Inside Iran?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "US HELICOPTERS STRIKE IRAN",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/13/does-footage-show-us-helicopters-attacking-military-facilities-inside-iran",
+      "date_published": "2026-08-13",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a woman crying after being subjected to a police lathi charge during the recent students’ protest in Jharkhand.",
+      "title": "An old protest video from Patna is shared as that of a woman crying after police action during the Jharkhand student protest",
+      "verdict_label": "MISLEADING",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The video shows a woman crying after being subjected to a police lathi charge during the recent students’ protest in Jharkhand.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/an-old-protest-video-from-patna-is-shared-as-that-of-a-woman-crying-after-police-action-during-the-jharkhand-student-protest/",
       "date_published": "2026-08-13",
       "lang": "en"
     },
@@ -83348,6 +83458,17 @@
       "lang": "en"
     },
     {
+      "claim": "Cardiologist and online health personality Dr. Willie Ong, also known as Doc Willie, endorses the product VascuHealth, which claims to treat multiple heart conditions like palpitation, irregular heartbeat, heart enlargement, and clogged arteries.",
+      "title": "FACT CHECK: Doc Willie Ong ad for heart ailment cure is AI-manipulated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Cardiologist and online health personality Dr. Willie Ong, also known as Doc Willie, endorses the product VascuHealth, which claims to treat multiple heart conditions like palpitation, irregular heartbeat, heart enlargement, and clogged arteries.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/doc-willie-ong-ad-heart-ailment-cure-ai-manipulated/",
+      "date_published": "2024-05-14",
+      "lang": "en"
+    },
+    {
       "claim": "Advani has described Rahul Gandhi as the hero of Indian politics.",
       "title": "Fact Check: LK Advani’s Alleged Statement On Rahul Gandhi Is Fake; Claim Goes Viral",
       "verdict_label": "False",
@@ -88537,6 +88658,17 @@
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.9WE2VL",
       "date_published": "2022-01-19",
+      "lang": "en"
+    },
+    {
+      "claim": "A photo supposedly shows that COVID-19 \"vaccine patients\" have started eating other patients.",
+      "title": "FALSE: Photo shows COVID-19 'vaccine patients' eating other patients",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "A photo supposedly shows that COVID-19 \"vaccine patients\" have started eating other patients.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/photo-shows-covid-19-vaccine-patients-eating-other-patients/",
+      "date_published": "2020-12-29",
       "lang": "en"
     },
     {
