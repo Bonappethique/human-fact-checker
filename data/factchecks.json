@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T03:43:02Z",
-  "total_count": 8602,
+  "last_updated": "2026-08-16T03:51:57Z",
+  "total_count": 8607,
   "sources": [
     "11Alive.com",
     "12News",
@@ -230,6 +230,39 @@
       "source_url": "https://factcheck.afp.com/doc.afp.com.C4LD9ZQ",
       "date_published": "2026-08-14",
       "lang": "en"
+    },
+    {
+      "claim": "Video shows political commentator Hasan Piker earnestly saying America should resume lynching black people again.",
+      "title": "Fact Check: DISHONESTLY Cut Video Shows Political Commentator Hasan Piker Saying America Should Resume Lynching Black People Again -- He Was Criticizing Racists",
+      "verdict_label": "Deceptive Cut",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows political commentator Hasan Piker earnestly saying America should resume lynching black people again.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-dishonestly-cut-video-shows-political-commentator-hasan-piker-saying-america-should-resume-lynching-black-people-again.html",
+      "date_published": "2026-08-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Le mariage entre frère et sœur légalisé en France",
+      "title": "Le mariage entre frère et sœur légalisé en France ? C’est TikTok qui débloque",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le mariage entre frère et sœur légalisé en France",
+      "source_name": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/societe/4239090-20260814-mariage-entre-frere-ur-legalise-france-tiktok-debloque",
+      "date_published": "2026-08-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "The vaccine against measles (tigdas) and measles-rubella (tigdas hangin) being administered under the government’s “Ligtas Tigdas” campaign is not safe.",
+      "title": "FACT CHECK: Measles-rubella vaccines are safe and effective ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The vaccine against measles (tigdas) and measles-rubella (tigdas hangin) being administered under the government’s “Ligtas Tigdas” campaign is not safe.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/measles-rubella-vaccine-safe-effective-department-health/",
+      "date_published": "2026-08-14",
+      "lang": "fi"
     },
     {
       "claim": "Les incendies en France imputables aux pyromanes, pas au réchauffement",
@@ -88661,6 +88694,17 @@
       "lang": "en"
     },
     {
+      "claim": "A Facebook video posted on Tuesday, July 27 implied that Vice President Leni Robredo committed an election violation regarding campaign funds in her 2016 vice presidential campaign.",
+      "title": "MISSING CONTEXT: Robredo committed election violation with 2016 campaign funds",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A Facebook video posted on Tuesday, July 27 implied that Vice President Leni Robredo committed an election violation regarding campaign funds in her 2016 vice presidential campaign.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/robredo-committed-election-violation-campaign-funds-2016/",
+      "date_published": "2021-07-30",
+      "lang": "en"
+    },
+    {
       "claim": "A photo supposedly shows that COVID-19 \"vaccine patients\" have started eating other patients.",
       "title": "FALSE: Photo shows COVID-19 'vaccine patients' eating other patients",
       "verdict_label": "False",
@@ -88680,6 +88724,17 @@
       "source_name": "The New York Times",
       "source_url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions",
       "date_published": "2020-12-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Vice President Leni Robredo reported in a meeting with the United Nations (UN) that there had been 27,000 deaths under the Duterte administration's drug war, even though the Philippine National Police (PNP) had only recorded over 4,000 killings at that time.",
+      "title": "FALSE: Robredo cites wrong drug war numbers at UN talk",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Vice President Leni Robredo reported in a meeting with the United Nations (UN) that there had been 27,000 deaths under the Duterte administration's drug war, even though the Philippine National Police (PNP) had only recorded over 4,000 killings at that time.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/robredo-erroneously-reports-drug-war-numbers-un-talk/",
+      "date_published": "2020-10-30",
       "lang": "en"
     },
     {
