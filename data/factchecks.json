@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T03:51:57Z",
-  "total_count": 8607,
+  "last_updated": "2026-08-17T03:54:02Z",
+  "total_count": 8608,
   "sources": [
     "11Alive.com",
     "12News",
@@ -88724,6 +88724,17 @@
       "source_name": "The New York Times",
       "source_url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions",
       "date_published": "2020-12-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Duterte’s response to Super Typhoon Rolly was not covered by the media, unlike former president Benigno Aquino III’s response to Super Typhoon Yolanda.",
+      "title": "FALSE: Media did not report on Duterte’s response to Super Typhoon Rolly",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Duterte’s response to Super Typhoon Rolly was not covered by the media, unlike former president Benigno Aquino III’s response to Super Typhoon Yolanda.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/media-did-not-report-duterte-response-typhoon-rolly/",
+      "date_published": "2020-11-04",
       "lang": "en"
     },
     {
