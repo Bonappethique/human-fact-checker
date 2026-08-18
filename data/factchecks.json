@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T03:54:02Z",
-  "total_count": 8608,
+  "last_updated": "2026-08-18T03:49:07Z",
+  "total_count": 8622,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,94 @@
   ],
   "factchecks": [
     {
+      "claim": "A chemical reaction between liquid mercury and metallic aluminum can occur inside people after vaccination, causing blood clots or other complications. This toxic interaction occurs in the human body when people are exposed to mercury and aluminum through vaccines or dental amalgam fillings.",
+      "title": "Analysis: Video falsely links metal experiment to vaccine ingredients",
+      "verdict_label": "The claim is misleading. It conflates elemental metals with chemically different compounds that contain the same elements, and treats the reaction between elemental aluminum and liquid elemental mercury shown in the picture-in-picture clip as if it could occur with vaccine ingredients. In fact, the demonstration footage, originally made for educational purposes, involves materials not found in vaccines. Some vaccines contain aluminum salts, which are a chemical compound with completely new properties and do not act like raw metal. Certain multidose vaccine vials have historically used thimerosal, a preservative that contains ethylmercury, which is also a chemical compound that behaves completely differently in the body than pure (elemental) mercury.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A chemical reaction between liquid mercury and metallic aluminum can occur inside people after vaccination, causing blood clots or other complications. This toxic interaction occurs in the human body when people are exposed to mercury and aluminum through vaccines or dental amalgam fillings.",
+      "source_name": "annie lab",
+      "source_url": "https://annielab.org/2026/08/17/analysis-video-falsely-links-metal-experiment-to-vaccine-ingredients/",
+      "date_published": "2026-08-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Cette vidéo montre une église incendiée par un immigrant musluman au Canada",
+      "title": "Cette église canadienne a été incendiée par la foudre et non par un migrant musulman",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Cette vidéo montre une église incendiée par un immigrant musluman au Canada",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4PL366",
+      "date_published": "2026-08-17",
+      "lang": "fr"
+    },
+    {
+      "claim": "Footage allegedly shows how the US deported Liu Lijuan, a Chinese graduate student at the University of California, Los Angeles for supporting Palestine",
+      "title": "Does this video show a UCLA Chinese graduate being deported for supporting Palestine? Fact Check",
+      "verdict_label": "The claim is false. The footage is not recent and the US Immigration and Customs Enforcement (ICE) has denied deporting the woman. No credible evidence supports the existence of a Chinese student named Liu Lijun who was deported by U.S. authorities for pro-Palestinian activism.",
+      "verdict_category": "FAUX",
+      "explanation": "Footage allegedly shows how the US deported Liu Lijuan, a Chinese graduate student at the University of California, Los Angeles for supporting Palestine",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/does-this-video-show-a-ucla-chinese-graduate-being-deported-for-supporting-palestine-fact-check/",
+      "date_published": "2026-08-17",
+      "lang": "en"
+    },
+    {
+      "claim": "Video allegedly showcases a woman using a belly button device to wake up Trump after he dozed off.",
+      "title": "Does this video show a woman using a belly button to wake up Trump? Fact Check",
+      "verdict_label": "The claim is false. There is no credible evidence that Jayme Franklin, the woman in the video, used a belly button device to control or wake up Trump. Her hand-on-stomach gesture is explained by her pregnancy, which she publicly revealed in an X post, debunking the rumour.",
+      "verdict_category": "FAUX",
+      "explanation": "Video allegedly showcases a woman using a belly button device to wake up Trump after he dozed off.",
+      "source_name": "DigitEye India",
+      "source_url": "https://digiteye.in/does-this-video-show-a-woman-using-a-belly-button-to-wake-up-trump-fact-check/",
+      "date_published": "2026-08-17",
+      "lang": "en"
+    },
+    {
+      "claim": "#ÚLTIMAHORA Hundreds of migrants are preparing to storm Ceuta. From Castillejos, hundreds of migrants are heading toward Ceuta to once again cross the Tarajal breakwater.",
+      "title": "Does this Show Hundreds of Migrants Preparing to Storm Ceuta From Morocco Again?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "#ÚLTIMAHORA Hundreds of migrants are preparing to storm Ceuta. From Castillejos, hundreds of migrants are heading toward Ceuta to once again cross the Tarajal breakwater.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/16/does-show-hundreds-migrants-preparing-storm-ceuta-morocco-again",
+      "date_published": "2026-08-16",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran is unveiling its first domestically manufactured submarine..Despite all the difficulties and wars, this is how they accomplish what no one in the entire region has achieved!",
+      "title": "The Video Does Not Show Iran Unveiling Its First Locally Made Submarine",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran is unveiling its first domestically manufactured submarine..Despite all the difficulties and wars, this is how they accomplish what no one in the entire region has achieved!",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/16/video-does-not-show-iran-unveiling-its-first-locally-made-submarine",
+      "date_published": "2026-08-16",
+      "lang": "en"
+    },
+    {
+      "claim": "France's Gironde Was 'Renamed Ukraine' to Speed Up Wildfire Aid",
+      "title": "Fake: France’s Gironde Was ‘Renamed Ukraine’ to Speed Up ...",
+      "verdict_label": "Claims that the Gironde has been renamed are false. The story originated as a comedy video on TikTok. A little-noticed petition later appeared based on it, and Russian outlets passed the joke off first as a genuine grassroots initiative and then as a decision already taken by the authorities.",
+      "verdict_category": "FAUX",
+      "explanation": "France's Gironde Was 'Renamed Ukraine' to Speed Up Wildfire Aid",
+      "source_name": "StopFake",
+      "source_url": "https://www.stopfake.org/en/fake-france-s-gironde-was-renamed-ukraine-to-speed-up-wildfire-aid/",
+      "date_published": "2026-08-16",
+      "lang": "en"
+    },
+    {
+      "claim": "Breaking: This is the Israeli cargo ship targeted by Iran late at night utilizing advanced technology.",
+      "title": "The Video Is From Brazil, Not an Iranian Attack on an Israeli Cargo",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Breaking: This is the Israeli cargo ship targeted by Iran late at night utilizing advanced technology.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/16/video-brazil-not-iranian-attack-israeli-cargo",
+      "date_published": "2026-08-16",
+      "lang": "en"
+    },
+    {
       "claim": "Les peptides peuvent optimiser le physique",
       "title": "Les peptides injectables pour perdre du gras et gagner du muscle ...",
       "verdict_label": "Infondé",
@@ -263,6 +351,17 @@
       "source_url": "https://www.rappler.com/newsbreak/fact-check/measles-rubella-vaccine-safe-effective-department-health/",
       "date_published": "2026-08-14",
       "lang": "fi"
+    },
+    {
+      "claim": "US President Donald Trump has repeatedly described Abdul El-Sayed as a communist, most recently in a Truth Social post published shortly after El-Sayed's primary victory.",
+      "title": "Fact check: False claims target El-Sayed after primary win",
+      "verdict_label": "DW Fact check: False  El-Sayed's campaign has focused on government-sponsored health insurance, taxing billionaires and reducing the influence of corporate money in politics.  In the past, he has rejected claims that he is a socialist or a communist by stating he is a capitalist. \"I'm not a socialist. I'm just a capitalist who understands how capitalism works,\" he said.",
+      "verdict_category": "FAUX",
+      "explanation": "US President Donald Trump has repeatedly described Abdul El-Sayed as a communist, most recently in a Truth Social post published shortly after El-Sayed's primary victory.",
+      "source_name": "DW.com",
+      "source_url": "https://www.dw.com/en/fact-check-false-claims-target-us-senate-candidate-abdul-el-sayed/a-78340951",
+      "date_published": "2026-08-14",
+      "lang": "en"
     },
     {
       "claim": "Les incendies en France imputables aux pyromanes, pas au réchauffement",
@@ -88617,6 +88716,17 @@
       "lang": "en"
     },
     {
+      "claim": "Cardinal Luis Antonio Tagle is endorsing Barley Grass Powder, a product claimed to have various health benefits.",
+      "title": "FACT CHECK: Cardinal Tagle denies endorsing Barley Grass Powder",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Cardinal Luis Antonio Tagle is endorsing Barley Grass Powder, a product claimed to have various health benefits.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/cardinal-tagle-denies-endorsing-barley-grass-powder/",
+      "date_published": "2023-08-14",
+      "lang": "en"
+    },
+    {
       "claim": "Kodak invented the world's first portable, digital camera in the 1970s, but didn't release the technology for public sale until years later to avoid hits to the company's photographic-film business.",
       "title": "Did Kodak Hide Invention of the Digital Camera in the '70s to Avoid Loss of Film Sales?",
       "verdict_label": "Mixture",
@@ -88694,6 +88804,17 @@
       "lang": "en"
     },
     {
+      "claim": "Former president Ferdinand Marcos was the youngest to be elected mayor, representative, governor, and senator.",
+      "title": "FALSE: Ferdinand Marcos was youngest elected as mayor, congressman, governor, and senator",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Former president Ferdinand Marcos was the youngest to be elected mayor, representative, governor, and senator.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/ferdinand-marcos-youngest-elected-mayor-congressman-governor-senator/",
+      "date_published": "2021-09-16",
+      "lang": "en"
+    },
+    {
       "claim": "A Facebook video posted on Tuesday, July 27 implied that Vice President Leni Robredo committed an election violation regarding campaign funds in her 2016 vice presidential campaign.",
       "title": "MISSING CONTEXT: Robredo committed election violation with 2016 campaign funds",
       "verdict_label": "Misleading",
@@ -88705,6 +88826,28 @@
       "lang": "en"
     },
     {
+      "claim": "Myanmar used Smartmatic machines during their alleged fraudulent elections in November 2020.",
+      "title": "FALSE: Myanmar used Smartmatic machines in 2020 elections",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Myanmar used Smartmatic machines during their alleged fraudulent elections in November 2020.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/myanmar-used-smartmatic-machines-2020-elections/",
+      "date_published": "2021-02-12",
+      "lang": "en"
+    },
+    {
+      "claim": "Senate President Tito Sotto suggested that two doses of the Sinovac COVID-19 vaccine, which had a 50.4% efficacy rate in a Brazillian trial, will result in 100% efficacy.",
+      "title": "FALSE: Sotto says two doses of Sinovac results in 100% efficacy",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Senate President Tito Sotto suggested that two doses of the Sinovac COVID-19 vaccine, which had a 50.4% efficacy rate in a Brazillian trial, will result in 100% efficacy.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/sotto-says-two-doses-sinovac-one-hundred-percent-efficacy/",
+      "date_published": "2021-01-20",
+      "lang": "en"
+    },
+    {
       "claim": "A photo supposedly shows that COVID-19 \"vaccine patients\" have started eating other patients.",
       "title": "FALSE: Photo shows COVID-19 'vaccine patients' eating other patients",
       "verdict_label": "False",
@@ -88713,6 +88856,17 @@
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/photo-shows-covid-19-vaccine-patients-eating-other-patients/",
       "date_published": "2020-12-29",
+      "lang": "en"
+    },
+    {
+      "claim": "Tennessee nurse Tiffany Dover died after she fainted from receiving the Pfizer/BioNTech COVID-19 vaccine.",
+      "title": "FALSE: US nurse dies after receiving COVID-19 vaccine",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Tennessee nurse Tiffany Dover died after she fainted from receiving the Pfizer/BioNTech COVID-19 vaccine.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/us-nurse-dies-after-receiving-covid-19-vaccine/",
+      "date_published": "2020-12-23",
       "lang": "en"
     },
     {
