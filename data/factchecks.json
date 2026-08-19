@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T03:49:07Z",
-  "total_count": 8622,
+  "last_updated": "2026-08-19T03:50:28Z",
+  "total_count": 8631,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,61 @@
   ],
   "factchecks": [
     {
+      "claim": "A video shows a migrant saying “I want my money and my free house and English woman, it’s my dream”.",
+      "title": "Video of migrant saying he wants money, free house and English woman has been edited – Full Fact",
+      "verdict_label": "This video has been altered. In the original clip the man is speaking Arabic and does not say this.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows a migrant saying “I want my money and my free house and English woman, it’s my dream”.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/video-migrant-money-free-house-altered/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "massive fire burning an entire village in Nepal, allegedly inhabited by illegal immigrants",
+      "title": "Verified: Turkey Forest Fire Video Falsely Shared as Nepal Village Being Set Ablaze",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "massive fire burning an entire village in Nepal, allegedly inhabited by illegal immigrants",
+      "source_name": "NewsMobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-turkey-forest-fire-video-falsely-shared-as-nepal-village-being-set-ablaze/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, the administration of U.S. President Donald Trump declared brass instruments a national security threat and imposed tariffs on them.",
+      "title": "Did Trump admin declare brass instruments a national security threat?",
+      "verdict_label": "Mostly True",
+      "verdict_category": "VRAI",
+      "explanation": "In August 2026, the administration of U.S. President Donald Trump declared brass instruments a national security threat and imposed tariffs on them.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-brass-instrument-natsec-threat/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "The White House posted map of the Strait of Hormuz saying it is a new U.S. territory.",
+      "title": "Fact Check: White House DID Post Map Showing Strait of Hormuz Is New U.S. Territory -- Also on Truth Social",
+      "verdict_label": "Trump Posted",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "The White House posted map of the Strait of Hormuz saying it is a new U.S. territory.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-white-house-did-post-map-showing-strait-of-hormuz-is-new-us-territory-also-on-truth-social.html",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "A U.S. Secret Service agent who has served seven presidents said Donald Trump is weirder than all of them put together and provided behind-the-scenes details about what he's like in his presidential limousine.",
+      "title": "Did Secret Service agent share private details about how Trump acts in presidential limousine?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A U.S. Secret Service agent who has served seven presidents said Donald Trump is weirder than all of them put together and provided behind-the-scenes details about what he's like in his presidential limousine.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-limo-secret-service-agent/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
       "claim": "A chemical reaction between liquid mercury and metallic aluminum can occur inside people after vaccination, causing blood clots or other complications. This toxic interaction occurs in the human body when people are exposed to mercury and aluminum through vaccines or dental amalgam fillings.",
       "title": "Analysis: Video falsely links metal experiment to vaccine ingredients",
       "verdict_label": "The claim is misleading. It conflates elemental metals with chemically different compounds that contain the same elements, and treats the reaction between elemental aluminum and liquid elemental mercury shown in the picture-in-picture clip as if it could occur with vaccine ingredients. In fact, the demonstration footage, originally made for educational purposes, involves materials not found in vaccines. Some vaccines contain aluminum salts, which are a chemical compound with completely new properties and do not act like raw metal. Certain multidose vaccine vials have historically used thimerosal, a preservative that contains ethylmercury, which is also a chemical compound that behaves completely differently in the body than pure (elemental) mercury.",
@@ -184,6 +239,28 @@
       "explanation": "Video allegedly showcases a woman using a belly button device to wake up Trump after he dozed off.",
       "source_name": "DigitEye India",
       "source_url": "https://digiteye.in/does-this-video-show-a-woman-using-a-belly-button-to-wake-up-trump-fact-check/",
+      "date_published": "2026-08-17",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows an August 2026 Truth Social post in which U.S. President Donald Trump said, \"Only suckers and losers would enlist, go to sea on an aircraft carrier, and then complain and send their family nasty notes about our military. They weren't at sea long enough.\"",
+      "title": "Don't fall for claim Trump said 'only suckers and losers would enlist' in US Navy and then complain",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows an August 2026 Truth Social post in which U.S. President Donald Trump said, \"Only suckers and losers would enlist, go to sea on an aircraft carrier, and then complain and send their family nasty notes about our military. They weren't at sea long enough.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-suckers-losers-navy/",
+      "date_published": "2026-08-17",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, U.S. President Donald Trump ordered sailors aboard the USS Abraham Lincoln to sign NDAs before they were allowed to leave the aircraft carrier.",
+      "title": "Did Trump order USS Abraham Lincoln sailors to sign NDAs before they can leave ship?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In August 2026, U.S. President Donald Trump ordered sailors aboard the USS Abraham Lincoln to sign NDAs before they were allowed to leave the aircraft carrier.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-uss-lincoln-nda/",
       "date_published": "2026-08-17",
       "lang": "en"
     },
@@ -88826,6 +88903,17 @@
       "lang": "en"
     },
     {
+      "claim": "According to the United States Centers for Disease Control and Prevention (CDC), 3,150 or 2.7% of people who received the Pfizer-BioNTech COVID-19 vaccine were “unable to perform normal daily activities, unable to work.”",
+      "title": "MISSING CONTEXT: 2.7% of Pfizer vaccine recipients are unable to work",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "According to the United States Centers for Disease Control and Prevention (CDC), 3,150 or 2.7% of people who received the Pfizer-BioNTech COVID-19 vaccine were “unable to perform normal daily activities, unable to work.”",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/pfizer-vaccine-recipients-unable-work/",
+      "date_published": "2021-06-03",
+      "lang": "en"
+    },
+    {
       "claim": "Myanmar used Smartmatic machines during their alleged fraudulent elections in November 2020.",
       "title": "FALSE: Myanmar used Smartmatic machines in 2020 elections",
       "verdict_label": "False",
@@ -88845,6 +88933,17 @@
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/sotto-says-two-doses-sinovac-one-hundred-percent-efficacy/",
       "date_published": "2021-01-20",
+      "lang": "en"
+    },
+    {
+      "claim": "Presidential Spokesperson Harry Roque says poor people have no right to be choosy over a COVID-19 vaccine because they are a burden to the government.",
+      "title": "FALSE: Roque says poor have no right to be choosy over vaccine",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Presidential Spokesperson Harry Roque says poor people have no right to be choosy over a COVID-19 vaccine because they are a burden to the government.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/roque-says-poor-have-no-right-choosy-over-covid-19-vaccine/",
+      "date_published": "2021-01-15",
       "lang": "en"
     },
     {
