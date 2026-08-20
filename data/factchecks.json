@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T03:50:28Z",
-  "total_count": 8631,
+  "last_updated": "2026-08-20T03:50:33Z",
+  "total_count": 8640,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,39 @@
   ],
   "factchecks": [
     {
+      "claim": "Diomaye Faye a récemment dissous le parlement sénégalais pour évincer Sonko",
+      "title": "Bassirou Diomaye Faye ne vient pas de dissoudre l'Assemblée ...",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Diomaye Faye a récemment dissous le parlement sénégalais pour évincer Sonko",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4VD7T4",
+      "date_published": "2026-08-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "Un fabricant de lits a inventé la recommandation des huit heures de sommeil par nuit",
+      "title": "VÉRIF' - \"Dormir au moins huit heures\" : un fabricant de lits est-il ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un fabricant de lits a inventé la recommandation des huit heures de sommeil par nuit",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-dormir-au-moins-huit-heures-un-fabricant-de-lits-est-il-derriere-cette-recommandation-conseil-sante-2459108.html",
+      "date_published": "2026-08-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "One of the women in an old image of three women dancing atop a table depicts Congress leader Sonia Gandhi",
+      "title": "1967 photo of Australian go-go dancers falsely shared to attack Sonia Gandhi",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "One of the women in an old image of three women dancing atop a table depicts Congress leader Sonia Gandhi",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/1967-photo-of-australian-go-go-dancers-falsely-shared-to-attack-sonia-gandhi/",
+      "date_published": "2026-08-19",
+      "lang": "en"
+    },
+    {
       "claim": "A video shows a migrant saying “I want my money and my free house and English woman, it’s my dream”.",
       "title": "Video of migrant saying he wants money, free house and English woman has been edited – Full Fact",
       "verdict_label": "This video has been altered. In the original clip the man is speaking Arabic and does not say this.",
@@ -195,6 +228,28 @@
       "explanation": "A U.S. Secret Service agent who has served seven presidents said Donald Trump is weirder than all of them put together and provided behind-the-scenes details about what he's like in his presidential limousine.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/trump-limo-secret-service-agent/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "A photograph authentically shows U.S. President Donald Trump looking through the window of the Marine One helicopter with his aide Natalie Harp.",
+      "title": "Does photo show Trump and White House aide Natalie Harp looking out helicopter window?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A photograph authentically shows U.S. President Donald Trump looking through the window of the Marine One helicopter with his aide Natalie Harp.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/photo-trump-natalie-harp-helicopter/",
+      "date_published": "2026-08-18",
+      "lang": "en"
+    },
+    {
+      "claim": "American air defenses, according to early reports.The incident comes as tensions with Iran remain elevated, with U.S. forces",
+      "title": "Does This Video Show a Drone Shot Down While Targeting U.S. Forces in the Middle East?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "American air defenses, according to early reports.The incident comes as tensions with Iran remain elevated, with U.S. forces",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/18/does-video-show-drone-shot-down-while-targeting-us-forces-middle-east",
       "date_published": "2026-08-18",
       "lang": "en"
     },
@@ -88903,6 +88958,28 @@
       "lang": "en"
     },
     {
+      "claim": "The United Kingdom and the United States are underreporting COVID-19 vaccine adverse effects, reporting only one percent of the actual number.",
+      "title": "FALSE: UK, US underreport COVID-19 vaccine adverse effects",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The United Kingdom and the United States are underreporting COVID-19 vaccine adverse effects, reporting only one percent of the actual number.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/united-kingdom-united-states-underreport-covid-19-vaccine-adverse-effects/",
+      "date_published": "2021-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "The US government has declared former ICC prosecutor Fatou Bensouda a persona non grata.",
+      "title": "FALSE: US gov’t declares former ICC prosecutor Bensouda persona non grata",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The US government has declared former ICC prosecutor Fatou Bensouda a persona non grata.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/united-states-government-declares-fatou-bensouda-persona-non-grata/",
+      "date_published": "2021-06-24",
+      "lang": "en"
+    },
+    {
       "claim": "According to the United States Centers for Disease Control and Prevention (CDC), 3,150 or 2.7% of people who received the Pfizer-BioNTech COVID-19 vaccine were “unable to perform normal daily activities, unable to work.”",
       "title": "MISSING CONTEXT: 2.7% of Pfizer vaccine recipients are unable to work",
       "verdict_label": "Misleading",
@@ -88911,6 +88988,17 @@
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/pfizer-vaccine-recipients-unable-work/",
       "date_published": "2021-06-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Vaccine czar Carlito Galvez Jr said the Sinovac vaccine is good enough for poor Filipinos despite its 50.4% efficacy rate.",
+      "title": "FALSE: Galvez says Sinovac vaccine good enough for poor Filipinos",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Vaccine czar Carlito Galvez Jr said the Sinovac vaccine is good enough for poor Filipinos despite its 50.4% efficacy rate.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/carlito-galvez-says-sinovac-covid-19-vaccine-good-enough-poor-filipinos/",
+      "date_published": "2021-02-24",
       "lang": "en"
     },
     {
@@ -88999,6 +89087,17 @@
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/robredo-erroneously-reports-drug-war-numbers-un-talk/",
       "date_published": "2020-10-30",
+      "lang": "en"
+    },
+    {
+      "claim": "US President Donald Trump said the Obama administration built the border cages to separate migrant children from their families.",
+      "title": "MISSING CONTEXT: Obama built border cages to separate children – Trump",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "US President Donald Trump said the Obama administration built the border cages to separate migrant children from their families.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/barack-obama-built-border-cages-separate-children-donald-trump-final-presidential-debate-2020/",
+      "date_published": "2020-10-23",
       "lang": "en"
     },
     {
