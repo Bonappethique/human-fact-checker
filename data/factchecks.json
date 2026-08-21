@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T03:50:33Z",
-  "total_count": 8640,
+  "last_updated": "2026-08-21T03:53:37Z",
+  "total_count": 8653,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,72 @@
   ],
   "factchecks": [
     {
+      "claim": "\"Attention la France. L'hiver 2026 à 2027 pourrait être glacial. Si le vortex polaire se fragilise, il va envoyer de l'air polaire très froid, directement chez nous\"",
+      "title": "VÉRIF' - \"El Niño va geler la France\" : après un été caniculaire, faut ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"Attention la France. L'hiver 2026 à 2027 pourrait être glacial. Si le vortex polaire se fragilise, il va envoyer de l'air polaire très froid, directement chez nous\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/meteo/verif-el-nino-va-geler-la-france-apres-un-ete-caniculaire-faut-il-vraiment-s-attendre-a-un-hiver-glacial-2459126.html",
+      "date_published": "2026-08-20",
+      "lang": "fr"
+    },
+    {
+      "claim": "Former Election Commission chairman proposes push back of retirement age",
+      "title": "Graphic attributes fake quote to ex-Sri Lankan official on retirement age raise",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Former Election Commission chairman proposes push back of retirement age",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4UQ8ZQ",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
+      "claim": "Donald Trump said the US is in talks with India to bring its EVM system to America for the 2028 election.",
+      "title": "This viral post claiming that President Donald Trump said the US plans to bring India’s EVMs for the 2028 election is fabricated",
+      "verdict_label": "MISLEADING",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Donald Trump said the US is in talks with India to bring its EVM system to America for the 2028 election.",
+      "source_name": "FACTLY",
+      "source_url": "https://factly.in/this-viral-post-claiming-that-president-donald-trump-said-the-us-plans-to-bring-indias-evms-for-the-2028-election-is-fabricated/",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
+      "claim": "\"Aujourd'hui, la France est un des pays les plus piratés au monde\"",
+      "title": "VÉRIF' - Le fisc victime de vol de données : la France est-elle \"l'un des pays les plus piratés au monde\" ?",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"Aujourd'hui, la France est un des pays les plus piratés au monde\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/high-tech/verif-le-fisc-victime-de-vol-de-donnees-la-france-est-elle-l-un-des-pays-les-plus-pirates-au-monde-2459246.html",
+      "date_published": "2026-08-20",
+      "lang": "fr"
+    },
+    {
+      "claim": "The post shows Donald Trump talking about implementing EVM system in the US.",
+      "title": "Did US President Donald Trump Post About Implementing EVM System in America? No!",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The post shows Donald Trump talking about implementing EVM system in the US.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/donald-trump-post-about-implementing-evm-system-in-america-false-claim-fact-check",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump demanded to equip all Navy ships with sails and considered adding cannons.",
+      "title": "Did Trump demand sails on US Navy ships and consider adding cannons? Here's the truth",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "U.S. President Donald Trump demanded to equip all Navy ships with sails and considered adding cannons.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-navy-ships-sails-cannons/",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
       "claim": "Diomaye Faye a récemment dissous le parlement sénégalais pour évincer Sonko",
       "title": "Bassirou Diomaye Faye ne vient pas de dissoudre l'Assemblée ...",
       "verdict_label": "Trompeur",
@@ -173,6 +239,50 @@
       "explanation": "One of the women in an old image of three women dancing atop a table depicts Congress leader Sonia Gandhi",
       "source_name": "Alt News",
       "source_url": "https://www.altnews.in/1967-photo-of-australian-go-go-dancers-falsely-shared-to-attack-sonia-gandhi/",
+      "date_published": "2026-08-19",
+      "lang": "en"
+    },
+    {
+      "claim": "Le vaccin contre Covid-19 engendre de fausses couches",
+      "title": "Les textos de Fauci relancent de fausses allégations sur les vaccins ...",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le vaccin contre Covid-19 engendre de fausses couches",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4XJ863",
+      "date_published": "2026-08-19",
+      "lang": "fr"
+    },
+    {
+      "claim": "Hakeem Jeffries took more than $300,000 of PAC money from healthcare companies during the 2026 midterm election cycle before coming out against Medicare for All.",
+      "title": "Unraveling claim Hakeem Jeffries took $300K from healthcare PACs before opposing Medicare for All",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Hakeem Jeffries took more than $300,000 of PAC money from healthcare companies during the 2026 midterm election cycle before coming out against Medicare for All.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/hakeem-jeffries-medicare-for-all/",
+      "date_published": "2026-08-19",
+      "lang": "en"
+    },
+    {
+      "claim": "The Census Bureau found that over 24,000 Noncitizens voted illegally in the 2020 election meaning Trump won.",
+      "title": "Fact Check: Census Bureau Did NOT Find That Over 24,000 Noncitizens Voted Illegally in 2020 Election",
+      "verdict_label": "Overstated",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "The Census Bureau found that over 24,000 Noncitizens voted illegally in the 2020 election meaning Trump won.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-census-bureau-did-not-find-over-24000-noncitizens-voted-illegally-in-2020-election.html",
+      "date_published": "2026-08-19",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, U.S. President Donald Trump said of 10-year-old Nathaniel Rai's ocean rescue, \"I don't know if I'd do it. I wouldn't, probably.\"",
+      "title": "Trump said he 'probably' wouldn't have rescued 10-year-old from drowning",
+      "verdict_label": "Correct Attribution",
+      "verdict_category": "VRAI",
+      "explanation": "In August 2026, U.S. President Donald Trump said of 10-year-old Nathaniel Rai's ocean rescue, \"I don't know if I'd do it. I wouldn't, probably.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-10-year-old-drowning/",
       "date_published": "2026-08-19",
       "lang": "en"
     },
@@ -88991,6 +89101,28 @@
       "lang": "en"
     },
     {
+      "claim": "The World Bank lauded President Rodrigo Duterte’s tax reform program and the country’s strong economy even during the COVID-19 pandemic.",
+      "title": "FALSE: World Bank lauds Duterte for PH’s strong economy during pandemic",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The World Bank lauded President Rodrigo Duterte’s tax reform program and the country’s strong economy even during the COVID-19 pandemic.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/world-bank-lauds-duterte-philippines-strong-economy-pandemic/",
+      "date_published": "2021-03-16",
+      "lang": "en"
+    },
+    {
+      "claim": "China only delivered COVID-19 vaccines by military plane to the Philippines.",
+      "title": "FALSE: China delivered vaccines by military plane only to the Philippines",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "China only delivered COVID-19 vaccines by military plane to the Philippines.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/china-delivered-vaccines-military-plane-only-philippines/",
+      "date_published": "2021-03-01",
+      "lang": "en"
+    },
+    {
       "claim": "Vaccine czar Carlito Galvez Jr said the Sinovac vaccine is good enough for poor Filipinos despite its 50.4% efficacy rate.",
       "title": "FALSE: Galvez says Sinovac vaccine good enough for poor Filipinos",
       "verdict_label": "False",
@@ -95180,6 +95312,17 @@
       "explanation": "A video showing a woman wearing a hijab being kicked by an individual was shared as an incident in India, claiming that a Muslim woman was assaulted because of her religious identity.",
       "source_name": "PTI",
       "source_url": "https://www.ptinews.com/fact-detail/old-bangladesh-video-resurfaced-claiming-muslim-woman-assaulted-recently-in-india-over-religious-identity/3956300",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Donald Trump praised India’s polls and endorsed the use of EVMs for the 2028 elections.",
+      "title": "Fact Check: Did Trump say he’s in talks with India to use EVMs in US polls?",
+      "verdict_label": "Mostly false",
+      "verdict_category": "FAUX",
+      "explanation": "Donald Trump praised India’s polls and endorsed the use of EVMs for the 2028 elections.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/trump-india-evms-fact-check-viral-post-fake-2028-us-election-2976015-2026-08-20",
       "date_published": "",
       "lang": "en"
     }
