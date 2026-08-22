@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T03:53:37Z",
-  "total_count": 8653,
+  "last_updated": "2026-08-22T03:45:43Z",
+  "total_count": 8661,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,72 @@
   ],
   "factchecks": [
     {
+      "claim": "Une vidéo d'un migrant demandant de l'argent et un hébergement gratuit",
+      "title": "Attention, cette vidéo censée montrer un migrant demander de l'argent et un hébergement gratuit a été truquée",
+      "verdict_label": "Vidéo manipulée",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une vidéo d'un migrant demandant de l'argent et un hébergement gratuit",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C64E863",
+      "date_published": "2026-08-21",
+      "lang": "fr"
+    },
+    {
+      "claim": "Department for Work and Pensions data shows the share of Universal Credit paid to foreign nationals rose to 15.5% in January 2026.",
+      "title": "Reform corrects claim that 'rising' share of Universal Credit went to ...",
+      "verdict_label": "Incorrect. This figure refers to the proportion of people on Universal Credit in January 2026 who were non-British/Irish citizens, which had been falling since 2024. We don’t know exactly what proportion of expenditure this group accounted for.",
+      "verdict_category": "FAUX",
+      "explanation": "Department for Work and Pensions data shows the share of Universal Credit paid to foreign nationals rose to 15.5% in January 2026.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/what-proportion-of-universal-credit-goes-to-non-british-citizens/",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
+      "claim": "\"Imaginez un monde où France Travail peut légalement traquer les chômeurs grâce à leurs relevés téléphoniques\"",
+      "title": "VÉRIF' - France Travail a-t-il vraiment été autorisé à \"traquer les chômeurs grâce à leurs relevés téléphoniques\" ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"Imaginez un monde où France Travail peut légalement traquer les chômeurs grâce à leurs relevés téléphoniques\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/vie-pro/verif-france-travail-a-t-il-vraiment-ete-autorise-a-traquer-les-chomeurs-grace-a-leurs-releves-telephoniques-2459603.html",
+      "date_published": "2026-08-21",
+      "lang": "fr"
+    },
+    {
+      "claim": "The Philippines' anti-measles drive is a ploy to kill children",
+      "title": "Philippine anti-measles drive revives vaccine falsehoods",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Philippines' anti-measles drive is a ploy to kill children",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4YL363",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
+      "claim": "US Census Bureau analysis proves 24,000 noncitizens voted illegally",
+      "title": "Experts question US Census Bureau report on noncitizen voting",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "US Census Bureau analysis proves 24,000 noncitizens voted illegally",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C66V6T4",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
+      "claim": "Was a woman accused of herding goats in Walmart while drinking margaritas from a jug?",
+      "title": "Fact Check: FAKE Story Of Woman Herding Goats Through Walmart ...",
+      "verdict_label": "Made-Up Story",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Was a woman accused of herding goats in Walmart while drinking margaritas from a jug?",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-fake-story-woman-herding-goats-walmart-drinking-margaritas-jug-meme.html",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
       "claim": "\"Attention la France. L'hiver 2026 à 2027 pourrait être glacial. Si le vortex polaire se fragilise, il va envoyer de l'air polaire très froid, directement chez nous\"",
       "title": "VÉRIF' - \"El Niño va geler la France\" : après un été caniculaire, faut ...",
       "verdict_label": "Faux",
@@ -206,6 +272,28 @@
       "explanation": "U.S. President Donald Trump demanded to equip all Navy ships with sails and considered adding cannons.",
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/trump-navy-ships-sails-cannons/",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
+      "claim": "Real Daily Express video reports Andy Burnham plans to bring 4,000 migrants from Ceuta into the UK",
+      "title": "Fact Check: FAKE Daily Express Video Reports Andy Burnham Plans To Bring 4,000 Migrants From Ceuta Into UK",
+      "verdict_label": "Faux Story",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Real Daily Express video reports Andy Burnham plans to bring 4,000 migrants from Ceuta into the UK",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-fake-daily-express-video-reports-andy-burnham-plans-to-bring-4000-migrants-from-ceuta-into-uk.html",
+      "date_published": "2026-08-20",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows part of a handwritten letter from the U.S. Department of Justice's Epstein files releases alleging that U.S. President Donald Trump was involved in sex trafficking.",
+      "title": "Letter in Epstein files details unproven sex trafficking allegations against Trump",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "An image authentically shows part of a handwritten letter from the U.S. Department of Justice's Epstein files releases alleging that U.S. President Donald Trump was involved in sex trafficking.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-epstein-files-sex-trafficking-allegations/",
       "date_published": "2026-08-20",
       "lang": "en"
     },
