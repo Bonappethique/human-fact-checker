@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T03:45:43Z",
-  "total_count": 8661,
+  "last_updated": "2026-08-23T03:54:09Z",
+  "total_count": 8665,
   "sources": [
     "11Alive.com",
     "12News",
@@ -206,6 +206,28 @@
       "explanation": "Was a woman accused of herding goats in Walmart while drinking margaritas from a jug?",
       "source_name": "Lead Stories",
       "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-fake-story-woman-herding-goats-walmart-drinking-margaritas-jug-meme.html",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
+      "claim": "La Repubblica reported French politician and Le Pen rival Édouard Philippe bought a 15 million euros villa in Sicily.",
+      "title": "Fact Check: La Repubblica Did NOT Report French Politician And Le Pen Rival Édouard Philippe Bought Villa In Sicily For 15 Million Euros",
+      "verdict_label": "Newspaper:No",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La Repubblica reported French politician and Le Pen rival Édouard Philippe bought a 15 million euros villa in Sicily.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-la-repubblica-did-not-report-french-politician-and-le-pen-rival-philippe-bought-15-mln-villa.html",
+      "date_published": "2026-08-21",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows real incident where flight attendant pulls blanket of woman who claims to have a baby, revealing a lynx on a plane",
+      "title": "Fact Check: Video Shows FAKE Incident Where Flight Attendant Pulls Blanket From Woman Claiming To Have Baby, Revealing Lynx On Plane",
+      "verdict_label": "Online Skit",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video shows real incident where flight attendant pulls blanket of woman who claims to have a baby, revealing a lynx on a plane",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-video-shows-fake-incident-where-flight-attendant-pulls-blanket-from-woman-claiming-to-have-baby-revealing-lynx-on-plane.html",
       "date_published": "2026-08-21",
       "lang": "en"
     },
@@ -89134,6 +89156,17 @@
       "lang": "en"
     },
     {
+      "claim": "Internet personality \"Doc Ron\" claims that COVID-19 vaccines cause the body to destroy itself.",
+      "title": "FALSE: COVID-19 vaccines cause the immune system to destroy the body",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Internet personality \"Doc Ron\" claims that COVID-19 vaccines cause the body to destroy itself.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/covid-19-vaccines-cause-immune-system-destroy-body/",
+      "date_published": "2021-10-25",
+      "lang": "en"
+    },
+    {
       "claim": "Former president Ferdinand Marcos was the youngest to be elected mayor, representative, governor, and senator.",
       "title": "FALSE: Ferdinand Marcos was youngest elected as mayor, congressman, governor, and senator",
       "verdict_label": "False",
@@ -89142,6 +89175,17 @@
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/ferdinand-marcos-youngest-elected-mayor-congressman-governor-senator/",
       "date_published": "2021-09-16",
+      "lang": "en"
+    },
+    {
+      "claim": "The Philippine economy grew by 11.8% in the second quarter of 2021, thanks to the excellent governance of the Rodrigo Duterte administration.",
+      "title": "MISSING CONTEXT: Philippine economy grows by 11.8%",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The Philippine economy grew by 11.8% in the second quarter of 2021, thanks to the excellent governance of the Rodrigo Duterte administration.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/philippine-economy-growth-q2-2021/",
+      "date_published": "2021-08-17",
       "lang": "en"
     },
     {
