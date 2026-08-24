@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T03:54:09Z",
-  "total_count": 8665,
+  "last_updated": "2026-08-24T03:57:59Z",
+  "total_count": 8672,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,39 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Pourquoi un homme qui doit constamment demander de l'intimité physique à sa femme finit souvent par se détacher émotionnellement.",
+      "title": "VÉRIF' - \"Une économie du sexisme en ligne\" : derrière ces vidéos ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Pourquoi un homme qui doit constamment demander de l'intimité physique à sa femme finit souvent par se détacher émotionnellement.",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-une-vraie-economie-du-sexisme-en-ligne-derriere-des-videos-tiktok-pseudo-psychologiques-une-vision-dangereuse-du-couple-2459704.html",
+      "date_published": "2026-08-23",
+      "lang": "fr"
+    },
+    {
+      "claim": "Fresh reports are circulating about a major US military strike in Iran. According to the claims, a secret Iranian military facility was targeted.",
+      "title": "Does the Video Show the U.S. Targeting Iranian Officials at a Secret Base?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Fresh reports are circulating about a major US military strike in Iran. According to the claims, a secret Iranian military facility was targeted.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/22/does-video-show-us-targeting-iranian-officials-secret-base",
+      "date_published": "2026-08-22",
+      "lang": "en"
+    },
+    {
+      "claim": "A photograph authentically shows U.S. President Donald Trump in Moscow in 1987, when he was 41, at the invitation of Yuri Dubinin, the Soviet ambassador to the U.S.",
+      "title": "Photo of Trump in Moscow is real, but not from his first visit in 1987",
+      "verdict_label": "Miscaptioned",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A photograph authentically shows U.S. President Donald Trump in Moscow in 1987, when he was 41, at the invitation of Yuri Dubinin, the Soviet ambassador to the U.S.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-moscow-visit-1987-photo/",
+      "date_published": "2026-08-22",
+      "lang": "en"
+    },
     {
       "claim": "Une vidéo d'un migrant demandant de l'argent et un hébergement gratuit",
       "title": "Attention, cette vidéo censée montrer un migrant demander de l'argent et un hébergement gratuit a été truquée",
@@ -89189,6 +89222,17 @@
       "lang": "en"
     },
     {
+      "claim": "The Senate rejected a bill calling for mandatory vaccination against COVID-19.",
+      "title": "FALSE: Senate rejects bill calling for mandatory COVID-19 vaccination",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Senate rejected a bill calling for mandatory vaccination against COVID-19.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/senate-rejects-bill-calling-mandatory-covid-19-vaccination/",
+      "date_published": "2021-08-17",
+      "lang": "en"
+    },
+    {
       "claim": "A Facebook video posted on Tuesday, July 27 implied that Vice President Leni Robredo committed an election violation regarding campaign funds in her 2016 vice presidential campaign.",
       "title": "MISSING CONTEXT: Robredo committed election violation with 2016 campaign funds",
       "verdict_label": "Misleading",
@@ -95455,6 +95499,39 @@
       "explanation": "Donald Trump praised India’s polls and endorsed the use of EVMs for the 2028 elections.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/trump-india-evms-fact-check-viral-post-fake-2028-us-election-2976015-2026-08-20",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Reducing the energy density of meals reliably cuts calorie intake — by an average of 709 calories per day when applied across all foods served — while the volume of food eaten stays the same or increases, and compensatory eating at later meals is statistically negligible.",
+      "title": "Hunger Is Simpler Than You’ve Been Told",
+      "verdict_label": "Certainty Tier High Certainty",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Reducing the energy density of meals reliably cuts calorie intake — by an average of 709 calories per day when applied across all foods served — while the volume of food eaten stays the same or increases, and compensatory eating at later meals is statistically negligible.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/library/satiety-appetite/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Reducing the energy density of meals reliably cuts calorie intake — by an average of 709 calories per day when applied across all foods served — while the volume of food eaten stays the same or increases, and compensatory eating at later meals is statistically negligible.",
+      "title": "What Makes Some Foods 7x More Filling Per Calorie?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Reducing the energy density of meals reliably cuts calorie intake — by an average of 709 calories per day when applied across all foods served — while the volume of food eaten stays the same or increases, and compensatory eating at later meals is statistically negligible.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/eat-more-food-fewer-calories/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Below roughly 20% of calories from protein, the body systematically drives total energy intake upward — a pattern confirmed across 38 controlled dietary trials, over 9,000 free-living adults, and multiple hormonal pathways, though ultra-processed food can cut this compensatory mechanism's effectiveness nearly in half.",
+      "title": "Low Protein and Overeating: The 20% Threshold Your Body Uses",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Below roughly 20% of calories from protein, the body systematically drives total energy intake upward — a pattern confirmed across 38 controlled dietary trials, over 9,000 free-living adults, and multiple hormonal pathways, though ultra-processed food can cut this compensatory mechanism's effectiveness nearly in half.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/does-low-protein-cause-overeating/",
       "date_published": "",
       "lang": "en"
     }
