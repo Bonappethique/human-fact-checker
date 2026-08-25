@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T03:57:59Z",
-  "total_count": 8672,
+  "last_updated": "2026-08-25T03:52:30Z",
+  "total_count": 8674,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,17 @@
   ],
   "factchecks": [
     {
+      "claim": "La France est le pays européen qui compte le plus d'élèves par classe en primaire",
+      "title": "VÉRIF' - La France est-elle vraiment le pays européen qui compte le ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France est le pays européen qui compte le plus d'élèves par classe en primaire",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/education/verif-la-france-est-elle-vraiment-le-pays-europeen-qui-compte-le-plus-d-eleves-par-classe-en-primaire-2460149.html",
+      "date_published": "2026-08-24",
+      "lang": "fr"
+    },
+    {
       "claim": "Pourquoi un homme qui doit constamment demander de l'intimité physique à sa femme finit souvent par se détacher émotionnellement.",
       "title": "VÉRIF' - \"Une économie du sexisme en ligne\" : derrière ces vidéos ...",
       "verdict_label": "Faux",
@@ -153,6 +164,17 @@
       "source_url": "https://www.tf1info.fr/societe/verif-une-vraie-economie-du-sexisme-en-ligne-derriere-des-videos-tiktok-pseudo-psychologiques-une-vision-dangereuse-du-couple-2459704.html",
       "date_published": "2026-08-23",
       "lang": "fr"
+    },
+    {
+      "claim": "The French President Emmanuel Macron was slapped in the face by a member of the public while walking.",
+      "title": "Video of Macron Assault Dates Back to 2021, Not a Recent Incident",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The French President Emmanuel Macron was slapped in the face by a member of the public while walking.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/23/video-macron-assault-dates-back-2021-not-recent-incident",
+      "date_published": "2026-08-23",
+      "lang": "en"
     },
     {
       "claim": "Fresh reports are circulating about a major US military strike in Iran. According to the claims, a secret Iranian military facility was targeted.",
