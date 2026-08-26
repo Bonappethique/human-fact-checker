@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T03:52:30Z",
-  "total_count": 8674,
+  "last_updated": "2026-08-26T03:56:37Z",
+  "total_count": 8683,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,72 @@
   ],
   "factchecks": [
     {
+      "claim": "Elite athletes or their families have posted statements about their health or personal matters.",
+      "title": "Disinformation spammers target Australia swimmers and tennis stars",
+      "verdict_label": "False. The statements don’t exist, and the claims are part of a foreign-run disinformation operation.",
+      "verdict_category": "FAUX",
+      "explanation": "Elite athletes or their families have posted statements about their health or personal matters.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/disinformation-spammers-target-australia-swimmers-and-tennis-stars/",
+      "date_published": "2026-08-25",
+      "lang": "en"
+    },
+    {
+      "claim": "El Nino va conduire à un hiver glacial en 2026, selon les prévisions",
+      "title": "Un hiver glacial en Europe à cause d'El Niño ? Attention à cette ...",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "El Nino va conduire à un hiver glacial en 2026, selon les prévisions",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C6D28NQ",
+      "date_published": "2026-08-25",
+      "lang": "fr"
+    },
+    {
+      "claim": "A Daily Express article reported that the Prime Minister has proposed to bring thousands of migrants from Ceuta to the UK.",
+      "title": "The Express did not report a plan to bring Ceuta migrants to the UK – Full Fact",
+      "verdict_label": "False. This story comes from a faked copy of the Daily Express website, and no such proposal has been reported by any real media, or announced by the government.",
+      "verdict_category": "FAUX",
+      "explanation": "A Daily Express article reported that the Prime Minister has proposed to bring thousands of migrants from Ceuta to the UK.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/fake-express-ceuta-article/",
+      "date_published": "2026-08-25",
+      "lang": "en"
+    },
+    {
+      "claim": "Des liasses de billets issus du détournement d'argent des dons européens en Ukraine",
+      "title": "VÉRIF' - Que sait-on de cette vidéo de saisie d'argent en Ukraine, censée illustrer le détournement de fonds européens ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des liasses de billets issus du détournement d'argent des dons européens en Ukraine",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/international/que-sait-on-de-cette-video-de-saisie-d-argent-en-ukraine-censee-illustrer-le-detournement-de-fonds-europeens-2460339.html",
+      "date_published": "2026-08-25",
+      "lang": "fr"
+    },
+    {
+      "claim": "A screenshot shows an authentic Truth Social post from U.S. President Donald Trump that says: \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to be doing much business with Ontario any longer.\"",
+      "title": "Trump said US is giving 'serious consideration' to changing Lake Ontario's name to Lake America",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A screenshot shows an authentic Truth Social post from U.S. President Donald Trump that says: \"The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to be doing much business with Ontario any longer.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/lake-america-trump/",
+      "date_published": "2026-08-25",
+      "lang": "en"
+    },
+    {
+      "claim": "Ethiopian forces destroy Tigray fighters",
+      "title": "Pro-government posts in Ethiopia recycle old war footage following ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Ethiopian forces destroy Tigray fighters",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C62H9ZQ",
+      "date_published": "2026-08-25",
+      "lang": "en"
+    },
+    {
       "claim": "La France est le pays européen qui compte le plus d'élèves par classe en primaire",
       "title": "VÉRIF' - La France est-elle vraiment le pays européen qui compte le ...",
       "verdict_label": "Plutôt faux",
@@ -153,6 +219,39 @@
       "source_url": "https://www.tf1info.fr/education/verif-la-france-est-elle-vraiment-le-pays-europeen-qui-compte-le-plus-d-eleves-par-classe-en-primaire-2460149.html",
       "date_published": "2026-08-24",
       "lang": "fr"
+    },
+    {
+      "claim": "On peut annuler la dette de la France détenue par la BCE",
+      "title": "Annuler une partie de la dette de la France ? La proposition de LFI face aux obstacles juridiques et politiques",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "On peut annuler la dette de la France détenue par la BCE",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C4NT3ZQ",
+      "date_published": "2026-08-24",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump proposed eliminating property taxes for people age 65 and older who have paid off their mortgages.",
+      "title": "Did Trump propose eliminating property taxes for some seniors?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump proposed eliminating property taxes for people age 65 and older who have paid off their mortgages.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-property-tax-seniors/",
+      "date_published": "2026-08-24",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows a woman's reaction when she sees a real televised Emergency Alert System notice of an invasion of UFOs.",
+      "title": "Fact Check: PRANK Video Shows Woman Falling For A Fictional Alien Invasion Emergency Alert System Notice",
+      "verdict_label": "Prank Video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows a woman's reaction when she sees a real televised Emergency Alert System notice of an invasion of UFOs.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-prank-video-shows-woman-falling-for-a-fictional-alien-invasion-emergency-alert-system-notice.html",
+      "date_published": "2026-08-24",
+      "lang": "en"
     },
     {
       "claim": "Pourquoi un homme qui doit constamment demander de l'intimité physique à sa femme finit souvent par se détacher émotionnellement.",
