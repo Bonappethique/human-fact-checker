@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T03:56:37Z",
-  "total_count": 8683,
+  "last_updated": "2026-08-27T13:58:25Z",
+  "total_count": 8695,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,105 @@
   ],
   "factchecks": [
     {
+      "claim": "Des centrales d'EDF à l'arrêt faute d'uranium nigérien",
+      "title": "Non, les réacteurs nucléaires français n'ont pas été arrêtés à cause ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Des centrales d'EDF à l'arrêt faute d'uranium nigérien",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C6CR4CQ",
+      "date_published": "2026-08-27",
+      "lang": "fr"
+    },
+    {
+      "claim": "Japan has named a Covid mRNA vaccine the most deadly drug in the history of humankind.",
+      "title": "Japan hasn't named Covid mRNA vaccine the 'most deadly drug ...",
+      "verdict_label": "False. Japan has done no such thing. Approved mRNA Covid-19 vaccines are considered safe.",
+      "verdict_category": "FAUX",
+      "explanation": "Japan has named a Covid mRNA vaccine the most deadly drug in the history of humankind.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/world/japan-covid-deadly-vaccine-false-claim/",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows Rahul Gandhi making offensive statements about women.",
+      "title": "Did Rahul Gandhi Make Offensive Statements About Women at ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows Rahul Gandhi making offensive statements about women.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/did-rahul-gandhi-make-offensive-statements-about-women-at-chhatron-ki-goonj-false-claim-fact-check",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "HPV vaccine causes infertility, according to ex-Indonesian health minister.",
+      "title": "Indonesia's expanded HPV vaccine scheme ignites online falsehoods",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "HPV vaccine causes infertility, according to ex-Indonesian health minister.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4W349H",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Bexley Council has sent a letter advising residents about asylum seekers moving to the area and advising them to keep their daughters inside.",
+      "title": "Bexley Council did not send letter advising residents to keep ...",
+      "verdict_label": "False. Bexley Council has confirmed it didn’t send the letter.",
+      "verdict_category": "FAUX",
+      "explanation": "Bexley Council has sent a letter advising residents about asylum seekers moving to the area and advising them to keep their daughters inside.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/immigration/bexley-council-fake-letter-asylum-seekers/",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Project 2025, The Heritage Foundation's plan for a conservative presidency that U.S. President Donald Trump has largely used as a blueprint for his second administration, calls for culling wild horses to cut costs.",
+      "title": "Project 2025 recommended culling wild horses. Here's why",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Project 2025, The Heritage Foundation's plan for a conservative presidency that U.S. President Donald Trump has largely used as a blueprint for his second administration, calls for culling wild horses to cut costs.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/project-2025-wild-horses/",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
+      "claim": "An Iranian strike on U.S. bases in Saudi Arabia.",
+      "title": "Outdated Video Does Not Show Iranian Attack on U.S. Bases in Saudi Arabia",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian strike on U.S. bases in Saudi Arabia.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/26/outdated-video-does-not-show-iranian-attack-us-bases-saudi-arabia",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows Rahul Gandhi saying that 80 percent of rapes happen because of women.",
+      "title": "Video Of Rahul Gandhi Making Controversial Remarks About Women Is Edited | BOOM",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows Rahul Gandhi saying that 80 percent of rapes happen because of women.",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/viral-video-rahul-gandhi-congress-rape-woman-statement-fact-check-32105",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
+      "claim": "Videos show a woman in a niqab saying “you can’t arrest me, I’m Muslim” to police officers in a supermarket.",
+      "title": "Videos of woman in niqab telling police ‘you can’t arrest me’ are fake – Full Fact",
+      "verdict_label": "These clips are fake. Many visual inconsistencies show that they are AI-generated.",
+      "verdict_category": "FAUX",
+      "explanation": "Videos show a woman in a niqab saying “you can’t arrest me, I’m Muslim” to police officers in a supermarket.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/culture-and-society/fake-videos-women-arrested-in-supermarket/",
+      "date_published": "2026-08-26",
+      "lang": "en"
+    },
+    {
       "claim": "Elite athletes or their families have posted statements about their health or personal matters.",
       "title": "Disinformation spammers target Australia swimmers and tennis stars",
       "verdict_label": "False. The statements don’t exist, and the claims are part of a foreign-run disinformation operation.",
@@ -206,6 +305,17 @@
       "explanation": "Ethiopian forces destroy Tigray fighters",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.C62H9ZQ",
+      "date_published": "2026-08-25",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, U.S. President Donald Trump said, “We were a dumb, stupid country, led by a very, very stupid person a year ago.”",
+      "title": "Did Trump say US was 'dumb' country led by 'very stupid person' one year ago?",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "In August 2026, U.S. President Donald Trump said, “We were a dumb, stupid country, led by a very, very stupid person a year ago.”",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-dumb-stupid-country-quote/",
       "date_published": "2026-08-25",
       "lang": "en"
     },
@@ -95653,6 +95763,28 @@
       "explanation": "Below roughly 20% of calories from protein, the body systematically drives total energy intake upward — a pattern confirmed across 38 controlled dietary trials, over 9,000 free-living adults, and multiple hormonal pathways, though ultra-processed food can cut this compensatory mechanism's effectiveness nearly in half.",
       "source_name": "FitChef",
       "source_url": "https://fitchef.com/claims/does-low-protein-cause-overeating/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Video allegedly shows three Hindu women being assaulted in Bangladesh because of their religious identity.",
+      "title": "PTI Fact Check: Bangladesh video of Muslim women assaulted over theft allegations falsely reshared as atrocity against Hindus",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Video allegedly shows three Hindu women being assaulted in Bangladesh because of their religious identity.",
+      "source_name": "PTI",
+      "source_url": "https://www.ptinews.com/fact-detail/bangladesh-video-of-muslim-women-assaulted-over-theft-allegations-falsely-reshared-as-atrocity-against-hindus/4005360",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "This woman was raped and murdered by BJP supporters in West Bengal.",
+      "title": "Fact Check: Bangladesh rape-murder victim’s clip FALSELY shared as West Bengal incident",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "This woman was raped and murdered by BJP supporters in West Bengal.",
+      "source_name": "India Today",
+      "source_url": "https://www.indiatoday.in/fact-check/story/bangladesh-rape-murder-video-falsely-shared-as-west-bengal-bjp-crime-2980444-2026-08-26",
       "date_published": "",
       "lang": "en"
     }
