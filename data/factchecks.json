@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T13:58:25Z",
-  "total_count": 8695,
+  "last_updated": "2026-08-28T15:09:52Z",
+  "total_count": 8704,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,28 @@
   ],
   "factchecks": [
     {
+      "claim": "Consommer tous les jours des boissons énergisantes réduit de 25 ans l'espérance de vie",
+      "title": "VÉRIF' - Consommer des boissons énergisantes tous les jours ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Consommer tous les jours des boissons énergisantes réduit de 25 ans l'espérance de vie",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sante/verif-consommer-des-boissons-energisantes-redbull-monster-tous-les-jours-reduit-il-l-esperance-de-vie-de-25-ans-2460796.html",
+      "date_published": "2026-08-28",
+      "lang": "fr"
+    },
+    {
+      "claim": "South Korea agreed to pay $3 billion a year for US protection",
+      "title": "Trump falsely inflates defence cost-sharing, US troop levels in S ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South Korea agreed to pay $3 billion a year for US protection",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C4YP3G3",
+      "date_published": "2026-08-28",
+      "lang": "en"
+    },
+    {
       "claim": "Des centrales d'EDF à l'arrêt faute d'uranium nigérien",
       "title": "Non, les réacteurs nucléaires français n'ont pas été arrêtés à cause ...",
       "verdict_label": "Faux",
@@ -173,6 +195,83 @@
       "explanation": "The video shows Rahul Gandhi making offensive statements about women.",
       "source_name": "The Quint",
       "source_url": "https://www.thequint.com/news/webqoof/did-rahul-gandhi-make-offensive-statements-about-women-at-chhatron-ki-goonj-false-claim-fact-check",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "South African police killing African migrant",
+      "title": "Clip of fatal Mozambique police shooting falsely linked to violence in South Africa, DRC",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South African police killing African migrant",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C6HQ6ZR",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump bought up to $500,000 in Boeing stock the same day the U.S. Navy awarded the aerospace company with an $880 million contract.",
+      "title": "Trump bought Boeing stock on same day Navy gave company $880M contract. Here's proof",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump bought up to $500,000 in Boeing stock the same day the U.S. Navy awarded the aerospace company with an $880 million contract.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-boeing-navy-contract/",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows hundreds of motorcycle riders heading to an anti-Islam protest in the US.",
+      "title": "Charity motorbike ride twisted into anti-Islam protest",
+      "verdict_label": "False. The footage shows bikers taking part in a charity ride in Brazil.",
+      "verdict_category": "FAUX",
+      "explanation": "A video shows hundreds of motorcycle riders heading to an anti-Islam protest in the US.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/charity-motorbike-ride-twisted-into-anti-islam-protest/",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "South Korean leader awarded former president's assassin national merit.",
+      "title": "Honour given to Korean War soldier, not former leader's killer who ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "South Korean leader awarded former president's assassin national merit.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C6F38KE",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "Graphic of Parental Child Homicides by Gender of Perpetrator is based on real 2016 paper by Ribaux, L., et al.",
+      "title": "Fact Check: FAKE Graphic Of 'Parental Child Homicides By Gender ...",
+      "verdict_label": "Faux Report",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Graphic of Parental Child Homicides by Gender of Perpetrator is based on real 2016 paper by Ribaux, L., et al.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-graphic-of-parental-child-homicides-by-gender-of-perpetrator-is-based-on-fake-2016-paper-by-ribaux-l-et-al.html",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "The Detroit Police Department issued a warning about a “gang initiation” trend of young men stabbing women in Detroit in August 2026.",
+      "title": "Detroit police didn't issue warning about gang initiation trend ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Detroit Police Department issued a warning about a “gang initiation” trend of young men stabbing women in Detroit in August 2026.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/detroit-gang-initiation-stabbing-women/",
+      "date_published": "2026-08-27",
+      "lang": "en"
+    },
+    {
+      "claim": "Images and videos show the devastating floods in Nepal.",
+      "title": "Fake flood footage inundates social media after Nepal disaster",
+      "verdict_label": "False. The images and clips are either AI-generated or show floods in other countries.",
+      "verdict_category": "FAUX",
+      "explanation": "Images and videos show the devastating floods in Nepal.",
+      "source_name": "AAP",
+      "source_url": "https://www.aap.com.au/factcheck/fake-flood-footage-inundates-social-media-after-nepal-disaster/",
       "date_published": "2026-08-27",
       "lang": "en"
     },
