@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T15:09:52Z",
-  "total_count": 8704,
+  "last_updated": "2026-08-29T09:52:28Z",
+  "total_count": 8705,
   "sources": [
     "11Alive.com",
     "12News",
@@ -162,6 +162,17 @@
       "explanation": "South Korea agreed to pay $3 billion a year for US protection",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.C4YP3G3",
+      "date_published": "2026-08-28",
+      "lang": "en"
+    },
+    {
+      "claim": "A video shows the dead bodies of women who were killed by the flash flood in Nepal or in the floods in Assam, India.",
+      "title": "Fact Check: Staged Video Shows Women Acting Dead ...",
+      "verdict_label": "Recycled Hoax",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video shows the dead bodies of women who were killed by the flash flood in Nepal or in the floods in Assam, India.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-staged-video-shows-women-acting-dead-misrepresented-as-flood-victims-in-nepal-and-assam-india.html",
       "date_published": "2026-08-28",
       "lang": "en"
     },
