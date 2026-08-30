@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T09:52:28Z",
-  "total_count": 8705,
+  "last_updated": "2026-08-30T09:03:10Z",
+  "total_count": 8708,
   "sources": [
     "11Alive.com",
     "12News",
@@ -173,6 +173,39 @@
       "explanation": "A video shows the dead bodies of women who were killed by the flash flood in Nepal or in the floods in Assam, India.",
       "source_name": "Lead Stories",
       "source_url": "https://leadstories.com/hoax-alert/2026/08/fact-check-staged-video-shows-women-acting-dead-misrepresented-as-flood-victims-in-nepal-and-assam-india.html",
+      "date_published": "2026-08-28",
+      "lang": "en"
+    },
+    {
+      "claim": "Four members of one family in Laguindingan, Misamis Oriental died because of COVID-19 vaccines after receiving their jabs.",
+      "title": "FACT CHECK: Misamis Oriental family deaths in 2021 due to COVID-19, not vaccines",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Four members of one family in Laguindingan, Misamis Oriental died because of COVID-19 vaccines after receiving their jabs.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/misamis-oriental-family-death-not-covid-19-vaccines/",
+      "date_published": "2026-08-28",
+      "lang": "en"
+    },
+    {
+      "claim": "An Iranian weapon will emerge that tears apart the dreams of the Zionist entity and the Americans.",
+      "title": "AI-Generated Video Does Not Show New Iranian Weapon",
+      "verdict_label": "fake",
+      "verdict_category": "FAUX",
+      "explanation": "An Iranian weapon will emerge that tears apart the dreams of the Zionist entity and the Americans.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/28/ai-generated-video-does-not-show-new-iranian-weapon",
+      "date_published": "2026-08-28",
+      "lang": "en"
+    },
+    {
+      "claim": "The U.S. Department of Agriculture recalled 30,000 pounds of Argentine beef that the administration of President Donald Trump had imported to bring down domestic beef prices.",
+      "title": "USDA recalled 30K pounds of beef from Argentina. Trump's import plan wasn't to blame",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "The U.S. Department of Agriculture recalled 30,000 pounds of Argentine beef that the administration of President Donald Trump had imported to bring down domestic beef prices.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-argentina-beef-recall/",
       "date_published": "2026-08-28",
       "lang": "en"
     },
