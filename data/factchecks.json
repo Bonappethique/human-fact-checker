@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T09:03:10Z",
-  "total_count": 8708,
+  "last_updated": "2026-08-31T09:30:55Z",
+  "total_count": 8709,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,17 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Israeli soldiers withdrawing from Syria following U.S. pressure on Israel.",
+      "title": "Does the Video Show Israeli Soldiers Withdrawing From Syria After U.S. Pressure?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Israeli soldiers withdrawing from Syria following U.S. pressure on Israel.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/08/30/does-video-show-israeli-soldiers-withdrawing-syria-after-us-pressure",
+      "date_published": "2026-08-30",
+      "lang": "en"
+    },
     {
       "claim": "Consommer tous les jours des boissons énergisantes réduit de 25 ans l'espérance de vie",
       "title": "VÉRIF' - Consommer des boissons énergisantes tous les jours ...",
