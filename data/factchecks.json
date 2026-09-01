@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T09:30:55Z",
-  "total_count": 8709,
+  "last_updated": "2026-09-01T08:27:43Z",
+  "total_count": 8713,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,50 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+      "title": "VRAI OU FAUX. \"Absolument pas crédible juridiquement\" : le RN ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html",
+      "date_published": "2026-09-01",
+      "lang": "fr"
+    },
+    {
+      "claim": "Rahul Gandhi said that 80% of rapes are caused by women.",
+      "title": "Fact Check: Video Of Rahul Gandhi Making Controversial Remarks ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Rahul Gandhi said that 80% of rapes are caused by women.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.vishvasnews.com/english/politics/fact-check-video-of-rahul-gandhi-making-controversial-remarks-about-women-is-edited-and-being-shared-with-a-false-claim/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Bruno Le Maire souhaite une \"fusion\" de la France avec cinq autres pays européens",
+      "title": "VÉRIF' - Bruno Le Maire souhaite-t-il vraiment une \"fusion\" de la ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Bruno Le Maire souhaite une \"fusion\" de la France avec cinq autres pays européens",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-bruno-le-maire-souhaite-t-il-vraiment-une-fusion-de-la-france-avec-cinq-autres-pays-europeens-2461008.html",
+      "date_published": "2026-08-31",
+      "lang": "fr"
+    },
+    {
+      "claim": "The bird flu vaccine is an mRNA vaccine.",
+      "title": "mRNA vaccine falsehoods resurface amid bird flu outbreak",
+      "verdict_label": "False. It is a killed virus vaccine, not an mRNA vaccine.",
+      "verdict_category": "FAUX",
+      "explanation": "The bird flu vaccine is an mRNA vaccine.",
+      "source_name": "AAP",
+      "source_url": "https://aap.com.au/factcheck/mrna-vaccine-falsehoods-resurface-amid-bird-flu-outbreak/",
+      "date_published": "2026-08-31",
+      "lang": "en"
+    },
     {
       "claim": "Israeli soldiers withdrawing from Syria following U.S. pressure on Israel.",
       "title": "Does the Video Show Israeli Soldiers Withdrawing From Syria After U.S. Pressure?",
