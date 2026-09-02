@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T08:27:43Z",
-  "total_count": 8713,
+  "last_updated": "2026-09-02T07:46:05Z",
+  "total_count": 8716,
   "sources": [
     "11Alive.com",
     "12News",
@@ -162,6 +162,39 @@
       "explanation": "Rahul Gandhi said that 80% of rapes are caused by women.",
       "source_name": "Inconnu",
       "source_url": "https://www.vishvasnews.com/english/politics/fact-check-video-of-rahul-gandhi-making-controversial-remarks-about-women-is-edited-and-being-shared-with-a-false-claim/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "50.000 des 500.000 personnes entrées légalement en France chaque année ont un contrat de travail",
+      "title": "VÉRIF' - Seuls 10% des immigrés entrent-ils légalement en France ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "50.000 des 500.000 personnes entrées légalement en France chaque année ont un contrat de travail",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-seuls-10-des-immigres-entrent-ils-legalement-en-france-avec-du-travail-comme-le-dit-jordan-bardella-2461437.html",
+      "date_published": "2026-09-01",
+      "lang": "fr"
+    },
+    {
+      "claim": "À l'époque où la retraite à 60 ans a été instaurée, l'espérance de vie était en France de seulement 70 ans ?",
+      "title": "VÉRIF' - À l'époque où la retraite à 60 ans a été instaurée, l ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "À l'époque où la retraite à 60 ans a été instaurée, l'espérance de vie était en France de seulement 70 ans ?",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-a-l-epoque-ou-la-retraite-a-60-ans-a-ete-instauree-l-esperance-de-vie-etait-elle-en-france-de-seulement-70-ans-2461643.html",
+      "date_published": "2026-09-01",
+      "lang": "fr"
+    },
+    {
+      "claim": "Senator Loren Legarda and her son, Batangas 1st District Representative Leandro Leviste, have applied for asylum in France to avoid the Ombudsman's investigation into the alleged “ghost solar” scheme.",
+      "title": "FACT CHECK: No reports confirm Legarda, Leviste applied for ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Senator Loren Legarda and her son, Batangas 1st District Representative Leandro Leviste, have applied for asylum in France to avoid the Ombudsman's investigation into the alleged “ghost solar” scheme.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/no-reports-loren-legarda-leandro-leviste-applied-asylum-france/",
       "date_published": "2026-09-01",
       "lang": "en"
     },
