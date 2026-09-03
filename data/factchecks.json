@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T07:46:05Z",
-  "total_count": 8716,
+  "last_updated": "2026-09-03T07:54:59Z",
+  "total_count": 8727,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,50 @@
   ],
   "factchecks": [
     {
+      "claim": "An Iranian attack on U.S. military bases in Kuwait.",
+      "title": "Does the Video Show Iranian Strikes on U.S. Military Bases in Kuwait?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian attack on U.S. military bases in Kuwait.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/02/does-video-show-iranian-strikes-us-military-bases-kuwait",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Not a single little penguin has been found to have bird flu in Australia",
+      "title": "Australia inoculates little penguins from bird flu, triggering anti ...",
+      "verdict_label": "Missing context",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Not a single little penguin has been found to have bird flu in Australia",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C6LH7T3",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "A video authentically shows a kindergarten teacher saying she was fired for helping students discover their gender identity.",
+      "title": "Was kindergarten teacher fired over gender lesson? Here's the truth",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A video authentically shows a kindergarten teacher saying she was fired for helping students discover their gender identity.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/kindergarten-teacher-fired-gender/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Hindu woman beaten up by \"Islamists\" in Bangladesh, a Dalit teacher beaten up for offering water to a Muslim child",
+      "title": "Assault on Bangladeshi Muslim woman falsely communalised on ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Hindu woman beaten up by \"Islamists\" in Bangladesh, a Dalit teacher beaten up for offering water to a Muslim child",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/assault-on-bangladeshi-muslim-woman-falsely-communalised-on-social-media/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
       "claim": "Le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
       "title": "VRAI OU FAUX. \"Absolument pas crédible juridiquement\" : le RN ...",
       "verdict_label": "Faux",
@@ -195,6 +239,83 @@
       "explanation": "Senator Loren Legarda and her son, Batangas 1st District Representative Leandro Leviste, have applied for asylum in France to avoid the Ombudsman's investigation into the alleged “ghost solar” scheme.",
       "source_name": "Rappler",
       "source_url": "https://www.rappler.com/newsbreak/fact-check/no-reports-loren-legarda-leandro-leviste-applied-asylum-france/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "\"The reason why we have seen a measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous administration.”",
+      "title": "Rising Measles Cases Driven by Falling Vaccination, Not Illegal ...",
+      "verdict_label": "Unsupported",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"The reason why we have seen a measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous administration.”",
+      "source_name": "FactCheck.org",
+      "source_url": "https://www.factcheck.org/2026/09/rising-measles-cases-driven-by-falling-vaccination-not-illegal-immigration/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Ships with \"Lake America\" documents not allowed to pass Welland Canal",
+      "title": "No pileup at Canadian canal after Trump's 'Lake America' order",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Ships with \"Lake America\" documents not allowed to pass Welland Canal",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C7297CV",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. said people in hospice care weren't dying fast enough and were costing taxpayers too much money.",
+      "title": "RFK Jr.'s hospice comments referred to fraud, not patients' life expectancy burdening taxpayers",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. Secretary of Health and Human Services Robert F. Kennedy Jr. said people in hospice care weren't dying fast enough and were costing taxpayers too much money.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/rfk-jr-hospice-comment/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "A U.S. airstrike targeting missile launchers and rocket launchers operated by Irans Islamic Revolutionary Guard Corps on Larak Island.",
+      "title": "Does the Video Show a U.S. Strike on Iran’s Larak Island Near the Strait of Hormuz?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A U.S. airstrike targeting missile launchers and rocket launchers operated by Irans Islamic Revolutionary Guard Corps on Larak Island.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/01/does-video-show-us-strike-iran%E2%80%99s-larak-island-near-strait-hormuz",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "A civilian engineer working aboard a U.S. Navy vessel filed a civil lawsuit against the United States in 2023, alleging she had been raped on duty, and the court dismissed the suit in 2026, determining it fell under the jurisdiction of the U.S. Department of Labor as a worker’s compensation issue.",
+      "title": "Lawsuit alleging rape aboard Navy vessel was dismissed and classified as worker's comp issue, documents show",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A civilian engineer working aboard a U.S. Navy vessel filed a civil lawsuit against the United States in 2023, alleging she had been raped on duty, and the court dismissed the suit in 2026, determining it fell under the jurisdiction of the U.S. Department of Labor as a worker’s compensation issue.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/us-navy-rape-case-dismissed/",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Explosions at U.S. bases in Jordan following a recent attack by Irans Islamic Revolutionary Guard Corps.",
+      "title": "Does the Video Show Explosions at U.S. Bases in Jordan Following an Iranian Attack?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Explosions at U.S. bases in Jordan following a recent attack by Irans Islamic Revolutionary Guard Corps.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/01/does-video-show-explosions-us-bases-jordan-following-iranian-attack",
+      "date_published": "2026-09-01",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian forces targeting a U.S. military base in Jordan.",
+      "title": "Old Video Does Not Show Iranian Attack on U.S. Base in Jordan",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian forces targeting a U.S. military base in Jordan.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/01/old-video-does-not-show-iranian-attack-us-base-jordan",
       "date_published": "2026-09-01",
       "lang": "en"
     },
