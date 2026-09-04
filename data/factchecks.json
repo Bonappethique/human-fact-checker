@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T07:54:59Z",
-  "total_count": 8727,
+  "last_updated": "2026-09-04T07:50:42Z",
+  "total_count": 8734,
   "sources": [
     "11Alive.com",
     "12News",
@@ -184,6 +184,83 @@
       "explanation": "Hindu woman beaten up by \"Islamists\" in Bangladesh, a Dalit teacher beaten up for offering water to a Muslim child",
       "source_name": "Alt News",
       "source_url": "https://www.altnews.in/assault-on-bangladeshi-muslim-woman-falsely-communalised-on-social-media/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "Un hélicoptère en France largue des moustiques",
+      "title": "Non, des moustiques ne sont pas largués par hélicoptère en France",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un hélicoptère en France largue des moustiques",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C6J29T3",
+      "date_published": "2026-09-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "On peut annuler la dette de la France détenue par la BCE",
+      "title": "Annuler une partie de la dette de la France ? La proposition de LFI face aux obstacles juridiques et politiques",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "On peut annuler la dette de la France détenue par la BCE",
+      "source_name": "DE FACTO",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Annuler-une-partie-de-la-dette-de-la-France-La-proposition-de-LFI-face-aux-obstacles-juridiques-et-politiques/",
+      "date_published": "2026-09-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "Le pacte Dutreil, qui facilite la transmission des entreprises familiales, est \"détourné\" à des fins d'optimisation fiscale",
+      "title": "VRAI OU FAUX. Marine Tondelier a-t-elle raison de dire qu'une loi ...",
+      "verdict_label": "Plutôt Vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le pacte Dutreil, qui facilite la transmission des entreprises familiales, est \"détourné\" à des fins d'optimisation fiscale",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-marine-tondelier-a-t-elle-raison-de-dire-qu-une-loi-sur-la-transmission-d-entreprises-familiales-est-detournee-pour-servir-d-optimisation-fiscale_8166221.html",
+      "date_published": "2026-09-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "Iran targeted a facility used by U.S. forces in the UAE during the latest escalation.",
+      "title": "Video Does Not Show Iranian Attack on U.S. Military Base in UAE",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran targeted a facility used by U.S. forces in the UAE during the latest escalation.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/02/video-does-not-show-iranian-attack-us-military-base-uae",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "A chef claimed U.S. Sen. Josh Hawley, R-Mo., twice met with a male escort.",
+      "title": "Chef claimed Josh Hawley met twice with male escort. There's no proof",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "A chef claimed U.S. Sen. Josh Hawley, R-Mo., twice met with a male escort.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/josh-hawley-male-escort/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "In August 2026, U.S. President Donald Trump posted an image showing a six-fingered U.S. Navy sailor eating a burger with the caption, \"OUR MILITARY EATS THE BEST! Nobody feeds our brave troops better than me. The food is AMAZING--the best military food EVER! Other countries wish they could feed their soldiers this well. TOTAL WIN!\"",
+      "title": "Did Trump post AI photo of 6-fingered Navy sailor?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "In August 2026, U.S. President Donald Trump posted an image showing a six-fingered U.S. Navy sailor eating a burger with the caption, \"OUR MILITARY EATS THE BEST! Nobody feeds our brave troops better than me. The food is AMAZING--the best military food EVER! Other countries wish they could feed their soldiers this well. TOTAL WIN!\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-navy-sailor-ai-photo/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump's Environmental Protection Agency approved the use of the pesticide trifludimoxazin, a known carcinogen and a PFAS \"forever chemical.\"",
+      "title": "What to know about EPA approving pesticide trifludimoxazin",
+      "verdict_label": "Mostly True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump's Environmental Protection Agency approved the use of the pesticide trifludimoxazin, a known carcinogen and a PFAS \"forever chemical.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trifludimoxazin-epa-approval/",
       "date_published": "2026-09-02",
       "lang": "en"
     },
