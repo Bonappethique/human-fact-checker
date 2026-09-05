@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T07:50:42Z",
-  "total_count": 8734,
+  "last_updated": "2026-09-05T07:32:04Z",
+  "total_count": 8752,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,149 @@
   ],
   "factchecks": [
     {
+      "claim": "As cited by the U.S. Department of Health and Human Services, a database from anti-trans group Do No Harm proves that from 2019 to 2023, more than 5,500 minors in the United States had sex change surgeries.",
+      "title": "HHS report cites inaccurate data to claim more than 5,500 trans minors received 'sex change surgeries'",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "As cited by the U.S. Department of Health and Human Services, a database from anti-trans group Do No Harm proves that from 2019 to 2023, more than 5,500 minors in the United States had sex change surgeries.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/hhs-report-trans-minors-surgeries/",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Le projet haarp est responsable de la crue mortelle au Népal",
+      "title": "Non, le programme Haarp n'est pas responsable de la crue mortelle ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le projet haarp est responsable de la crue mortelle au Népal",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C72B6G3",
+      "date_published": "2026-09-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "An Iranian missile strike on a U.S. base in the UAE during the latest escalation.",
+      "title": "Does the Video Show a Recent Iranian Missile Strike on a U.S. Base in the UAE?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian missile strike on a U.S. base in the UAE during the latest escalation.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/04/does-video-show-recent-iranian-missile-strike-us-base-uae",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows a French map from 1688 that replaced the name \"Lac Ontario\" with \"Lac America.\"",
+      "title": "French map doesn't prove Lake Ontario was once called 'Lac America.' It's altered",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows a French map from 1688 that replaced the name \"Lac Ontario\" with \"Lac America.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/lake-ontario-called-lac-america/",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "France : une mère laisse filer une poussette sur une autoroute",
+      "title": "Une mère laisse filer la poussette sur l’autoroute ? Ce récit a été détourné",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "France : une mère laisse filer une poussette sur une autoroute",
+      "source_name": "20 Minutes",
+      "source_url": "https://www.20minutes.fr/monde/4242354-20260903-mere-laisse-filer-poussette-autoroute-recit-detourne",
+      "date_published": "2026-09-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Les véhicules électriques ont battu un record, atteignant 38% des ventes en août",
+      "title": "VÉRIF' - Les véhicules électriques ont-ils battu un record, atteignant ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les véhicules électriques ont battu un record, atteignant 38% des ventes en août",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/economie/verif-les-vehicules-electriques-ont-ils-battu-un-record-atteignant-38-des-ventes-en-aout-2462179.html",
+      "date_published": "2026-09-03",
+      "lang": "fr"
+    },
+    {
+      "claim": "Iran striking a U.S. military base in Jordan with missiles during the latest escalation.",
+      "title": "Old Video Falsely Shared as Showing Iranian Strike on U.S. Base in Jordan",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran striking a U.S. military base in Jordan with missiles during the latest escalation.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/03/old-video-falsely-shared-showing-iranian-strike-us-base-jordan",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a post U.S. President Donald Trump made to Truth Social saying that there were \"too many non-working holidays in America\" that cost the country \"billions of dollars\" to keep businesses closed.",
+      "title": "Did Trump say US has 'too many non-working holidays' that cost country 'billions'?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A screenshot authentically shows a post U.S. President Donald Trump made to Truth Social saying that there were \"too many non-working holidays in America\" that cost the country \"billions of dollars\" to keep businesses closed.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-non-working-holidays-post/",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a Truth Social post from U.S. President Donald Trump announcing the construction of the \"Melania Canal\" to connect to \"Lake America,\" also known as Lake Ontario.",
+      "title": "Trump didn't post about building 'Melania Canal,' despite claims",
+      "verdict_label": "Labeled Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "A screenshot authentically shows a Truth Social post from U.S. President Donald Trump announcing the construction of the \"Melania Canal\" to connect to \"Lake America,\" also known as Lake Ontario.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-melania-canal/",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "A vidoe purportedly shows a passenger plane was forced to make an emergency landing on a highway after an in-flight emergency in the U.S. state of Georgia.",
+      "title": "False: Video does not show a real plane crash in the US state of Georgia",
+      "verdict_label": "False. Aviation records do not have a jetliner incident matching the video’s description. The clip was made using an AI tool.",
+      "verdict_category": "FAUX",
+      "explanation": "A vidoe purportedly shows a passenger plane was forced to make an emergency landing on a highway after an in-flight emergency in the U.S. state of Georgia.",
+      "source_name": "annie lab",
+      "source_url": "https://annielab.org/2026/09/03/false-video-does-not-show-a-real-plane-crash-in-the-us-state-of-georgia/",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Iran detonating a naval mine in the Strait of Hormuz during the latest escalation between Iran and the United States.",
+      "title": "Does the Video Show Iran Detonating a Naval Mine in the Persian Gulf?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iran detonating a naval mine in the Strait of Hormuz during the latest escalation between Iran and the United States.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/03/does-video-show-iran-detonating-naval-mine-persian-gulf",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "Donald Trump wrote \"too many non-working holidays in America\" ahead of Labor Day 2026",
+      "title": "Fact Check: Trump Did NOT Write 'Too Many Non-Working Holidays In America' Ahead Of Labor Day 2026 -- Post Is From Summer 2025",
+      "verdict_label": "Old Post",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Donald Trump wrote \"too many non-working holidays in America\" ahead of Labor Day 2026",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-trump-did-not-write-too-many-non-working-holidays-in-america-ahead-of-labor-day-2026-post-is-from-summer-2025.html",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
+      "claim": "The video shows a fight that broke out between a woman and a man who came to deliver food to her.",
+      "title": "Scripted Video Falsely Shared To Show a Fight Between a Woman and Delivery Guy",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The video shows a fight that broke out between a woman and a man who came to deliver food to her.",
+      "source_name": "The Quint",
+      "source_url": "https://www.thequint.com/news/webqoof/scripted-video-falsely-shared-fight-between-woman-and-delivery-guy-false-claim-fact-check",
+      "date_published": "2026-09-03",
+      "lang": "en"
+    },
+    {
       "claim": "An Iranian attack on U.S. military bases in Kuwait.",
       "title": "Does the Video Show Iranian Strikes on U.S. Military Bases in Kuwait?",
       "verdict_label": "misleading",
@@ -261,6 +404,39 @@
       "explanation": "U.S. President Donald Trump's Environmental Protection Agency approved the use of the pesticide trifludimoxazin, a known carcinogen and a PFAS \"forever chemical.\"",
       "source_name": "Snopes.com",
       "source_url": "https://www.snopes.com/fact-check/trifludimoxazin-epa-approval/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "La réforme du concours des enseignants a permis de \"recruter quasiment à plein\"",
+      "title": "VRAI OU FAUX. La réforme du concours des enseignants a-t-elle ...",
+      "verdict_label": "C’est plus compliqué",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La réforme du concours des enseignants a permis de \"recruter quasiment à plein\"",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-la-reforme-du-concours-des-enseignants-a-t-elle-permis-de-recruter-quasiment-a-plein-comme-l-affirme-le-ministre-de-l-education-nationale_8171921.html",
+      "date_published": "2026-09-02",
+      "lang": "fr"
+    },
+    {
+      "claim": "In the summer of 2026, U.S. President Donald Trump ordered the removal of weeping willow trees outside the John F. Kennedy Memorial Center for the Performing Arts in Washington, D.C.",
+      "title": "Did Trump order that weeping willows be cut down outside Kennedy Center?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "In the summer of 2026, U.S. President Donald Trump ordered the removal of weeping willow trees outside the John F. Kennedy Memorial Center for the Performing Arts in Washington, D.C.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/weeping-willows-kennedy-center/",
+      "date_published": "2026-09-02",
+      "lang": "en"
+    },
+    {
+      "claim": "This is real video of the woman who stabbed someone in NYC dancing with a pair of knives.",
+      "title": "Fact Check: FAKE Video Of Woman Who Stabbed Someone In NYC Dancing With Pair Of Knives -- It Is Digitally Edited",
+      "verdict_label": "AI Body Swap",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "This is real video of the woman who stabbed someone in NYC dancing with a pair of knives.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-fake-video-of-woman-who-stabbed-someone-in-nyc-dancing-with-pair-of-knives.html",
       "date_published": "2026-09-02",
       "lang": "en"
     },
@@ -89915,6 +90091,17 @@
       "lang": "en"
     },
     {
+      "claim": "Medical professionals should follow the Nuremberg Code in doing COVID-19 mass vaccinations since it is a form of human experimentation.",
+      "title": "FALSE: COVID-19 vaccination an experimentation, should follow Nuremberg Code",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Medical professionals should follow the Nuremberg Code in doing COVID-19 mass vaccinations since it is a form of human experimentation.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/covid-19-vaccination-experimentation-should-follow-nuremberg-code/",
+      "date_published": "2021-07-06",
+      "lang": "en"
+    },
+    {
       "claim": "The US government has declared former ICC prosecutor Fatou Bensouda a persona non grata.",
       "title": "FALSE: US gov’t declares former ICC prosecutor Bensouda persona non grata",
       "verdict_label": "False",
@@ -96214,6 +96401,17 @@
       "explanation": "This woman was raped and murdered by BJP supporters in West Bengal.",
       "source_name": "India Today",
       "source_url": "https://www.indiatoday.in/fact-check/story/bangladesh-rape-murder-video-falsely-shared-as-west-bengal-bjp-crime-2980444-2026-08-26",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "The video claims to show a Hindu female teacher being assaulted by a Muslim mob in Bangladesh.",
+      "title": "PTI Fact Check: Video of Muslim woman assaulted in Bangladesh falsely shared with communal spin linking victim's identity to Hindu",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "The video claims to show a Hindu female teacher being assaulted by a Muslim mob in Bangladesh.",
+      "source_name": "Press Trust of India",
+      "source_url": "https://www.ptinews.com/fact-detail/video-of-muslim-woman-assaulted-in-bangladesh-falsely-shared-with-communal-spin-linking-victims-identity-to-hindu/4030923",
       "date_published": "",
       "lang": "en"
     }
