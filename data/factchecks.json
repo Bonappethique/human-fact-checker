@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T07:32:04Z",
-  "total_count": 8752,
+  "last_updated": "2026-09-06T07:45:35Z",
+  "total_count": 8758,
   "sources": [
     "11Alive.com",
     "12News",
@@ -184,6 +184,72 @@
       "explanation": "An image authentically shows a French map from 1688 that replaced the name \"Lac Ontario\" with \"Lac America.\"",
       "source_name": "Snopes.com",
       "source_url": "https://www.snopes.com/fact-check/lake-ontario-called-lac-america/",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Mark Carney promotes \"World Water Reserve\" crypto amid trade war",
+      "title": "Carney deepfake, US trade tensions used to promote crypto investments",
+      "verdict_label": "Altered video",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Mark Carney promotes \"World Water Reserve\" crypto amid trade war",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C7AH2TD",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Un phénomène dangereux cible les automobilistes de nuit en France",
+      "title": "VÉRIF' - Les vols nocturnes d'automobilistes se multiplient-ils, comme l'affirment ces vidéos TikTok ?",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un phénomène dangereux cible les automobilistes de nuit en France",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/justice-faits-divers/verif-les-vols-nocturnes-d-automobilistes-se-multiplient-ils-comme-l-affirment-ces-videos-tiktok-2462373.html",
+      "date_published": "2026-09-04",
+      "lang": "fr"
+    },
+    {
+      "claim": "Adding a stamp to a postage prepaid ballot will “force” the U.S. Postal Service to handle it as first-class mail instead of bulk.",
+      "title": "Why adding a stamp to your ballot won't make it first-class mail",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Adding a stamp to a postage prepaid ballot will “force” the U.S. Postal Service to handle it as first-class mail instead of bulk.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/usps-stamp-ballot-first-class-mail/",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "A recent U.S. military deployment along the southern border with Mexico.",
+      "title": "Does the Footage Show a Recent U.S. Military Deployment at the Mexico Border?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A recent U.S. military deployment along the southern border with Mexico.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/04/does-footage-show-recent-us-military-deployment-mexico-border",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "A video from the Epstein files shows young children and a pregnant woman held cages.",
+      "title": "Fact Check: FAKE 'Epstein Files' Video Shows People Locked In Cages -- It Is From Horror YouTube Channel 'Life Of Luxury'",
+      "verdict_label": "Horror Skit",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A video from the Epstein files shows young children and a pregnant woman held cages.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-video-not-from-epstein-files-shows-crying-pregnant-woman-people-locked-in-cages.html",
+      "date_published": "2026-09-04",
+      "lang": "en"
+    },
+    {
+      "claim": "Video shows two young siblings separated from their parents in the aftermath of the Nepal floods",
+      "title": "Indian Media Outlets Misreport Vietnam Siblings' Video As Nepal ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Video shows two young siblings separated from their parents in the aftermath of the Nepal floods",
+      "source_name": "BOOM Fact Check",
+      "source_url": "https://www.boomlive.in/fact-check/indian-media-outlets-misreport-vietnam-siblings-video-as-nepal-32184",
       "date_published": "2026-09-04",
       "lang": "en"
     },
