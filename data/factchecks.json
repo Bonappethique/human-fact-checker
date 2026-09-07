@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T07:45:35Z",
-  "total_count": 8758,
+  "last_updated": "2026-09-07T08:05:15Z",
+  "total_count": 8761,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,39 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Iranian air defenses intercepting attacks by U.S. warplanes.",
+      "title": "Does the Video Show Iranian Air Defenses Intercepting U.S. Aircraft Attacks?",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian air defenses intercepting attacks by U.S. warplanes.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/05/does-video-show-iranian-air-defenses-intercepting-us-aircraft-attacks",
+      "date_published": "2026-09-05",
+      "lang": "en"
+    },
+    {
+      "claim": "Iranian cluster missiles striking U.S. bases in Jordan.",
+      "title": "Video Does Not Show Iranian Cluster Missiles Targeting U.S. Bases in Jordan",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Iranian cluster missiles striking U.S. bases in Jordan.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/05/video-does-not-show-iranian-cluster-missiles-targeting-us-bases-jordan",
+      "date_published": "2026-09-05",
+      "lang": "en"
+    },
+    {
+      "claim": "In early September 2026, U.S. President Donald Trump signed an executive order to change the name of New Mexico to \"New America.\"",
+      "title": "Did Trump sign executive order changing name of New Mexico to 'New America'? Here's the truth",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In early September 2026, U.S. President Donald Trump signed an executive order to change the name of New Mexico to \"New America.\"",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/rename-new-mexico-to-new-america/",
+      "date_published": "2026-09-05",
+      "lang": "en"
+    },
     {
       "claim": "As cited by the U.S. Department of Health and Human Services, a database from anti-trans group Do No Harm proves that from 2019 to 2023, more than 5,500 minors in the United States had sex change surgeries.",
       "title": "HHS report cites inaccurate data to claim more than 5,500 trans minors received 'sex change surgeries'",
