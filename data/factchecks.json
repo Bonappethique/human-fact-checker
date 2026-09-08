@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T08:05:15Z",
-  "total_count": 8761,
+  "last_updated": "2026-09-08T07:56:29Z",
+  "total_count": 8765,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,50 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Le Code du travail fait 4.000 pages en France, et seulement 49 pages en Suisse",
+      "title": "VÉRIF' - Le Code du travail fait-il 4.000 pages en France, contre ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le Code du travail fait 4.000 pages en France, et seulement 49 pages en Suisse",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-le-code-du-travail-fait-il-4000-pages-en-france-contre-seulement-49-pages-en-suisse-2462409.html",
+      "date_published": "2026-09-07",
+      "lang": "fr"
+    },
+    {
+      "claim": "A recent Iranian attack on the U.S. Arifjan base in Kuwait.",
+      "title": "Outdated Video Does Not Depict Iranian Attack on U.S. Arifjan Base in Kuwait",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "A recent Iranian attack on the U.S. Arifjan base in Kuwait.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/07/outdated-video-does-not-depict-iranian-attack-us-arifjan-base-kuwait",
+      "date_published": "2026-09-07",
+      "lang": "en"
+    },
+    {
+      "claim": "An Iranian missile striking a U.S. aircraft carrier during recent IRGC strikes.",
+      "title": "Video Does Not Show Iranian Missile Attack on U.S. Aircraft Carrier",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "An Iranian missile striking a U.S. aircraft carrier during recent IRGC strikes.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/07/video-does-not-show-iranian-missile-attack-us-aircraft-carrier",
+      "date_published": "2026-09-07",
+      "lang": "en"
+    },
+    {
+      "claim": "An image showing a policeman kicking a woman sanitation worker during a protest in Hisar is being shared as a real incident.",
+      "title": "Verified: Viral Image Of Policeman Kicking Woman In Hisar Is AI Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "An image showing a policeman kicking a woman sanitation worker during a protest in Hisar is being shared as a real incident.",
+      "source_name": "NewsMobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-viral-image-of-policeman-kicking-woman-in-hisar-is-ai-generated/",
+      "date_published": "2026-09-07",
+      "lang": "en"
+    },
     {
       "claim": "Iranian air defenses intercepting attacks by U.S. warplanes.",
       "title": "Does the Video Show Iranian Air Defenses Intercepting U.S. Aircraft Attacks?",
