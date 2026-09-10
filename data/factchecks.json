@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T07:59:21Z",
-  "total_count": 8772,
+  "last_updated": "2026-09-10T07:59:01Z",
+  "total_count": 8773,
   "sources": [
     "11Alive.com",
     "12News",
@@ -195,6 +195,17 @@
       "explanation": "HPV infection is a common side effect of the HPV vaccine.",
       "source_name": "AAP",
       "source_url": "https://www.aap.com.au/factcheck/viral-clip-spreads-misinformation-on-australian-developed-hpv-vaccines/",
+      "date_published": "2026-09-08",
+      "lang": "en"
+    },
+    {
+      "claim": "HPV infection is a common side effect of the HPV vaccine.",
+      "title": "Viral clip spreads misinformation on Australian-developed HPV ...",
+      "verdict_label": "False. HPV infection is not a side effect of HPV vaccines, which do not contain live or inactivated viruses.",
+      "verdict_category": "FAUX",
+      "explanation": "HPV infection is a common side effect of the HPV vaccine.",
+      "source_name": "AAP",
+      "source_url": "https://aap.com.au/factcheck/viral-clip-spreads-misinformation-on-australian-developed-hpv-vaccines/",
       "date_published": "2026-09-08",
       "lang": "en"
     },
