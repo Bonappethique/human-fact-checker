@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T07:59:01Z",
-  "total_count": 8773,
+  "last_updated": "2026-09-11T07:55:13Z",
+  "total_count": 8786,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,39 @@
   ],
   "factchecks": [
     {
+      "claim": "Household energy bills are the highest in Europe.",
+      "title": "Are UK household energy bills the 'highest in Europe'? – Full Fact",
+      "verdict_label": "We’ve not found official data on bills to support this claim for household energy overall. UK domestic electricity unit prices are among the highest in Europe, but gas unit prices are generally below the median.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Household energy bills are the highest in Europe.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/environment/andy-burnham-nigel-farage-household-energy-bills/",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Les femmes sont contraintes de porter des culottes dans de nombreux sports, sans raison valable ?",
+      "title": "VÉRIF' - Gym, athlé, beach-volley… Les femmes sont-elles ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les femmes sont contraintes de porter des culottes dans de nombreux sports, sans raison valable ?",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/sport/verif-gym-athle-beach-volley-les-femmes-sont-elles-contraintes-de-porter-des-culottes-dans-de-nombreux-sports-sans-raison-valable-2463439.html",
+      "date_published": "2026-09-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "Data centers siphoning water from Colorado River caused the megadrought",
+      "title": "Climate change, not data centers, behind Colorado River drought",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Data centers siphoning water from Colorado River caused the megadrought",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C6QX6ZQ",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
       "claim": "Ça suffit le coup du soit disant prix Nobel d'économie. Ce n'est pas le même prix Nobel que celui de médecine ou de physique. C'est le prix créé par une banque suédoise qu'ils ont eux-mêmes appelé \"Nobel\" en prétendu hommage à l'inventeur de la dynamite.",
       "title": "VRAI OU FAUX. Le \"Nobel\" d'économie est-il un \"soi-disant\" prix ...",
       "verdict_label": "Plutôt Vrai",
@@ -173,6 +206,94 @@
       "explanation": "The bird flu vaccine being used on Australia's penguins is an mRNA vaccine.",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.C7423WM",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Turkish police will guard the first parliamentary elections in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) and arrest violators of election laws.",
+      "title": "FACT CHECK: No Turkish police deployed to secure BARMM polls",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Turkish police will guard the first parliamentary elections in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) and arrest violators of election laws.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/no-turkish-police-secure-barmm-parliamentary-elections-2026/",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "MI5, the U.K.’s internal and domestic security agency, used Boy Scouts as messengers during World War I but replaced them with Girl Guides because the Boy Scouts were too noisy and less reliable.",
+      "title": "Why MI5 swapped Boy Scouts for Girl Guide messengers during WWI",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "MI5, the U.K.’s internal and domestic security agency, used Boy Scouts as messengers during World War I but replaced them with Girl Guides because the Boy Scouts were too noisy and less reliable.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/mi5-boy-girl-scouts-wwi/",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Le téléphon est la cause principale de la chute de la France au classement Pisa",
+      "title": "VÉRIF' - Enquête Pisa : le téléphone est-il la cause principale de la chute du niveau des élèves français ?",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le téléphon est la cause principale de la chute de la France au classement Pisa",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-enquete-pisa-france-le-telephone-et-les-reseaux-sociaux-sont-ils-la-cause-principale-de-la-chute-du-niveau-des-eleves-francais-2463271.html",
+      "date_published": "2026-09-09",
+      "lang": "fr"
+    },
+    {
+      "claim": "Cette image montre un manifestant blessé lors d'une manifestation en France",
+      "title": "Attention à cette image d'un \"homme âgé au visage ensanglanté ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Cette image montre un manifestant blessé lors d'une manifestation en France",
+      "source_name": "De Facto",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-cette-image-d-un-homme-age-au-visage-ensanglante-manifestant-en-France/",
+      "date_published": "2026-09-09",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump posted an animated video of himself repeatedly hitting Canadian Prime Minister Mark Carney on his Truth Social account in September 2026.",
+      "title": "Did Trump post video of himself hitting Mark Carney with hockey stick? Here's the truth",
+      "verdict_label": "Mostly False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump posted an animated video of himself repeatedly hitting Canadian Prime Minister Mark Carney on his Truth Social account in September 2026.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/trump-carney-hockey-stick-video/",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Does the AI-generated image shared by Donald Trump on Truth Social show the real, official next-generation U.S. Space Force Service Dress Uniform?",
+      "title": "Fact Check: NO Evidence AI-Generated Image Trump Shared Is Official New Space Force Uniform",
+      "verdict_label": "No Proof",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Does the AI-generated image shared by Donald Trump on Truth Social show the real, official next-generation U.S. Space Force Service Dress Uniform?",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-no-evidence-ai-generated-image-trump-actual-space-force-uniform-proposal.html",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "Damage to a U.S. warship following a recent Iranian attack in the Strait of Hormuz.",
+      "title": "Outdated Image Does Not Show a Recent Attack on a U.S. Warship in the Strait of Hormuz",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Damage to a U.S. warship following a recent Iranian attack in the Strait of Hormuz.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/09/outdated-image-does-not-show-recent-attack-us-warship-strait-hormuz",
+      "date_published": "2026-09-09",
+      "lang": "en"
+    },
+    {
+      "claim": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "title": "Misleading ‘fact’ sheet about UK Muslims recirculates – Full Fact",
+      "verdict_label": "According to the 2021 census, an estimated 49% of adult Muslims were in employment, and 27% of Muslim households in England and Wales lived in social housing. We don’t know how many people who receive benefits are Muslim.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/culture-and-society/misleading-fact-sheet-muslims-recirculates/",
       "date_published": "2026-09-09",
       "lang": "en"
     },
@@ -90124,6 +90245,17 @@
       "lang": "en"
     },
     {
+      "claim": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "title": "List of claims about Muslims in Britain reappears on social media – Full Fact",
+      "verdict_label": "2021 Census data found that 37% of Muslim women aged 16 and over were in employment, and 60% of Muslim men—meaning these figures are incorrect.",
+      "verdict_category": "FAUX",
+      "explanation": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/online/muslims-in-uk-facebook-list/",
+      "date_published": "2023-12-21",
+      "lang": "en"
+    },
+    {
       "claim": "Methane from cows is only a small percentage of total greenhouse gas emissions, it would be produced anyways without cattle, it is not an important contributor to climate change",
       "title": "Viral claim that cow burps are not an important contributor to climate ...",
       "verdict_label": "Misleading",
@@ -90199,6 +90331,17 @@
       "source_url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Oui-janvier-1985-a-bien-ete-un-mois-particulierement-froid/?rev=2.1",
       "date_published": "2023-01-27",
       "lang": "fr"
+    },
+    {
+      "claim": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "title": "‘Facts’ in a graphic about UK Muslims are mostly wrong – Full Fact",
+      "verdict_label": "These numbers are exaggerated. In 2021/22, an estimated 44% of Muslims were either unemployed or economically inactive in Great Britain. We don’t know how many receive benefits. Old census data from 2011 shows 27% of Muslim households in England and Wales lived in social housing.",
+      "verdict_category": "TROMPEUR",
+      "explanation": "78% of Muslim women and 63% of Muslim men don’t work and receive free benefits or housing.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/online/muslims-in-the-uk/",
+      "date_published": "2022-12-21",
+      "lang": "en"
     },
     {
       "claim": "Vice President Kamala Harris introduced herself at a meeting using \"she/her\" pronouns and added, \"I am a woman sitting at the table wearing a blue suit.\"",
