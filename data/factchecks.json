@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T07:55:13Z",
-  "total_count": 8786,
+  "last_updated": "2026-09-12T07:47:39Z",
+  "total_count": 8797,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,39 @@
   ],
   "factchecks": [
     {
+      "claim": "Un classement montre que la France est en tête des pays les plus dangereux d'Europe",
+      "title": "VÉRIF' - La France est-elle en tête des pays les plus dangereux d ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Un classement montre que la France est en tête des pays les plus dangereux d'Europe",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/justice-faits-divers/verif-la-france-est-elle-en-tete-des-pays-les-plus-dangereux-d-europe-2463725.html",
+      "date_published": "2026-09-11",
+      "lang": "fr"
+    },
+    {
+      "claim": "On Sept. 8, 2026, U.S. President Donald Trump said in a speech that he helped save victims of the 1912 sinking of the RMS Titanic.",
+      "title": "Did Trump say he saved people on Titanic? Here's the truth",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "On Sept. 8, 2026, U.S. President Donald Trump said in a speech that he helped save victims of the 1912 sinking of the RMS Titanic.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-titanic-quote/",
+      "date_published": "2026-09-11",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows U.S. President Donald Trump’s Fordham University transcript with a grade point average of 1.28.",
+      "title": "Does image show Trump's low grades at Fordham University?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image authentically shows U.S. President Donald Trump’s Fordham University transcript with a grade point average of 1.28.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-fordham-grades/",
+      "date_published": "2026-09-11",
+      "lang": "en"
+    },
+    {
       "claim": "Household energy bills are the highest in Europe.",
       "title": "Are UK household energy bills the 'highest in Europe'? – Full Fact",
       "verdict_label": "We’ve not found official data on bills to support this claim for household energy overall. UK domestic electricity unit prices are among the highest in Europe, but gas unit prices are generally below the median.",
@@ -173,6 +206,72 @@
       "explanation": "Data centers siphoning water from Colorado River caused the megadrought",
       "source_name": "AFP Fact Check",
       "source_url": "https://factcheck.afp.com/doc.afp.com.C6QX6ZQ",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Le blocage des prix du carburant ne coûte pas un seul euro d'argent public",
+      "title": "VÉRIF' - Blocage des prix du carburant : une mesure qui ne coûte ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Le blocage des prix du carburant ne coûte pas un seul euro d'argent public",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-blocage-des-prix-du-carburant-une-mesure-qui-ne-coute-pas-un-seul-euro-d-argent-public-vraiment-2463427.html",
+      "date_published": "2026-09-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "Arizona Sen. Mark Kelly Is Dropping Bid For Re-Election.",
+      "title": "Fact Check: Arizona Sen. Mark Kelly Is NOT Dropping Bid For Re-Election -- It's Satire",
+      "verdict_label": "Satire Origin",
+      "verdict_category": "SATIRE",
+      "explanation": "Arizona Sen. Mark Kelly Is Dropping Bid For Re-Election.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-arizona-sen-mark-kelly-not-dropping-bid-for-reelection-its-satire.html",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Une carte montrant les entrées illégales de migrants en Europe",
+      "title": "Attention à cette carte prétendant montrer les entrées illégales de migrants entre 2008 et 2024",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une carte montrant les entrées illégales de migrants en Europe",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C6827CQ",
+      "date_published": "2026-09-10",
+      "lang": "fr"
+    },
+    {
+      "claim": "U.S. President Donald Trump has promised $5,000 to every American adult if the Republicans win majority control of the Senate and House of Representatives in the 2026 midterm elections.",
+      "title": "Trump pledged $5K 'dividend' to every US adult if GOP wins midterms. Can he do that?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump has promised $5,000 to every American adult if the Republicans win majority control of the Senate and House of Representatives in the 2026 midterm elections.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-5000-dollar-dividend/",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
+      "claim": "Shortly after Turning Point USA CEO Charlie Kirk was fatally shot in September 2025, his wife, Erika Kirk, announced she was pregnant with their third child.",
+      "title": "False claim about Erika Kirk pregnancy announcement recirculates 1 year after husband's death",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Shortly after Turning Point USA CEO Charlie Kirk was fatally shot in September 2025, his wife, Erika Kirk, announced she was pregnant with their third child.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/erika-kirk-pregnancy-announcement/",
+      "date_published": "2026-09-10",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot authentically shows a social media post from U.S. President Donald Trump that said, “Unless Canada agrees to pay a 100% TARIFF on Niagara Falls, we will be turning off the tap to the falls. That's right — NO WATER FOR CANADA!\"",
+      "title": "Did Trump threaten to turn off Niagara Falls water unless Canada pays tariff?",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "A screenshot authentically shows a social media post from U.S. President Donald Trump that said, “Unless Canada agrees to pay a 100% TARIFF on Niagara Falls, we will be turning off the tap to the falls. That's right — NO WATER FOR CANADA!\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-niagara-falls-post/",
       "date_published": "2026-09-10",
       "lang": "en"
     },
@@ -96786,6 +96885,28 @@
       "explanation": "The video claims to show a Hindu female teacher being assaulted by a Muslim mob in Bangladesh.",
       "source_name": "Press Trust of India",
       "source_url": "https://www.ptinews.com/fact-detail/video-of-muslim-woman-assaulted-in-bangladesh-falsely-shared-with-communal-spin-linking-victims-identity-to-hindu/4030923",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Across nearly 700,000 workers, shift work is associated with a real but modest body composition change — higher BMI and increased body fat — with the effect concentrated among men, those with 13+ years of exposure, and industrial workers, while female and healthcare workers in the studies analyzed show no significant difference from day workers.",
+      "title": "Night Shifts and Body Composition — Who's Actually Affected?",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "Across nearly 700,000 workers, shift work is associated with a real but modest body composition change — higher BMI and increased body fat — with the effect concentrated among men, those with 13+ years of exposure, and industrial workers, while female and healthcare workers in the studies analyzed show no significant difference from day workers.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/claims/shift-body-comp-change/",
+      "date_published": "",
+      "lang": "en"
+    },
+    {
+      "claim": "Across nearly 700,000 workers, shift work is associated with a real but modest body composition change — higher BMI and increased body fat — with the effect concentrated among men, those with 13+ years of exposure, and industrial workers, while female and healthcare workers in the studies analyzed show no significant difference from day workers.",
+      "title": "Night shift, weight gain, and what actually works: the complete evidence",
+      "verdict_label": "Certainty Tier Moderate Certainty",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Across nearly 700,000 workers, shift work is associated with a real but modest body composition change — higher BMI and increased body fat — with the effect concentrated among men, those with 13+ years of exposure, and industrial workers, while female and healthcare workers in the studies analyzed show no significant difference from day workers.",
+      "source_name": "FitChef",
+      "source_url": "https://fitchef.com/library/chrononutrition-shift-work/",
       "date_published": "",
       "lang": "en"
     }
