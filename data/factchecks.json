@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T07:47:39Z",
-  "total_count": 8797,
+  "last_updated": "2026-09-13T08:08:20Z",
+  "total_count": 8799,
   "sources": [
     "11Alive.com",
     "12News",
@@ -173,6 +173,28 @@
       "explanation": "An image authentically shows U.S. President Donald Trump’s Fordham University transcript with a grade point average of 1.28.",
       "source_name": "Snopes.com",
       "source_url": "https://www.snopes.com/fact-check/trump-fordham-grades/",
+      "date_published": "2026-09-11",
+      "lang": "en"
+    },
+    {
+      "claim": "All US visa appointments canceled in August 2026",
+      "title": "Posts overstate US visa appointment suspensions | Fact Check",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "All US visa appointments canceled in August 2026",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C7XG2WE",
+      "date_published": "2026-09-11",
+      "lang": "en"
+    },
+    {
+      "claim": "In September 2026, Canadian Prime Minister Mark Carney offered Americans $6,000 to vote against Republicans.",
+      "title": "Did Mark Carney offer Americans $6K to vote against Republicans?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "In September 2026, Canadian Prime Minister Mark Carney offered Americans $6,000 to vote against Republicans.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/mark-carney-offer-americans-6000/",
       "date_published": "2026-09-11",
       "lang": "en"
     },
