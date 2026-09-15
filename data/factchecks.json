@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T08:42:43Z",
-  "total_count": 8799,
+  "last_updated": "2026-09-15T08:30:54Z",
+  "total_count": 8801,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,28 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "On compte en France 9 millions de mètres carrés de bureaux inutilisés",
+      "title": "VÉRIF' - Pénurie de logements : y a-t-il \"9 millions de mètres carrés ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "On compte en France 9 millions de mètres carrés de bureaux inutilisés",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/immobilier/verif-immobilier-penurie-de-logements-compte-t-on-en-france-9-millions-de-metres-carres-de-bureaux-inutilises-2464149.html",
+      "date_published": "2026-09-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "Sen. Marsha Blackburn said she would bring back school segregation if elected governor of Tennessee.",
+      "title": "Marsha Blackburn didn't say she would bring back school segregation in Tennessee if elected governor",
+      "verdict_label": "Labeled Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "Sen. Marsha Blackburn said she would bring back school segregation if elected governor of Tennessee.",
+      "source_name": "Snopes",
+      "source_url": "https://www.snopes.com/fact-check/marsha-blackburn-tennessee-school-segregation/",
+      "date_published": "2026-09-12",
+      "lang": "en"
+    },
     {
       "claim": "Un classement montre que la France est en tête des pays les plus dangereux d'Europe",
       "title": "VÉRIF' - La France est-elle en tête des pays les plus dangereux d ...",
