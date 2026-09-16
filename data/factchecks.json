@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T08:30:54Z",
-  "total_count": 8801,
+  "last_updated": "2026-09-16T08:25:00Z",
+  "total_count": 8815,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,94 @@
   ],
   "factchecks": [
     {
+      "claim": "Bill Gates wrote an article titled ‘Depopulation Through Forced Vaccination: The Zero Carbon Solution!’ in 2011, which now cannot be found anywhere.",
+      "title": "False claims Bill Gates wrote an article on depopulating the earth with ‘forced vaccines’ recirculate – Full Fact",
+      "verdict_label": "The article was not written by Mr Gates and is available online. We can find no evidence Mr Gates has written or said anything about killing people through forced vaccines.",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Bill Gates wrote an article titled ‘Depopulation Through Forced Vaccination: The Zero Carbon Solution!’ in 2011, which now cannot be found anywhere.",
+      "source_name": "Full Fact",
+      "source_url": "https://fullfact.org/health/bill-gates-vaccine-depopulation-article/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "A screenshot shared online in September 2026 authentically shows a 2012 tweet from U.S. President Donald Trump, reading, \"Don't let Obama buy the election by handing out unlimited free money to states.\"",
+      "title": "Old Trump post about Obama using handouts to buy election spreads online after $5K 'dividend' promise",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A screenshot shared online in September 2026 authentically shows a 2012 tweet from U.S. President Donald Trump, reading, \"Don't let Obama buy the election by handing out unlimited free money to states.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-obama-post-dividend-promise/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Ahead of the November 2026 U.S. midterm elections, Postmaster General David Steiner said there are ways he'd block mail-in ballots. As a result, voters should skip the mail and instead deliver completed ballots in designated drop boxes.",
+      "title": "Did US postmaster general say he'd block mail-in ballots? Claim distorts facts",
+      "verdict_label": "Mixture",
+      "verdict_category": "NUANCÉ",
+      "explanation": "Ahead of the November 2026 U.S. midterm elections, Postmaster General David Steiner said there are ways he'd block mail-in ballots. As a result, voters should skip the mail and instead deliver completed ballots in designated drop boxes.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/postmaster-general-block-ballots/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "An image authentically shows an interview with a man with a massive face tattoo of U.S. President Donald Trump, claiming he was rejected for a job because of his red MAGA hat.",
+      "title": "Did man with Trump face tattoo claim job rejected him over MAGA hat?",
+      "verdict_label": "Originated as Satire",
+      "verdict_category": "SATIRE",
+      "explanation": "An image authentically shows an interview with a man with a massive face tattoo of U.S. President Donald Trump, claiming he was rejected for a job because of his red MAGA hat.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/man-trump-tattoo-face/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump helped a farmer's widow clear her debts to keep her farm in Georgia after her husband died by suicide trying to stop it being auctioned off.",
+      "title": "A Georgia widow's farm faced foreclosure. Then Trump stepped in to help",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "U.S. President Donald Trump helped a farmer's widow clear her debts to keep her farm in Georgia after her husband died by suicide trying to stop it being auctioned off.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-georgia-widow-farm-foreclosure/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "The Chinese government issued a nationwide alert telling people not to communicate with aliens and to contact the United Nations if extraterrestrial life reaches out to them.",
+      "title": "Did Chinese government warn people not to respond to aliens and call UN hotline instead?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Chinese government issued a nationwide alert telling people not to communicate with aliens and to contact the United Nations if extraterrestrial life reaches out to them.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/china-warning-aliens-un-hotline/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "An image dated July 14, 1985, legitimately shows U.S. President Donald Trump and Jeffrey Epstein shirtless and on a boat together.",
+      "title": "Is image of shirtless Trump and Epstein on boat real? Don't be fooled",
+      "verdict_label": "Fake",
+      "verdict_category": "FAUX",
+      "explanation": "An image dated July 14, 1985, legitimately shows U.S. President Donald Trump and Jeffrey Epstein shirtless and on a boat together.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/image-trump-epstein-shirtless-boat/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "The viral video shows an Indian women’s player taking an incredible catch against New Zealand in the 2026 Women’s Cricket Asia Cup.",
+      "title": "Verified: Viral Video Of Indian Women’s Cricketer Taking Incredible Catch Is AI Generated",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The viral video shows an Indian women’s player taking an incredible catch against New Zealand in the 2026 Women’s Cricket Asia Cup.",
+      "source_name": "NewsMobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-viral-video-of-indian-womens-cricketer-taking-incredible-catch-is-ai-generated/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
       "claim": "On compte en France 9 millions de mètres carrés de bureaux inutilisés",
       "title": "VÉRIF' - Pénurie de logements : y a-t-il \"9 millions de mètres carrés ...",
       "verdict_label": "En partie vrai",
@@ -153,6 +241,61 @@
       "source_url": "https://www.tf1info.fr/immobilier/verif-immobilier-penurie-de-logements-compte-t-on-en-france-9-millions-de-metres-carres-de-bureaux-inutilises-2464149.html",
       "date_published": "2026-09-14",
       "lang": "fr"
+    },
+    {
+      "claim": "Une photo de Fabien Roussel devant une vaste foule à la fête de l'Humanité a été générée par intelligence artificielle",
+      "title": "VÉRIF' - Fête de l'Humanité : cette photo de Fabien Roussel devant ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une photo de Fabien Roussel devant une vaste foule à la fête de l'Humanité a été générée par intelligence artificielle",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/politique/verif-fete-de-l-humanite-cette-photo-de-fabien-roussel-devant-une-vaste-foule-a-t-elle-ete-generee-par-intelligence-artificielle-2464067.html",
+      "date_published": "2026-09-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "An automated counting machine (ACM) in Butig, Lanao del Sur altered the ballot cast during the first Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) parliamentary elections.",
+      "title": "FACT CHECK: Comelec debunks claim of ACMs altering votes in Lanao del Sur",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "An automated counting machine (ACM) in Butig, Lanao del Sur altered the ballot cast during the first Bangsamoro Autonomous Region in Muslim Mindanao (BARMM) parliamentary elections.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/comelec-debunks-acm-altering-votes-lanao-del-sur/",
+      "date_published": "2026-09-14",
+      "lang": "en"
+    },
+    {
+      "claim": "Une carte montrant les entrées illégales de migrants en Europe",
+      "title": "Attention à cette carte prétendant montrer les entrées illégales de migrants entre 2008 et 2024",
+      "verdict_label": "Trompeur",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Une carte montrant les entrées illégales de migrants en Europe",
+      "source_name": "DE FACTO",
+      "source_url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-cette-carte-pretendant-montrer-les-entrees-illegales-de-migrants-entre-2008-et-2024/",
+      "date_published": "2026-09-14",
+      "lang": "fr"
+    },
+    {
+      "claim": "A video clip authentically showed New York City Mayor Zohran Mamdani and U.S. Rep. Alexandria Ocasio-Cortez sharing a smile and a laugh as victims' names were being read during a ceremony marking the 25th anniversary of the 9/11 terrorist attacks.",
+      "title": "Does video show Mamdani and AOC smiling, laughing at 9/11 ceremony? Claim omits key context",
+      "verdict_label": "True",
+      "verdict_category": "VRAI",
+      "explanation": "A video clip authentically showed New York City Mayor Zohran Mamdani and U.S. Rep. Alexandria Ocasio-Cortez sharing a smile and a laugh as victims' names were being read during a ceremony marking the 25th anniversary of the 9/11 terrorist attacks.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/mamdani-aoc-laughing-911-ceremony/",
+      "date_published": "2026-09-14",
+      "lang": "en"
+    },
+    {
+      "claim": "U.S. President Donald Trump drafted written instructions in case he dies in office, requesting a simple funeral and calling for: \"No gold. No extravagance. No expensive casket. Military honors only.\"",
+      "title": "Did Trump write these requests for 'simple' funeral if he dies in office?",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "U.S. President Donald Trump drafted written instructions in case he dies in office, requesting a simple funeral and calling for: \"No gold. No extravagance. No expensive casket. Military honors only.\"",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/trump-simple-funeral-requests/",
+      "date_published": "2026-09-14",
+      "lang": "en"
     },
     {
       "claim": "Sen. Marsha Blackburn said she would bring back school segregation if elected governor of Tennessee.",
@@ -90462,6 +90605,17 @@
       "source_name": "Snopes",
       "source_url": "https://www.snopes.com/fact-check/eastman-kodak-invented-first-digital-camera/",
       "date_published": "2023-07-30",
+      "lang": "en"
+    },
+    {
+      "claim": "The Philippines’ projected GDP growth rate of 6% for 2023 is ranked first in Asia, according to the April 2023 World Economic Outlook report by the International Monetary Fund.",
+      "title": "FACT CHECK: PH's projected 6% GDP growth for 2023 not ranked first in Asia",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The Philippines’ projected GDP growth rate of 6% for 2023 is ranked first in Asia, according to the April 2023 World Economic Outlook report by the International Monetary Fund.",
+      "source_name": "Rappler",
+      "source_url": "https://www.rappler.com/newsbreak/fact-check/philippines-projected-gdp-growth-2023-not-ranked-first-asia/",
+      "date_published": "2023-04-25",
       "lang": "en"
     },
     {
