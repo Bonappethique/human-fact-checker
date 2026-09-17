@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T08:25:00Z",
-  "total_count": 8815,
+  "last_updated": "2026-09-17T08:30:31Z",
+  "total_count": 8821,
   "sources": [
     "11Alive.com",
     "12News",
@@ -144,6 +144,50 @@
   ],
   "factchecks": [
     {
+      "claim": "\"Aujourd'hui, 70% des Français sont éligibles au parc social et seulement 11% en bénéficient\"",
+      "title": "VRAI OU FAUX. Est-il vrai que \"70% des Français sont éligibles\" à ...",
+      "verdict_label": "Plutôt Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "\"Aujourd'hui, 70% des Français sont éligibles au parc social et seulement 11% en bénéficient\"",
+      "source_name": "franceinfo",
+      "source_url": "https://www.franceinfo.fr/economie/vrai-ou-faux-est-il-vrai-que-70-des-francais-sont-eligibles-a-un-logement-du-parc-social-et-que-seulement-11-d-entre-eux-en-beneficient-comme-l-affirme-marine-le-pen_8195210.html",
+      "date_published": "2026-09-17",
+      "lang": "fr"
+    },
+    {
+      "claim": "L'Europe a officiellement reconnu que les éoliennes \"libèrent des particules de plastique\"",
+      "title": "VÉRIF' - L'Europe a-t-elle \"officiellement confirmé\" que les éoliennes ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "L'Europe a officiellement reconnu que les éoliennes \"libèrent des particules de plastique\"",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/environnement-ecologie/verif-l-europe-a-t-elle-officiellement-reconnu-que-les-eoliennes-liberent-des-particules-de-plastique-2464501.html",
+      "date_published": "2026-09-16",
+      "lang": "fr"
+    },
+    {
+      "claim": "Woman was seen bathing in Haridwar's Ganga river wearing a bikini",
+      "title": "Doctored video of woman bathing in Ganga in bikini goes viral",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Woman was seen bathing in Haridwar's Ganga river wearing a bikini",
+      "source_name": "Alt News",
+      "source_url": "https://www.altnews.in/doctored-video-of-woman-bathing-in-ganga-in-bikini-goes-viral/",
+      "date_published": "2026-09-16",
+      "lang": "en"
+    },
+    {
+      "claim": "Video of Shah Rukh Khan And Gauri Khan Promoting Social Media Account",
+      "title": "Verified: Shah Rukh Khan And Gauri Khan Falsely Shown ...",
+      "verdict_label": "AI-Generated",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Video of Shah Rukh Khan And Gauri Khan Promoting Social Media Account",
+      "source_name": "NewsMobile",
+      "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-shah-rukh-khan-and-gauri-khan-falsely-shown-promoting-social-media-account/",
+      "date_published": "2026-09-16",
+      "lang": "en"
+    },
+    {
       "claim": "Bill Gates wrote an article titled ‘Depopulation Through Forced Vaccination: The Zero Carbon Solution!’ in 2011, which now cannot be found anywhere.",
       "title": "False claims Bill Gates wrote an article on depopulating the earth with ‘forced vaccines’ recirculate – Full Fact",
       "verdict_label": "The article was not written by Mr Gates and is available online. We can find no evidence Mr Gates has written or said anything about killing people through forced vaccines.",
@@ -228,6 +272,28 @@
       "explanation": "The viral video shows an Indian women’s player taking an incredible catch against New Zealand in the 2026 Women’s Cricket Asia Cup.",
       "source_name": "NewsMobile",
       "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-viral-video-of-indian-womens-cricketer-taking-incredible-catch-is-ai-generated/",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "IRGC seizing a U.S. oil tanker in an aerial operation while it was en route to the U.S.",
+      "title": "Outdated Video Does Not Show Iran’s IRGC Seizing a U.S. Oil Tanker",
+      "verdict_label": "misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "IRGC seizing a U.S. oil tanker in an aerial operation while it was en route to the U.S.",
+      "source_name": "Inconnu",
+      "source_url": "https://www.misbar.com/en/factcheck/2026/09/15/outdated-video-does-not-show-iran%E2%80%99s-irgc-seizing-us-oil-tanker",
+      "date_published": "2026-09-15",
+      "lang": "en"
+    },
+    {
+      "claim": "Nikki Haley said she wants to bring Palestinian refugees to the US",
+      "title": "Fact Check: Nikki Haley Did NOT Say She Wants To Bring Palestinian Refugees To The U.S. -- She Called It 'A Total Lie'",
+      "verdict_label": "She Denied It",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Nikki Haley said she wants to bring Palestinian refugees to the US",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-nikki-haley-did-not-say-she-wants-to-bring-palestinian-refugees-to-the-us.html",
       "date_published": "2026-09-15",
       "lang": "en"
     },
