@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T08:30:31Z",
-  "total_count": 8821,
+  "last_updated": "2026-09-18T08:05:23Z",
+  "total_count": 8824,
   "sources": [
     "11Alive.com",
     "12News",
@@ -155,6 +155,28 @@
       "lang": "fr"
     },
     {
+      "claim": "A real video shows food from Europe and America compared.",
+      "title": "Fact Check: FAKE Video Shows Foods From Europe And America ...",
+      "verdict_label": "Made With AI",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A real video shows food from Europe and America compared.",
+      "source_name": "Lead Stories",
+      "source_url": "https://leadstories.com/hoax-alert/2026/09/fact-check-fake-video-shows-foods-form-europe-and-america-compared.html",
+      "date_published": "2026-09-17",
+      "lang": "en"
+    },
+    {
+      "claim": "The people who assassinated or attempted to assassinate presidents Abraham Lincoln, John F. Kennedy, Ronald Reagan and Donald Trump; Attorney General Robert F. Kennedy; civil rights activist Martin Luther King Jr.; and conservative pundit Charlie Kirk all were registered Democrats.",
+      "title": "Claim Democrats shot 4 presidents, MLK Jr. and Charlie Kirk gets ...",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "The people who assassinated or attempted to assassinate presidents Abraham Lincoln, John F. Kennedy, Ronald Reagan and Donald Trump; Attorney General Robert F. Kennedy; civil rights activist Martin Luther King Jr.; and conservative pundit Charlie Kirk all were registered Democrats.",
+      "source_name": "Snopes.com",
+      "source_url": "https://www.snopes.com/fact-check/democrats-assassination-attempts-charlie-kirk-presidents/",
+      "date_published": "2026-09-17",
+      "lang": "en"
+    },
+    {
       "claim": "L'Europe a officiellement reconnu que les éoliennes \"libèrent des particules de plastique\"",
       "title": "VÉRIF' - L'Europe a-t-elle \"officiellement confirmé\" que les éoliennes ...",
       "verdict_label": "Plutôt faux",
@@ -186,6 +208,17 @@
       "source_url": "https://www.newsmobile.in/nm-fact-checker/verified-shah-rukh-khan-and-gauri-khan-falsely-shown-promoting-social-media-account/",
       "date_published": "2026-09-16",
       "lang": "en"
+    },
+    {
+      "claim": "Les Français seulement 11% à vivre dans un logement social, alors que 70% y sont éligibles",
+      "title": "VÉRIF' - Les Français sont-ils seulement 11% à vivre dans un ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "Les Français seulement 11% à vivre dans un logement social, alors que 70% y sont éligibles",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/immobilier/verif-les-francais-sont-ils-seulement-11-a-vivre-dans-un-logement-social-alors-que-70-y-sont-eligibles-2464373.html",
+      "date_published": "2026-09-16",
+      "lang": "fr"
     },
     {
       "claim": "Bill Gates wrote an article titled ‘Depopulation Through Forced Vaccination: The Zero Carbon Solution!’ in 2011, which now cannot be found anywhere.",
