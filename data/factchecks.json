@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T08:05:23Z",
-  "total_count": 8824,
+  "last_updated": "2026-09-19T07:55:02Z",
+  "total_count": 8830,
   "sources": [
     "11Alive.com",
     "12News",
@@ -143,6 +143,72 @@
     "منصة (تأكد)"
   ],
   "factchecks": [
+    {
+      "claim": "Australia's treaty with Nauru includes provisions on citizenship rights.",
+      "title": "Anti-immigration posts misrepresent old Australia-Nauru treaty",
+      "verdict_label": "False",
+      "verdict_category": "FAUX",
+      "explanation": "Australia's treaty with Nauru includes provisions on citizenship rights.",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C8BU8WJ",
+      "date_published": "2026-09-18",
+      "lang": "en"
+    },
+    {
+      "claim": "A partir de 2028, le prix du carburant va augmenter de 15 centimes à cause d'une nouvelle règle européenne",
+      "title": "VÉRIF' - Le carburant va-t-il augmenter de 15 centimes à cause d ...",
+      "verdict_label": "En partie vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "A partir de 2028, le prix du carburant va augmenter de 15 centimes à cause d'une nouvelle règle européenne",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/economie/verif-le-carburant-va-t-il-augmenter-de-15-centimes-a-cause-d-une-nouvelle-regle-europeenne-2464950.html",
+      "date_published": "2026-09-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France détient le record d'Europe des dividendes versés par les entreprises",
+      "title": "VÉRIF' - La France, championne d’Europe des dividendes versés ...",
+      "verdict_label": "Plutôt vrai",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France détient le record d'Europe des dividendes versés par les entreprises",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/economie/verif-la-france-detient-elle-le-record-d-europe-de-dividendes-verses-par-les-entreprises-comme-le-dit-eric-coquerel-de-lfi-2464935.html",
+      "date_published": "2026-09-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France compte sept millions de bénéficiaires en trop inscrits à l'Assurance maladie",
+      "title": "VÉRIF' - La France compte-t-elle 7 millions de bénéficiaires en trop ...",
+      "verdict_label": "Plutôt faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France compte sept millions de bénéficiaires en trop inscrits à l'Assurance maladie",
+      "source_name": "TF1 Info",
+      "source_url": "https://www.tf1info.fr/societe/verif-la-france-compte-t-elle-7-millions-de-beneficiaires-en-trop-inscrits-a-l-assurance-maladie-2464795.html",
+      "date_published": "2026-09-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "La France fait un don de préservatifs à la Côte d'Ivoire",
+      "title": "L'Ambassade de France n'a pas fait don de préservatifs au ministère ...",
+      "verdict_label": "Faux",
+      "verdict_category": "INDÉTERMINÉ",
+      "explanation": "La France fait un don de préservatifs à la Côte d'Ivoire",
+      "source_name": "Factuel AFP",
+      "source_url": "https://factuel.afp.com/doc.afp.com.C8NL863",
+      "date_published": "2026-09-18",
+      "lang": "fr"
+    },
+    {
+      "claim": "Vaccines should only be considered safe following placebo-controlled tests",
+      "title": "RFK Jr rehashes vaccine misinformation in address to Children's ...",
+      "verdict_label": "Misleading",
+      "verdict_category": "TROMPEUR",
+      "explanation": "Vaccines should only be considered safe following placebo-controlled tests",
+      "source_name": "AFP Fact Check",
+      "source_url": "https://factcheck.afp.com/doc.afp.com.C8MX9NW",
+      "date_published": "2026-09-18",
+      "lang": "en"
+    },
     {
       "claim": "\"Aujourd'hui, 70% des Français sont éligibles au parc social et seulement 11% en bénéficient\"",
       "title": "VRAI OU FAUX. Est-il vrai que \"70% des Français sont éligibles\" à ...",
